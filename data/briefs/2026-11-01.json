@@ -1,0 +1,282 @@
+{
+ "date": "2026-11-01",
+ "generated_at": "2026-11-01T14:43:49Z",
+ "stories": [
+  {
+   "lead": "65ebca46b9f1",
+   "score": 20.82,
+   "count": 12,
+   "sources": [
+    "Anadolu Ajansı",
+    "FourWeekMBA",
+    "Global Times",
+    "Guangdong News",
+    "Martin Cid Magazine",
+    "Seoul Economic Daily",
+    "South China Morning Post",
+    "Tekedia",
+    "The Apple Post",
+    "Türkiye Today",
+    "WeRSM",
+    "Yeni Şafak English"
+   ],
+   "related": [
+    "10e2a5c14085",
+    "36f325a27ebe",
+    "69b198219f0a",
+    "1265436462c2",
+    "88f8a0310858",
+    "6e945eaaaac7",
+    "198fa092718b",
+    "70f3087e844a"
+   ],
+   "title": "Alibaba's Qwen AI model to integrate into Apple Intelligence in landmark partnership",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CejlKYXk2TUlSNGZndHNhdWphbDVXQXBraHd4SWZobWJ3SWZNX09KcXVEOWhxa3cwZ011Q1pPSlp4MU4xSklhazNXTy1qRlVUdVlTSk5SZ09zaEFvajNmNjJnTC1Ndw?oc=5"
+  },
+  {
+   "lead": "971d1b7a76cf",
+   "score": 8.88,
+   "count": 5,
+   "sources": [
+    "Bloomberg.com",
+    "BusinessToday Malaysia",
+    "MarkTechPost",
+    "South China Morning Post",
+    "헤럴드경제"
+   ],
+   "related": [
+    "27b795372c03",
+    "c305efc38ee0",
+    "81f16c0ab5c1",
+    "5d320b39b405"
+   ],
+   "title": "DeepSeek unveils AI ‘super agent’ in coding race with OpenAI, Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFU5NlZJMVBaQ0txUnotazkwaWdmQzJwb3JvWUY4dTFHd2VERGZtdVJiMmxaTG9vR0pjZjFLOXZoZVRfRlFFZzM3dV81VVM3RDZLckQxZ01nc2ZFWGVvQlVoalk3X21iWDdBa29WcWNvblY1YVpGc3hPbDJCVVA3a2d2YVJDbFlZRUdkZ0NXTHplVTlEUGJ6RVBXTXZ1bWQ5eVRNNtIBpAFBVV95cUxQY3o3SXYteGFPRF9kQ3psaFZaTDJHMzhibnhoVE5LdjhGVUxkN2VBNnVuNHd2XzhodEpYLTRyMzhRcXNpWjY4SjBhMmdzek1oN0ZGRnh6RU5aWm12QUxYdDVvaktJUUU2UE1QVVdXUzhvdHFPZ0FrOHpOODJNQUlHYm5DSlI3aW8wS0dpMHFDWTNfNGpQeS0wYnU1TkIxbmtxVGRfSw?oc=5"
+  },
+  {
+   "lead": "5d17fefb4858",
+   "score": 8.64,
+   "count": 5,
+   "sources": [
+    "BigGo Finance",
+    "Bloomberg.com",
+    "NDTV Profit",
+    "The Business Times",
+    "Yahoo Finance"
+   ],
+   "related": [
+    "70cad0c627fb",
+    "b8623126d886",
+    "9b3ead2f115d",
+    "9e01f05af64d"
+   ],
+   "title": "South Korea exports extend robust growth on AI-fuelled chip boom",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPM21lSlRCaE1PTXN2UVlPUElodjZmcVhmaUlPTFU1QUlfV0tuX192LU9ZUmVQYWZoa19IYWYzV2RET0JJV2FkVi1kR0RYLUdCQmRuU2piTmllM3A0dlIycUpKcFNCbFgyRzVySlNJcWFCbUVXQmNUMlZNanNaOHUtU3BCcVZWcmo2c3Q3WlJVaTh3eG1SYUlrbmRnb2wyb1dxcXhFQzQwOUx1TjE3Y2J4YzhQamw4N0NNOERoZnhVSHlocFdlVGo4SlVR?oc=5"
+  },
+  {
+   "lead": "71145972f162",
+   "score": 7.91,
+   "count": 4,
+   "sources": [
+    "Hacker News",
+    "Mashable",
+    "Tom's Hardware"
+   ],
+   "related": [
+    "a8558ab8e981",
+    "94697ec49ac5",
+    "17715f9f4e07"
+   ],
+   "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
+   "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering"
+  },
+  {
+   "lead": "21a340ff67ad",
+   "score": 5.1,
+   "count": 2,
+   "sources": [
+    "Hacker News",
+    "r/LocalLLaMA"
+   ],
+   "related": [
+    "f9b8a9efbf26"
+   ],
+   "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkxt7a/memdoor_a_team_of_5_qwen3827b_models_beats_fable/"
+  },
+  {
+   "lead": "c1759b401ffc",
+   "score": 4.5,
+   "count": 2,
+   "sources": [
+    "Hacker News",
+    "Wired"
+   ],
+   "related": [
+    "5b0ac3b976a1"
+   ],
+   "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+   "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/"
+  },
+  {
+   "lead": "761e5e0baaa4",
+   "score": 3.41,
+   "count": 1,
+   "sources": [
+    "Hacker News"
+   ],
+   "related": [],
+   "title": "The AI cost of JavaScript frameworks",
+   "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/"
+  },
+  {
+   "lead": "9f56e268b05e",
+   "score": 3.4,
+   "count": 2,
+   "sources": [
+    "TechCrunch",
+    "The Economic Times"
+   ],
+   "related": [
+    "9e3755b8a3fc"
+   ],
+   "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+   "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+  },
+  {
+   "lead": "c10fef6ec816",
+   "score": 3.27,
+   "count": 3,
+   "sources": [
+    "TechCrunch",
+    "Yahoo Finance"
+   ],
+   "related": [
+    "8f5ebd02c356",
+    "3281c3d88047"
+   ],
+   "title": "OpenAI reportedly lowers funding target for new round",
+   "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
+  },
+  {
+   "lead": "b112e6ada6a0",
+   "score": 3.22,
+   "count": 2,
+   "sources": [
+    "Hacker News",
+    "WSJ"
+   ],
+   "related": [
+    "64b1cfc1c151"
+   ],
+   "title": "OpenAI raises less than half of $30B target",
+   "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5"
+  }
+ ],
+ "papers": [
+  {
+   "id": "c8f4db4ef10f",
+   "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
+   "url": "https://huggingface.co/papers/2610.39302",
+   "upvotes": 60
+  },
+  {
+   "id": "d29a393655a1",
+   "title": "L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory",
+   "url": "https://huggingface.co/papers/2610.40614",
+   "upvotes": 39
+  },
+  {
+   "id": "83164272268b",
+   "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
+   "url": "https://huggingface.co/papers/2610.40647",
+   "upvotes": 24
+  },
+  {
+   "id": "929ef2bf1b43",
+   "title": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+   "url": "https://huggingface.co/papers/2610.40599",
+   "upvotes": 23
+  },
+  {
+   "id": "13b40bac05ea",
+   "title": "Intrinsic Distribution Matching",
+   "url": "https://huggingface.co/papers/2610.39633",
+   "upvotes": 18
+  },
+  {
+   "id": "995c90cb5d11",
+   "title": "Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities",
+   "url": "https://huggingface.co/papers/2610.39301",
+   "upvotes": 13
+  }
+ ],
+ "models": [
+  {
+   "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+   "org": "deepseek-ai",
+   "task": "image-text-to-text",
+   "likes": 4175,
+   "downloads": 170353,
+   "trending": 712,
+   "created": "2026-10-17T02:40:38.000Z",
+   "license": "mit"
+  },
+  {
+   "id": "Nanbeige/Nanbeige4.3-33B",
+   "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+   "org": "Nanbeige",
+   "task": "text-generation",
+   "likes": 961,
+   "downloads": 15795,
+   "trending": 685,
+   "created": "2026-10-24T02:49:18.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "LiquidAI/LFM3-1.7B",
+   "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+   "org": "LiquidAI",
+   "task": "text-generation",
+   "likes": 659,
+   "downloads": 37568,
+   "trending": 614,
+   "created": "2026-10-23T21:35:42.000Z",
+   "license": "other"
+  },
+  {
+   "id": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+   "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+   "org": "nvidia",
+   "task": "automatic-speech-recognition",
+   "likes": 574,
+   "downloads": 29364,
+   "trending": 532,
+   "created": "2026-10-07T22:50:21.000Z",
+   "license": "other"
+  },
+  {
+   "id": "mistralai/Mistral-Large-4-1T-A52B",
+   "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+   "org": "mistralai",
+   "task": "image-text-to-text",
+   "likes": 1422,
+   "downloads": 4576,
+   "trending": 460,
+   "created": "2026-09-30T18:35:13.000Z",
+   "license": "other"
+  },
+  {
+   "id": "baidu/Unlimited-OCR-2",
+   "url": "https://huggingface.co/baidu/Unlimited-OCR-2",
+   "org": "baidu",
+   "task": "image-text-to-text",
+   "likes": 496,
+   "downloads": 109519,
+   "trending": 432,
+   "created": "2026-10-26T03:57:46.000Z",
+   "license": "mit"
+  }
+ ]
+}
