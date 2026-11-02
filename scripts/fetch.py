@@ -14,6 +14,7 @@ Only the standard library is needed. If ANTHROPIC_API_KEY is set and the
 
 import concurrent.futures as cf
 import email.utils
+import gzip
 import hashlib
 import html
 import json
@@ -52,7 +53,11 @@ def http_get(url, accept=None, headers=None, timeout=25):
     for attempt in range(2):
         try:
             with urllib.request.urlopen(req, timeout=timeout) as r:
-                return r.read()
+                body = r.read()
+            # some CDNs (e.g. DeepMind's) send gzip even when it wasn't asked for
+            if body[:2] == b"\x1f\x8b":
+                body = gzip.decompress(body)
+            return body
         except Exception as e:  # noqa: BLE001 - any network error just means "retry once, then skip"
             last = e
             time.sleep(2 + attempt * 3)

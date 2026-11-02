@@ -34,11 +34,12 @@ FEEDS = [
     {"name": "VentureBeat", "url": "https://venturebeat.com/category/ai/feed/", "kind": "news", "weight": 2},
 
     # --- Newsletters and analysts ---
-    {"name": "Import AI", "url": "https://importai.substack.com/feed", "kind": "newsletter", "weight": 2},
+    # Substack blocks GitHub's servers, so these two use their WordPress copies
+    {"name": "Import AI", "url": "https://jack-clark.net/feed/", "kind": "newsletter", "weight": 2},
     {"name": "Simon Willison", "url": "https://simonwillison.net/atom/everything/", "kind": "newsletter", "weight": 1},
     {"name": "Latent Space", "url": "https://www.latent.space/feed", "kind": "newsletter", "weight": 2},
     {"name": "Interconnects", "url": "https://www.interconnects.ai/feed", "kind": "newsletter", "weight": 2},
-    {"name": "Zvi Mowshowitz", "url": "https://thezvi.substack.com/feed", "kind": "newsletter", "weight": 1},
+    {"name": "Zvi Mowshowitz", "url": "https://thezvi.wordpress.com/feed/", "kind": "newsletter", "weight": 1},
     {"name": "One Useful Thing", "url": "https://www.oneusefulthing.org/feed", "kind": "newsletter", "weight": 1},
 
     # --- Community ---
