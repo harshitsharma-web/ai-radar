@@ -1,13 +1,15 @@
 {
  "date": "2026-11-02",
- "generated_at": "2026-11-02T12:47:43Z",
+ "generated_at": "2026-11-02T13:15:59Z",
  "stories": [
   {
-   "lead": "5278eb0a1a30",
-   "score": 19.44,
-   "count": 11,
+   "lead": "937436222cea",
+   "score": 21.48,
+   "count": 12,
    "sources": [
+    "AI Insider",
     "Businesskorea",
+    "Dataconomy",
     "Global Sources",
     "Guangdong News",
     "Qazinform",
@@ -15,26 +17,51 @@
     "Tech Wire Asia",
     "Technology Org",
     "Tekedia",
-    "The Economic Times",
     "Türkiye Today",
     "Yeni Şafak English"
    ],
    "related": [
+    "5a73851e5422",
     "8af41d21a945",
     "8eca584c665d",
     "f7bdb29dc250",
     "62c29cae10da",
     "668a24fa148f",
     "65ebca46b9f1",
-    "10e2a5c14085",
-    "36f325a27ebe"
+    "10e2a5c14085"
    ],
-   "title": "First Apple Intelligence features land in China, with Alibaba’s Qwen on board",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRWtyWWpuMG1FM0thLV9sRThYSTdNdkltQWM0XzBhaDVraXd2Z3pDa2VWNzdnLXN5emRpUEk2a3A3Uk1hSTBoR2p2OGVQVW1oa1dsaU96QkZuQUdXQ01jMUhEQnhnR0QzRl8wc2tpNHBJUFhHVTV6N0FoMUdfRzVZNTlmdEtueDE1N0JoYm8yWWZxbElLOWRldVRZTlJIaXdvbWJqNDZFTDExVUJsYzZBUjB1QkxJek1ETnJuUWs3MmNTN3pQZUw2RHNEbGI4a2F3V1RVUHZvZlkyZWM3M2fSAeMBQVVfeXFMUEtLbXpQSElOa1NXY1Mxa1RwMDUtR2hVNHk4OUxFcU0xa05YTC1vVTkwMnlyQ1Q1RHh0R2t3RldpcU4yTi1NYjBtQ2ZnV3kwLTlSc3Y2MVZyQS0wTkM0N2o2Z01qaWFtTGR3aUFqZTdjMXRTc3dzbTFsRGFaSENVcWNtdnJ1ZmtsNG4xRm9obXppb3Z2T3J6eU1TUlpxMFRJSm9SSjV3SHVHcDJlVWVFRTR0RElwcmZTenBLak0tYWQ3TXIxUW8tSGVFUDNIblhkelRnYUJjczRjRUxZSnZqakNNZ1E?oc=5"
+   "title": "The Week Ahead in AI: Upcoming Earnings Including Apple, AMD, Qualcomm, Plus Apple Intelligence Launches in China & Meta, Fourier Team for Research Humanoid",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPaWVNTm5MdWRyWWNxRXk1UVhRcDVGQmpkT0kyV3hSTWUzbGQwTE9ZX3pQN3UyUnhrUlphRUM4c1Q0TEZza1hSUXN3ZTlUanNUY1V6RWdqN19SM3FLQ3U0TWNfbTA0Tjk1Q1l1LWFNTjhsUDY0eExkTHBYYXlKYmlGNE5GVXpnREhvQTZnX1p5Y0dyU3pJQi00MjF4MHpNMm9KYUZzdFB4RXJBUUdWUzM1NnRtVVJOLThuT0IzYmFPbWRrcTE3S245VTN6bVNaRk5UNFNRQzhWM3MtVHhrWFRTV2tEbXVIMmpLSU9fNE1xaGQ4OTR5b1k4MldQSk1melQ1VVBlNVZnQkhCWUZEWWVTNVZuTFVqZw?oc=5"
+  },
+  {
+   "lead": "6b8bbde94ae6",
+   "score": 14.86,
+   "count": 8,
+   "sources": [
+    "Anadolu Ajansı",
+    "Forbes",
+    "India Today",
+    "Pasquale Pillitteri",
+    "Startup Fortune",
+    "Tesla Accessories",
+    "Yeni Şafak English",
+    "varindia"
+   ],
+   "related": [
+    "5f1fa0eeeed7",
+    "8dcb993f4ae2",
+    "59d6bfb6e402",
+    "8b63ae1ae257",
+    "ec8da25fdc9f",
+    "4617b9f1847e",
+    "c0ffdaf7057b"
+   ],
+   "title": "Elon Musk says running Grok AI costs more than it earns",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMk00N21idlRsTlFlNU9EU01wNXNabmJwQkc5X3NOYl9XZ1M2UmVCcVhLMzhudHVHMkw0N2xhdXZzbjJmSEdjWEFTOUlZUkRxbkpqUEZ3NThydmo5bllac0JUNXBJT0o4TVVzSXByQmVQZ3k0b1Q1MXNKSXhycFIzU3AwRHNYZGpXWmdHY3J3?oc=5"
   },
   {
    "lead": "66d290ad0ebb",
-   "score": 13.26,
+   "score": 13.19,
    "count": 8,
    "sources": [
     "Bloomberg",
@@ -59,50 +86,60 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcEhsNEowbVc4Y1JsWmNiOTFwS3JHaFNCM3FvSEQtUV9keEFhdm41aTBUU2tGY2NvV2VpMjh2LXBudVVLcm5oYUNOOVFsaUdJUW5RbE9IQ2M3Yi1WeTU2a0xRX0RVYlY5OWoxR0RVOGVJa2dxTzdpbVVMd2dsM3dsQ2dBQ01GQXlNSHpmVVFpaGZiQUgwZUs0?oc=5"
   },
   {
-   "lead": "95ebc51dfc8e",
-   "score": 10.65,
-   "count": 6,
+   "lead": "bb4ee178f788",
+   "score": 7.55,
+   "count": 4,
    "sources": [
-    "Anadolu Ajansı",
-    "Dealroom",
-    "India Today",
-    "Startup Fortune",
-    "Tesla Accessories",
-    "Yeni Şafak English"
+    "PR Newswire",
+    "Stock Titan",
+    "The Globe and Mail",
+    "TradingView"
    ],
    "related": [
-    "59d6bfb6e402",
-    "8b63ae1ae257",
-    "ec8da25fdc9f",
-    "4617b9f1847e",
-    "c0ffdaf7057b"
+    "80e5ab66e124",
+    "4c8d2221036e",
+    "03227cd46880"
    ],
-   "title": "Musk: serving Grok Bot was 'unsustainably high relative to revenue' as paying users hit weekly limits days early",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYXpvcTZlVnlLckV5VGxIclhPNXU0Y1AwcW51UlN0bmpFSGJzTEtMazZ3ZDNQa2VnOE5DN3hjcXBBdm1mN1R4VFJadVFoN2RHVlNzZl9pbmRQYnNndHY1OWU5WTU3MWpTdnZLMXFxNFotRXdmWFY4ajk0WEhlcVVuOVdHNGNRNmM5UzVfZkFEU2pvdzlUUWlScEhTOUxpMnU0aWFBUXF6MDhzbWdDMnZJQnpGSGZnQmR5ZEgtdEpiaUNMYk1IRU1CZHlrNldvU3Rta1R3QjdSNU85Z1U?oc=5"
+   "title": "Clarivate to Bring Trusted Trademark Data into Microsoft Copilot Through IPOne",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTkg1MHZXWk80MTE4bC1vWFQ1UTl3YWpBQlhPVEVfdndDXzN2bFpoY1h5NFVjazdnUDMxb3lDbElsQ08wdFJ6RTFjcEM0dk1PWG96Q2tGMXk2azE5b3pMNHEwRGFUeTJ1UllRWTFnVjNFT1IyN1czOW8tb3BBV2ZTbjdIOVNGZ3RoYjhnLWJOamh2Z0FVVnNERmJwT1diN1V4WEhfRE5USHJJT0J5Mm04a21RVlQ0aXpJX0ViSGd3d3BhMkNhQk5EWjdMT25ORWNVcWFzZkNOT1hzVll0M1dfUnI4T01CSGg3X3Jnc2JaUGZJeXBTMkhlVg?oc=5"
   },
   {
    "lead": "ab25b6d2123b",
-   "score": 7.23,
-   "count": 5,
+   "score": 5.63,
+   "count": 4,
    "sources": [
     "Bloomberg",
     "Global Times",
     "The Business Times",
-    "The Star",
-    "Yahoo Finance"
+    "The Star"
    ],
    "related": [
     "dfe76f3c04c3",
     "5d17fefb4858",
-    "b8623126d886",
-    "9e01f05af64d"
+    "b8623126d886"
    ],
    "title": "Exports extend robust growth on AI chip boom",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdFZWaVlhdVlnUUJIRnhjWkR2eHNxaTJ4enNEZjNXajZlYXhWbUJvTHdham01eWk0T3ExREx0N1N0SVJpSkZLUXZXTGVjcWtZR0hlVlFGZkVDbzJPa1ZzYU5SbDBiRV9XVUl4UDA1RE9mLURZbE9QNUhfQ0FEYXh2bnNKdGxUNTdsY05FVFN3aG5Gcm9KUC1OYlRwRk9fSUF6cDBvcmNhbw?oc=5"
   },
   {
+   "lead": "f82dcde4438a",
+   "score": 5.32,
+   "count": 3,
+   "sources": [
+    "CNBC",
+    "Quiver Quantitative",
+    "Reuters"
+   ],
+   "related": [
+    "eb277a485008",
+    "4707b1448cc1"
+   ],
+   "title": "Marvell to Acquire Lumentum in $115 Billion All-Stock AI Infrastructure Deal",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX21TM0djQnNiTTJWanZPMkc0cTRRcDFMQnFzWHBYbGRvMWRSUjVNZ0ZsdHBJZGE0ZUlnN3BWZmhCQ2g3OTNNcmdKMjNseHZGdW1jWFhBd01SVUpqQ1B2ZmY5d2U1VS1NaTltTDY4YjF0bUJCRkxxLXNWbVdKcUNjbGR3TWVTS3ozVXpFSDI0WkdMTGxoQlI3bE5DdmZCV3NpSW1FNGRMek52cDZqWkRtaw?oc=5"
+  },
+  {
    "lead": "4646acabfb95",
-   "score": 5.06,
+   "score": 5.02,
    "count": 3,
    "sources": [
     "Dealroom",
@@ -118,7 +155,7 @@
   },
   {
    "lead": "4de42c0df9ea",
-   "score": 4.54,
+   "score": 4.51,
    "count": 3,
    "sources": [
     "BeInCrypto",
@@ -133,8 +170,24 @@
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3YTNMMFJqUk51THVJUENUMWZVMW9XY1VSVVdlYW4xR3VvdUlueXFhTHhRbzRWbk5mSlE4SlloNnRMRVRLYS1Gc0VIa2p5X1ZWcExzR2MzQmNDWTcyWFBsZDJjT1hqQm9Cbk52OXk2YkVXZklk?oc=5"
   },
   {
+   "lead": "13ce3d906e85",
+   "score": 4.48,
+   "count": 3,
+   "sources": [
+    "France 24",
+    "Wccftech",
+    "Yahoo Finance"
+   ],
+   "related": [
+    "ff849b0d4641",
+    "9e01f05af64d"
+   ],
+   "title": "AI Memory Boom Puts South Korea $70 Billion Away From $1 Trillion In Exports; Chips Now Make Up 49% Of Shipments While Small Businesses Struggle",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWUhKMExJeWxvNmZtQkhTcFZ2SmUzemdzMjdiajZkMjMzeEt3aEhGc0dGUnQ5d01ubWEwQjBMU0R6MDI3TnlYTjROV040ZHdqMm93azVqYjBxT2FvMDdOS0xxd3l2dDJKSFlUclpUMlN5cHV0VE1FdWRpbE9LcS1CMnJndzM1LTZjUEhNdXNwUkltaHJFZ2kzUVkzaGhCT3M?oc=5"
+  },
+  {
    "lead": "aedbbda9f8c6",
-   "score": 4.03,
+   "score": 4.01,
    "count": 3,
    "sources": [
     "EdTech Innovation Hub",
@@ -147,48 +200,6 @@
    ],
    "title": "Google introduces Gemini 4 Carbon with early access for cybersecurity defenders",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR3ZvTFhOSFZhWVgtd0gzYmF2WG9LU3ZSUkthd1VxZlhGbnh0VTRac1RCcmc5dTRhcjRXTHdsbVRhamdDdWwybXA3bURwQk9TNVBIQTVtVjFmUWhRY1ZnZVpBRE51cEdsS2s3THlpeS1fNHJGLWp1TWlMQlJIY1RSVFBUVXVLVHdlMVRhVE84RVFWanJfYkxGdlRaa0Z5LWdFaEpOWWpvTlQyc1VCWndNUXNPN2dtU3E0RDhHTA?oc=5"
-  },
-  {
-   "lead": "0dbf0226aa90",
-   "score": 3.86,
-   "count": 3,
-   "sources": [
-    "Business Insider",
-    "TechCrunch"
-   ],
-   "related": [
-    "fa6d7f723581",
-    "a993902dfb87"
-   ],
-   "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-   "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
-  },
-  {
-   "lead": "33099cff3987",
-   "score": 3.65,
-   "count": 4,
-   "sources": [
-    "shattered.io",
-    "tech-insider.org"
-   ],
-   "related": [
-    "338bb5fe3de4",
-    "e8a3377a5b07",
-    "0d40cc462ea9"
-   ],
-   "title": "India DEPA AI: Models Travel to Data of 1.4B People [2026]",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeGpfYVM3ejZJZnBRTjYtNXJtU016ZzhUQU1SZTctQW53QWh0WHdPNkxpNWZ6NFhYaFpzOE1zd3BDUWpTOTBabG5HYWw3Q1VrUTFWQ2JvZFBMcElmSW9palJxV3d1Z1BacTRkSVJSZVpKMFlCdU40MXl6ZTRGcWJLWm05Y0E4TUpQLTFIb1pBV0RuUQ?oc=5"
-  },
-  {
-   "lead": "ca130899e453",
-   "score": 3.26,
-   "count": 1,
-   "sources": [
-    "Hacker News"
-   ],
-   "related": [],
-   "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-   "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/"
   }
  ],
  "papers": [
@@ -202,7 +213,7 @@
    "id": "2ac65ca10a13",
    "title": "No Channels Left Behind: Understanding Diffusion Acceleration through Residual Gates",
    "url": "https://huggingface.co/papers/2610.40914",
-   "upvotes": 15
+   "upvotes": 16
   },
   {
    "id": "cadfe6e3a5b5",
@@ -235,9 +246,9 @@
    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
    "org": "deepseek-ai",
    "task": "image-text-to-text",
-   "likes": 4585,
+   "likes": 4595,
    "downloads": 177009,
-   "trending": 696,
+   "trending": 694,
    "created": "2026-10-17T02:40:38.000Z",
    "license": "mit"
   },
@@ -246,9 +257,9 @@
    "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
    "org": "LiquidAI",
    "task": "text-generation",
-   "likes": 774,
+   "likes": 778,
    "downloads": 42384,
-   "trending": 680,
+   "trending": 683,
    "created": "2026-10-23T21:35:42.000Z",
    "license": "other"
   },
@@ -257,9 +268,9 @@
    "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
    "org": "nvidia",
    "task": "automatic-speech-recognition",
-   "likes": 639,
+   "likes": 642,
    "downloads": 32439,
-   "trending": 571,
+   "trending": 574,
    "created": "2026-10-07T22:50:21.000Z",
    "license": "other"
   },
@@ -290,9 +301,9 @@
    "url": "https://huggingface.co/Lightricks/LTX-2.5",
    "org": "Lightricks",
    "task": "image-to-video",
-   "likes": 10282,
+   "likes": 10292,
    "downloads": 2467613,
-   "trending": 373,
+   "trending": 377,
    "created": "2026-07-23T07:55:24.000Z",
    "license": "other"
   }
