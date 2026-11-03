@@ -1,0 +1,288 @@
+{
+ "date": "2026-11-03",
+ "generated_at": "2026-11-03T01:32:41Z",
+ "stories": [
+  {
+   "lead": "272a05aa5da7",
+   "score": 23.42,
+   "count": 13,
+   "sources": [
+    "Anadolu Ajansı",
+    "Dealroom",
+    "Forbes",
+    "India Today",
+    "Pasquale Pillitteri",
+    "Startup Fortune",
+    "TechCrunch",
+    "Tesla Accessories",
+    "The Next Web",
+    "TradingView",
+    "Yahoo Finance",
+    "Yeni Şafak English",
+    "varindia"
+   ],
+   "related": [
+    "8a39e7ed8087",
+    "401a5bd7e42f",
+    "6b8bbde94ae6",
+    "95ebc51dfc8e",
+    "398284656f33",
+    "5f1fa0eeeed7",
+    "8dcb993f4ae2",
+    "59d6bfb6e402"
+   ],
+   "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+   "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/"
+  },
+  {
+   "lead": "b98eb08cd38e",
+   "score": 12.83,
+   "count": 7,
+   "sources": [
+    "CNBC",
+    "CTech",
+    "Investor's Business Daily",
+    "PYMNTS.com",
+    "Quiver Quantitative",
+    "Reuters",
+    "Ynetnews"
+   ],
+   "related": [
+    "088dd60863f4",
+    "eb277a485008",
+    "c8caa46c887c",
+    "89ee93ca6e90",
+    "f82dcde4438a",
+    "4707b1448cc1"
+   ],
+   "title": "Marvell to acquire Lumentum for $115 billion in massive AI infrastructure deal",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04R01WeEZHaG94VHpoT0ZmbG92b0Y0bXJtcUNXcFUzSDM5QzR6U3YwSUpkNDd6UHJiZE1Jbk52MVA3Z2hWaF81Nm1nZzBSb2I3WWxRYlIzYkwzaTVKUEFNYnJ4aw?oc=5"
+  },
+  {
+   "lead": "32cbe84ca0c5",
+   "score": 11.42,
+   "count": 7,
+   "sources": [
+    "Businesskorea",
+    "Computerworld",
+    "Global Sources",
+    "Guangdong News",
+    "Qazinform",
+    "TIKR.com",
+    "Tech Wire Asia"
+   ],
+   "related": [
+    "7c07cde18146",
+    "8eca584c665d",
+    "f7bdb29dc250",
+    "62c29cae10da",
+    "668a24fa148f",
+    "65ebca46b9f1"
+   ],
+   "title": "Alibaba Soars 6% as Apple Sets December Launch for Qwen-Powered iPhone AI in China",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMXVaMHFIamRSS3dBeXZMUFlLT3p5U0plaTJtOXdjY0F4bHoxb0ljZVhJRXRtTTFIUHJ6TkkwTkt3YW0zX29tbXFDRldhNjJ0VGJUWlQxZHZ5VlVKMHBUM1lvYi1QRUFFcHZyQnJkeHVmS2o5ZkJFUnozV1RuQUluV1VVTGFpOUM2RzFtQmtyQ0ZEbnFvSFgyOVctel83c0h4WHp1eG5NRnZ3TEl3?oc=5"
+  },
+  {
+   "lead": "e3f3f6c0c50f",
+   "score": 9.95,
+   "count": 6,
+   "sources": [
+    "BeInCrypto",
+    "CNET",
+    "Engadget",
+    "Game Developer",
+    "The Verge"
+   ],
+   "related": [
+    "3253f6cb0426",
+    "b307f37339f3",
+    "4de42c0df9ea",
+    "06d7b2dc98b6",
+    "62c2eea9fffd"
+   ],
+   "title": "Anthropic clamps down on Claude’s AI video game clones",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones"
+  },
+  {
+   "lead": "f85e5c558a7d",
+   "score": 9.25,
+   "count": 5,
+   "sources": [
+    "BigGo Finance",
+    "Bloomberg.com",
+    "Investing.com",
+    "Mashable",
+    "Unite.AI"
+   ],
+   "related": [
+    "8c564de0062f",
+    "d78aac58b961",
+    "39658b4424ea",
+    "4de017842dfa"
+   ],
+   "title": "DeepSeek Harness' new Creator Mode creates plugins from prompts",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42S1N3NlBTRjBLVlBsbk5FOGNLWUpfYm5rNVhwNUFSdldTNTB6d3FrOFFJVUlhTlVXOW1sSVBSS2RLRWZIanNENEMtVW9vZlJrS3hrMjRfdlR1SUpKdHhGaENzNkVJdw?oc=5"
+  },
+  {
+   "lead": "c7c7eef21fe0",
+   "score": 8.31,
+   "count": 5,
+   "sources": [
+    "PR Newswire",
+    "Stock Titan",
+    "The Globe and Mail",
+    "TradingView",
+    "Unite.AI"
+   ],
+   "related": [
+    "bb4ee178f788",
+    "80e5ab66e124",
+    "4c8d2221036e",
+    "03227cd46880"
+   ],
+   "title": "Clarivate Connects CompuMark Trademark Data to Microsoft Copilot",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZS1BWG1JblVtOW5SNGpwOXVVcnJKZjI2VXlDckZYOGN3MnNfVEZkQW1INnh6UmVpYS1wRHctajdEOUNteWtJamh2c1NmTzBKaGZXYkR3dUIwV0tQMUt3cXpCc1FEampTdm5PY2RheTA2dlN3bjhoMkYtM1FmTm0xdXpWZTh2blc3WDM5NEg5Zw?oc=5"
+  },
+  {
+   "lead": "03ea13630646",
+   "score": 6.91,
+   "count": 2,
+   "sources": [
+    "Hacker News",
+    "r/MachineLearning"
+   ],
+   "related": [
+    "38c41eb0ed98"
+   ],
+   "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xm89ef/sparks_of_weightspace_programming_llms_can/"
+  },
+  {
+   "lead": "d878af2a6728",
+   "score": 5.19,
+   "count": 2,
+   "sources": [
+    "Financial Times",
+    "Hacker News"
+   ],
+   "related": [
+    "31c85384866c"
+   ],
+   "title": "Anthropic reveals $900B AI spending commitments ahead of IPO",
+   "url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f"
+  },
+  {
+   "lead": "0dbf0226aa90",
+   "score": 5.1,
+   "count": 4,
+   "sources": [
+    "Business Insider",
+    "TechCrunch",
+    "Tom's Hardware"
+   ],
+   "related": [
+    "b0930b9f8ca4",
+    "fa6d7f723581",
+    "a993902dfb87"
+   ],
+   "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+   "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
+  },
+  {
+   "lead": "dc6c7ef2ed74",
+   "score": 4.76,
+   "count": 2,
+   "sources": [
+    "TechCrunch",
+    "The Verge"
+   ],
+   "related": [
+    "a437782712b7"
+   ],
+   "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+   "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times"
+  }
+ ],
+ "papers": [
+  {
+   "id": "7d6ca3e81107",
+   "title": "REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum Control",
+   "url": "https://huggingface.co/papers/2610.42053",
+   "upvotes": 44
+  },
+  {
+   "id": "cadfe6e3a5b5",
+   "title": "ReLift: Dense 3D Tracking as Lifted Trajectory Repair",
+   "url": "https://huggingface.co/papers/2610.42136",
+   "upvotes": 22
+  }
+ ],
+ "models": [
+  {
+   "id": "LiquidAI/LFM3-1.7B",
+   "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+   "org": "LiquidAI",
+   "task": "text-generation",
+   "likes": 1063,
+   "downloads": 42384,
+   "trending": 751,
+   "created": "2026-10-23T21:35:42.000Z",
+   "license": "other"
+  },
+  {
+   "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+   "org": "deepseek-ai",
+   "task": "image-text-to-text",
+   "likes": 4704,
+   "downloads": 177009,
+   "trending": 677,
+   "created": "2026-10-17T02:40:38.000Z",
+   "license": "mit"
+  },
+  {
+   "id": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+   "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+   "org": "nvidia",
+   "task": "automatic-speech-recognition",
+   "likes": 684,
+   "downloads": 32439,
+   "trending": 609,
+   "created": "2026-10-07T22:50:21.000Z",
+   "license": "other"
+  },
+  {
+   "id": "mistralai/Mistral-Large-4-1T-A52B",
+   "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+   "org": "mistralai",
+   "task": "image-text-to-text",
+   "likes": 1501,
+   "downloads": 5500,
+   "trending": 503,
+   "created": "2026-09-30T18:35:13.000Z",
+   "license": "other"
+  },
+  {
+   "id": "baidu/Unlimited-OCR-2",
+   "url": "https://huggingface.co/baidu/Unlimited-OCR-2",
+   "org": "baidu",
+   "task": "image-text-to-text",
+   "likes": 562,
+   "downloads": 147588,
+   "trending": 466,
+   "created": "2026-10-26T03:57:46.000Z",
+   "license": "mit"
+  },
+  {
+   "id": "speridlabs/idol",
+   "url": "https://huggingface.co/speridlabs/idol",
+   "org": "speridlabs",
+   "task": "image-to-3d",
+   "likes": 419,
+   "downloads": 7787,
+   "trending": 400,
+   "created": "2026-10-28T15:55:17.000Z",
+   "license": "apache-2.0"
+  }
+ ]
+}
