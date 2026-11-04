@@ -1,0 +1,287 @@
+{
+ "date": "2026-11-04",
+ "generated_at": "2026-11-04T01:32:11Z",
+ "stories": [
+  {
+   "lead": "0eaf3e3a7544",
+   "score": 15.89,
+   "count": 7,
+   "sources": [
+    "AppleInsider",
+    "Bloomberg.com",
+    "Hacker News",
+    "NBC News",
+    "The New York Times",
+    "The Verge"
+   ],
+   "related": [
+    "08d0aaac5f5d",
+    "411676d46888",
+    "bb657af615e1",
+    "71805709ded8",
+    "b1291843de8d",
+    "eadaa378c2b5"
+   ],
+   "title": "Google is entirely disabling Search in schools that don’t want AI",
+   "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features"
+  },
+  {
+   "lead": "ba33a201c870",
+   "score": 10.72,
+   "count": 7,
+   "sources": [
+    "Bloomberg.com",
+    "Dataconomy",
+    "Investing.com",
+    "Mashable",
+    "Quartz",
+    "Unite.AI",
+    "X"
+   ],
+   "related": [
+    "346644c3e7be",
+    "f85e5c558a7d",
+    "d78aac58b961",
+    "39658b4424ea",
+    "fa442fbfc375",
+    "4de017842dfa"
+   ],
+   "title": "DeepSeek Launches Creator Mode for Custom AI Plugins",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qSUNVSVZBeURDa2p0RzNzX0dkYTJOSkx3RWpBSlhaQXNzVThWaks0MWd1WHBDM0tUSTQxVURVTnlGRXFsSkNfQ0xzYkR6ZjdxZUJvY2ctYw?oc=5"
+  },
+  {
+   "lead": "360a3a5d8e13",
+   "score": 8.59,
+   "count": 4,
+   "sources": [
+    "Hacker News",
+    "Latent Space",
+    "r/MachineLearning"
+   ],
+   "related": [
+    "1f342a9cec88",
+    "03ea13630646",
+    "38c41eb0ed98"
+   ],
+   "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
+   "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/"
+  },
+  {
+   "lead": "6f9347d0ace0",
+   "score": 8.59,
+   "count": 5,
+   "sources": [
+    "9to5Mac",
+    "AppleInsider",
+    "Computerworld",
+    "MacRumors",
+    "Mezha.net"
+   ],
+   "related": [
+    "636879c14d90",
+    "522727597f42",
+    "4d756ff0fbb6",
+    "7c07cde18146"
+   ],
+   "title": "Apple Intelligence arrives in China via iOS 27.3 developer beta",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWk5OdUY1U1YzdTBNX3NwQm1MQmJsUzE5a1F3RUVRQmpoMUZIVFM3QlZEVlI3T3p1QlJhdVptMmc4dXVwRGFpdjdwLUxOZFB1Q3pYLWZrUVhXWW8xb29fTXRYLTluLW00RmpENkZ0SGhUNmpudFpaZy0yRmQ5QTBOWU1raGE3azcyOTlfR3lSQ3BtYVRCSlJ3XzAzYkdScmF5OE5EZHhvNUM?oc=5"
+  },
+  {
+   "lead": "42ec3b43220b",
+   "score": 6.64,
+   "count": 4,
+   "sources": [
+    "Bloomberg.com",
+    "TechCrunch",
+    "The Tech Buzz"
+   ],
+   "related": [
+    "82044f7748b6",
+    "2f0874f0c402",
+    "c593ff1d39e3"
+   ],
+   "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+   "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
+  },
+  {
+   "lead": "d9207abdf708",
+   "score": 5.78,
+   "count": 4,
+   "sources": [
+    "CTech",
+    "EE Times Asia",
+    "Investor's Business Daily",
+    "PYMNTS.com"
+   ],
+   "related": [
+    "088dd60863f4",
+    "c8caa46c887c",
+    "89ee93ca6e90"
+   ],
+   "title": "Marvell to Expand AI Connectivity Portfolio with Lumentum Acquisition",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZUFLRFRzZnQ3YlpaX1prcGlyRjFBSTBndkpTSThWLURkZFZnMGVHNEEwVTNyVHhUTFhSMF9xcjkzVk5qeVluX1dRWGJ0QUUyQzBPVERmVUZXSmxuWGVpaDYzZHJuWURBbTd1S25HSkRUa3hZM1lwY1VOZlk1aDdOcEJ6TC1sNFVBVGkxTzQ4TklfMm91NXUzYlpB?oc=5"
+  },
+  {
+   "lead": "e3f3f6c0c50f",
+   "score": 4.92,
+   "count": 4,
+   "sources": [
+    "CNET",
+    "The Decoder",
+    "The Verge"
+   ],
+   "related": [
+    "da5544d85342",
+    "3253f6cb0426",
+    "b307f37339f3"
+   ],
+   "title": "Anthropic clamps down on Claude’s AI video game clones",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones"
+  },
+  {
+   "lead": "c65f77dcf81d",
+   "score": 4.45,
+   "count": 2,
+   "sources": [
+    "TechCrunch",
+    "The Verge"
+   ],
+   "related": [
+    "36315b3cb5b6"
+   ],
+   "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
+   "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations"
+  },
+  {
+   "lead": "da9a5824109f",
+   "score": 4.39,
+   "count": 1,
+   "sources": [
+    "Hacker News"
+   ],
+   "related": [],
+   "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+   "url": "https://github.com/postmanlabs/postman-app-support/issues/14370"
+  },
+  {
+   "lead": "ba273efe94ab",
+   "score": 4.37,
+   "count": 2,
+   "sources": [
+    "Ars Technica",
+    "TechCrunch"
+   ],
+   "related": [
+    "f3b71b18e198"
+   ],
+   "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+   "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"
+  }
+ ],
+ "papers": [
+  {
+   "id": "2d52e97e8a16",
+   "title": "Advances in Agentic Computer Graphics",
+   "url": "https://huggingface.co/papers/2611.01860",
+   "upvotes": 111
+  },
+  {
+   "id": "eed1f589970e",
+   "title": "CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements",
+   "url": "https://huggingface.co/papers/2611.03126",
+   "upvotes": 92
+  },
+  {
+   "id": "9978900b6441",
+   "title": "CoworkOS:Scaling Agent Coworkers for Real-world Automation",
+   "url": "https://huggingface.co/papers/2611.03178",
+   "upvotes": 88
+  },
+  {
+   "id": "37f83cfc4111",
+   "title": "Democratizing Robot-Use Agents: A Unified Harness with Open Models",
+   "url": "https://huggingface.co/papers/2611.01560",
+   "upvotes": 42
+  },
+  {
+   "id": "a9e93a6c8692",
+   "title": "SWE-Trail: History-Guided Trajectory Collection for Coding Agent Training",
+   "url": "https://huggingface.co/papers/2611.02074",
+   "upvotes": 34
+  },
+  {
+   "id": "a3dce92c4693",
+   "title": "NorthCUA Technical Report: Turbocharging Computer-Use Agents through Experience at Scale",
+   "url": "https://huggingface.co/papers/2611.02102",
+   "upvotes": 30
+  }
+ ],
+ "models": [
+  {
+   "id": "LiquidAI/LFM3-1.7B",
+   "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+   "org": "LiquidAI",
+   "task": "text-generation",
+   "likes": 1405,
+   "downloads": 47817,
+   "trending": 704,
+   "created": "2026-10-23T21:35:42.000Z",
+   "license": "other"
+  },
+  {
+   "id": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+   "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+   "org": "nvidia",
+   "task": "automatic-speech-recognition",
+   "likes": 738,
+   "downloads": 38942,
+   "trending": 654,
+   "created": "2026-10-07T22:50:21.000Z",
+   "license": "other"
+  },
+  {
+   "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+   "org": "deepseek-ai",
+   "task": "image-text-to-text",
+   "likes": 4856,
+   "downloads": 187260,
+   "trending": 621,
+   "created": "2026-10-17T02:40:38.000Z",
+   "license": "mit"
+  },
+  {
+   "id": "mistralai/Mistral-Large-4-1T-A52B",
+   "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+   "org": "mistralai",
+   "task": "image-text-to-text",
+   "likes": 1545,
+   "downloads": 6556,
+   "trending": 530,
+   "created": "2026-09-30T18:35:13.000Z",
+   "license": "other"
+  },
+  {
+   "id": "speridlabs/idol",
+   "url": "https://huggingface.co/speridlabs/idol",
+   "org": "speridlabs",
+   "task": "image-to-3d",
+   "likes": 517,
+   "downloads": 10742,
+   "trending": 492,
+   "created": "2026-10-28T15:55:17.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "Lightricks/LTX-2.5",
+   "url": "https://huggingface.co/Lightricks/LTX-2.5",
+   "org": "Lightricks",
+   "task": "image-to-video",
+   "likes": 10495,
+   "downloads": 2488128,
+   "trending": 382,
+   "created": "2026-07-23T07:55:24.000Z",
+   "license": "other"
+  }
+ ]
+}
