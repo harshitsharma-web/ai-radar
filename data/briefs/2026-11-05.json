@@ -1,0 +1,301 @@
+{
+ "date": "2026-11-05",
+ "generated_at": "2026-11-05T01:38:26Z",
+ "stories": [
+  {
+   "lead": "ac5380eefb5a",
+   "score": 21.03,
+   "count": 12,
+   "sources": [
+    "AppleInsider",
+    "Bloomberg.com",
+    "Breaking News, Latest News and Videos",
+    "CBS News",
+    "CNBC",
+    "Hacker News",
+    "LAmag",
+    "NBC News",
+    "New York Post",
+    "TechCrunch",
+    "The New York Times"
+   ],
+   "related": [
+    "6a504853a875",
+    "23169447e0ac",
+    "50d2a6e6f091",
+    "32bf8e373cd0",
+    "6bea6f77e63f",
+    "08d0aaac5f5d",
+    "9bd602dd2cc5",
+    "bb657af615e1"
+   ],
+   "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+   "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/"
+  },
+  {
+   "lead": "531d4ccf50a9",
+   "score": 16.43,
+   "count": 10,
+   "sources": [
+    "9to5Mac",
+    "AppleInsider",
+    "Dataconomy",
+    "Euronews.com",
+    "MacRumors",
+    "Mezha.net",
+    "Pasquale Pillitteri",
+    "Tech Xplore",
+    "The Mac Observer",
+    "www.tokenpost.com"
+   ],
+   "related": [
+    "063f82cb47c4",
+    "933e9f3687fd",
+    "6069de1ee1df",
+    "ddb6069554b5",
+    "6f9347d0ace0",
+    "636879c14d90",
+    "522727597f42",
+    "4d756ff0fbb6"
+   ],
+   "title": "iOS 27.3 Beta Brings Apple Intelligence to China With Alibaba’s Qwen AI",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZE03X2dYVkt1SUJiSmZuU2VRekhXalgtZVBfcVdwdFc3M3VEYjUtVWxNamhQSjRFeFVVSXhsam1jMVdCajBORlZjUVJpQ0F2SXhzVmZsUWdBNGFSamsyVjZCcklzazh1aTd2TFU5VVJlVk9NeTE3SWh0cEZia2h6NWsyMWRCWENXVnRHU0VQdjNqeWpxRmdtMzFCMnJlM3h4ZFlHWVlBSQ?oc=5"
+  },
+  {
+   "lead": "d23caa988630",
+   "score": 11.15,
+   "count": 6,
+   "sources": [
+    "PYMNTS.com",
+    "ShiftDelete.Net",
+    "Startup Fortune",
+    "TechCrunch",
+    "tech-insider.org"
+   ],
+   "related": [
+    "f56121d119d0",
+    "c8a1cb1fa988",
+    "505eca21473e",
+    "6bd5f6aef310",
+    "c394d6cb1da9"
+   ],
+   "title": "Meta acquires AI coding startup Conductor",
+   "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
+  },
+  {
+   "lead": "2c7e4d215f13",
+   "score": 7.32,
+   "count": 3,
+   "sources": [
+    "Hacker News",
+    "OpenAI",
+    "SiliconANGLE"
+   ],
+   "related": [
+    "3a06f84c0f51",
+    "d9bc2027a7a8"
+   ],
+   "title": "OpenAI to acquire developer tooling startup Pierre Computer",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWk5Rd0JvSVN2YzJIMlF4VzJpcmtoMWdMZGhEbjNKbmFETEROeEpiUy1xNXd6VEVxaVRjMFVkdGRGQTRwRjgwSGxWTVFUX05NekttNE1UN2FMYlJaanBRLU13Nm1vNXctMHdjSE5pbTAxYzBfVW9iMEF6dzdDb1g0Z1VtWlJGbTJCdDZULVUxTmFCeUk1ZnJPeVNpZVI?oc=5"
+  },
+  {
+   "lead": "42ec3b43220b",
+   "score": 6.6,
+   "count": 5,
+   "sources": [
+    "Bloomberg.com",
+    "TechCrunch",
+    "The Tech Buzz",
+    "TradingView"
+   ],
+   "related": [
+    "c593ff1d39e3",
+    "82044f7748b6",
+    "2f0874f0c402",
+    "7033195f1934"
+   ],
+   "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+   "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
+  },
+  {
+   "lead": "ab171a206ce1",
+   "score": 5.69,
+   "count": 2,
+   "sources": [
+    "Hacker News",
+    "OrcaRouter"
+   ],
+   "related": [
+    "7838c87736f9"
+   ],
+   "title": "Kimi K3.1 vs Kimi K3: What the Open Weights Say That the Launch Post Did Not",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sT3RXV05OMGdlNjZ5eE95QXlYTDM4RzZ6aU55cEdvYzN1ZnN5YlpCQXI5RkRiLUhyWXBCeFlPQmo3bFBtcXc2RmxFYjZta3F1azJJQ0V2TE41RWplNlM2dg?oc=5"
+  },
+  {
+   "lead": "04071a113fab",
+   "score": 5.08,
+   "count": 2,
+   "sources": [
+    "Hacker News",
+    "r/MachineLearning"
+   ],
+   "related": [
+    "d94c9f77ddaf"
+   ],
+   "title": "Anybody up for discussion on improvement of inference speed of Language Models[R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xmzu1x/anybody_up_for_discussion_on_improvement_of/"
+  },
+  {
+   "lead": "ba273efe94ab",
+   "score": 4.95,
+   "count": 3,
+   "sources": [
+    "ABC7 WWSB",
+    "Ars Technica",
+    "TechCrunch"
+   ],
+   "related": [
+    "f3b71b18e198",
+    "843448a2169d"
+   ],
+   "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+   "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"
+  },
+  {
+   "lead": "8203dd5df3fc",
+   "score": 4.7,
+   "count": 3,
+   "sources": [
+    "Arab News",
+    "Firstpost",
+    "The Mighty 790 KFGO"
+   ],
+   "related": [
+    "5ec154ed6193",
+    "c46fed5b5386"
+   ],
+   "title": "AI agents could put India's financial sector at risk, cybercrime agency warns",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOalFVYTNSaFlrWTBqcTFOMFRfUnlpSi1Oc2tpbE03Slc3M0FZNjRNMzRQZUVNMURLQWFZREZXeFRMalE1eTBuQVNydXBqbE1KbllpRkhELVJBbmZyajJfc296NWIyXy1kREljMVMxM2pzRFVRRzV3aXdJNExLaC0yOWkwb0duaFYxWFZPb2tUYzY2c0hST3RiVk4tOTd3M2tKb3FQeUJDQ2ZmSVV1enFJR19YRzRjd0p0dVl5ONIBwgFBVV95cUxNN2p3VTRDTFkzMktfZ3lYS2VPbkh4eXRTbk5tRHdWOU1yR3QwRElPOWhUY1l0czduTS1vUFF0NlJTVldMZDZZZjZsa0RRT1hPU0xDb0FNTF9HeENUaXIyRUZJOGhVTm9QRXpPVDJfaGhHM2RVN2tvUXg4VVhkemtXR0MyYnpMQ1czVktJQVpiakRBN1ZSdFRZX1R6a051SmdjQ000OEl0QVRTdm5vMXpjQlVxRmNPMTZVMWkwU3l4ZXRwQQ?oc=5"
+  },
+  {
+   "lead": "d0178f35064d",
+   "score": 4.68,
+   "count": 2,
+   "sources": [
+    "TechCrunch",
+    "The Verge"
+   ],
+   "related": [
+    "858a2ce3283f"
+   ],
+   "title": "Nothing teases a screen-free AI device ahead of launch next month",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei"
+  }
+ ],
+ "papers": [
+  {
+   "id": "9978900b6441",
+   "title": "CoworkOS:Scaling Agent Coworkers for Real-world Automation",
+   "url": "https://huggingface.co/papers/2611.03178",
+   "upvotes": 94
+  },
+  {
+   "id": "63973ddb0548",
+   "title": "Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems",
+   "url": "https://huggingface.co/papers/2611.05275",
+   "upvotes": 84
+  },
+  {
+   "id": "eed1f589970e",
+   "title": "CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements",
+   "url": "https://huggingface.co/papers/2611.03126",
+   "upvotes": 78
+  },
+  {
+   "id": "c183e075f0bc",
+   "title": "Think Less, Locally: Local Preference Learning for Reasoning Compression",
+   "url": "https://huggingface.co/papers/2611.04814",
+   "upvotes": 65
+  },
+  {
+   "id": "7148f4c95139",
+   "title": "MoviEdit: Long-form Multi-Shot Video Editing Made Easy",
+   "url": "https://huggingface.co/papers/2611.02737",
+   "upvotes": 63
+  },
+  {
+   "id": "807d8e9928de",
+   "title": "DreamX: Video Diffusion Model is a Universal Latent Action Learner",
+   "url": "https://huggingface.co/papers/2611.05377",
+   "upvotes": 51
+  }
+ ],
+ "models": [
+  {
+   "id": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+   "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+   "org": "nvidia",
+   "task": "automatic-speech-recognition",
+   "likes": 1491,
+   "downloads": 44939,
+   "trending": 685,
+   "created": "2026-10-07T22:50:21.000Z",
+   "license": "other"
+  },
+  {
+   "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+   "org": "deepseek-ai",
+   "task": "image-text-to-text",
+   "likes": 5271,
+   "downloads": 221621,
+   "trending": 603,
+   "created": "2026-10-17T02:40:38.000Z",
+   "license": "mit"
+  },
+  {
+   "id": "speridlabs/idol",
+   "url": "https://huggingface.co/speridlabs/idol",
+   "org": "speridlabs",
+   "task": "image-to-3d",
+   "likes": 619,
+   "downloads": 14613,
+   "trending": 582,
+   "created": "2026-10-28T15:55:17.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "LiquidAI/LFM3-1.7B",
+   "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+   "org": "LiquidAI",
+   "task": "text-generation",
+   "likes": 1485,
+   "downloads": 54959,
+   "trending": 562,
+   "created": "2026-10-23T21:35:42.000Z",
+   "license": "other"
+  },
+  {
+   "id": "mistralai/Mistral-Large-4-1T-A52B",
+   "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+   "org": "mistralai",
+   "task": "image-text-to-text",
+   "likes": 1591,
+   "downloads": 8200,
+   "trending": 555,
+   "created": "2026-09-30T18:35:13.000Z",
+   "license": "other"
+  },
+  {
+   "id": "moonshotai/Kimi-K3.1-Pro",
+   "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+   "org": "moonshotai",
+   "task": "image-text-to-text",
+   "likes": 510,
+   "downloads": 797,
+   "trending": 499,
+   "created": "2026-11-02T04:13:51.000Z",
+   "license": "other"
+  }
+ ]
+}
