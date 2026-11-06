@@ -1,0 +1,286 @@
+{
+ "date": "2026-11-06",
+ "generated_at": "2026-11-06T01:40:32Z",
+ "stories": [
+  {
+   "lead": "d23caa988630",
+   "score": 17.52,
+   "count": 11,
+   "sources": [
+    "Dataconomy",
+    "Kingy AI",
+    "MarketScale",
+    "PYMNTS.com",
+    "ShiftDelete.Net",
+    "SiliconANGLE",
+    "TechCrunch",
+    "Techzine Global",
+    "en.ain.ua",
+    "tech-insider.org"
+   ],
+   "related": [
+    "e52624737860",
+    "d087dc186398",
+    "d9c18fabaec4",
+    "39822993b38c",
+    "e519a2526543",
+    "f56121d119d0",
+    "c8a1cb1fa988",
+    "9d961a917546"
+   ],
+   "title": "Meta acquires AI coding startup Conductor",
+   "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
+  },
+  {
+   "lead": "d7e9e3e89ee7",
+   "score": 12.01,
+   "count": 5,
+   "sources": [
+    "Google AI",
+    "Google DeepMind",
+    "Seeking Alpha",
+    "The Decoder",
+    "The Next Web"
+   ],
+   "related": [
+    "003a6dd08e36",
+    "ee8356b91d8c",
+    "fe261067fe28",
+    "e5200fcb7e3d"
+   ],
+   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
+  },
+  {
+   "lead": "7b187a5bdc28",
+   "score": 6.45,
+   "count": 4,
+   "sources": [
+    "9to5Mac",
+    "Reuters",
+    "TechCrunch"
+   ],
+   "related": [
+    "0deb2813e40a",
+    "0573fddea441",
+    "2cc2507cff70"
+   ],
+   "title": "Claude can now analyze your spending with its new Personal Finance tool",
+   "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
+  },
+  {
+   "lead": "85f398082dad",
+   "score": 5.9,
+   "count": 3,
+   "sources": [
+    "CNBC",
+    "The New York Times",
+    "The Verge"
+   ],
+   "related": [
+    "234b7d4b08a2",
+    "42ed643a6ed3"
+   ],
+   "title": "OpenAI is stepping back from NDAs for data center projects",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda"
+  },
+  {
+   "lead": "28e44053d002",
+   "score": 5.89,
+   "count": 3,
+   "sources": [
+    "Hacker News",
+    "Reuters",
+    "Wired"
+   ],
+   "related": [
+    "8f3497688840",
+    "cb5f2fdc154a"
+   ],
+   "title": "The Results Are In: Voters Hate Data Centers",
+   "url": "https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/"
+  },
+  {
+   "lead": "e82ea22bbd6d",
+   "score": 5.79,
+   "count": 4,
+   "sources": [
+    "Arab News",
+    "CryptoRank",
+    "Infosecurity Magazine",
+    "The Mighty 790 KFGO"
+   ],
+   "related": [
+    "e1dade658a98",
+    "5ec154ed6193",
+    "c46fed5b5386"
+   ],
+   "title": "India Warns of New AI-Driven Cyber-Attacks Targeting Financial and Crypto Businesses",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vSmRqTHpLWUtENWJPSzNjVFp6OEdTM3Zva2dYcFV0eFByWnhPbEVwc2RWZlZRekJDZTIyb1BRNlFoSlhaNC1sdnpjdy1ybmZmbUpaOG5fU1dQU0dWT0hISHpSSjlpb3hDdlg4TFZSVFlCTjA2VGxhRVI2OA?oc=5"
+  },
+  {
+   "lead": "2c7e4d215f13",
+   "score": 5.01,
+   "count": 3,
+   "sources": [
+    "Hacker News",
+    "OpenAI",
+    "SiliconANGLE"
+   ],
+   "related": [
+    "3a06f84c0f51",
+    "d9bc2027a7a8"
+   ],
+   "title": "OpenAI to acquire developer tooling startup Pierre Computer",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWk5Rd0JvSVN2YzJIMlF4VzJpcmtoMWdMZGhEbjNKbmFETEROeEpiUy1xNXd6VEVxaVRjMFVkdGRGQTRwRjgwSGxWTVFUX05NekttNE1UN2FMYlJaanBRLU13Nm1vNXctMHdjSE5pbTAxYzBfVW9iMEF6dzdDb1g0Z1VtWlJGbTJCdDZULVUxTmFCeUk1ZnJPeVNpZVI?oc=5"
+  },
+  {
+   "lead": "ac5380eefb5a",
+   "score": 4.98,
+   "count": 4,
+   "sources": [
+    "K-12 Dive",
+    "LAmag",
+    "TechCrunch"
+   ],
+   "related": [
+    "0a06422ef59a",
+    "6a504853a875",
+    "23169447e0ac"
+   ],
+   "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+   "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/"
+  },
+  {
+   "lead": "cc48f8093c5b",
+   "score": 4.95,
+   "count": 2,
+   "sources": [
+    "TechCrunch",
+    "The Verge"
+   ],
+   "related": [
+    "1eac7fe42e87"
+   ],
+   "title": "Airbnb is working on an AI travel agent",
+   "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings"
+  },
+  {
+   "lead": "3b58ffb304e7",
+   "score": 4.58,
+   "count": 1,
+   "sources": [
+    "Hacker News"
+   ],
+   "related": [],
+   "title": "Claude Code sends your email address to websites",
+   "url": "https://github.com/anthropics/claude-code/issues/107757"
+  }
+ ],
+ "papers": [
+  {
+   "id": "c997aee47d8b",
+   "title": "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit",
+   "url": "https://huggingface.co/papers/2611.06728",
+   "upvotes": 124
+  },
+  {
+   "id": "9978900b6441",
+   "title": "CoworkOS:Scaling Agent Coworkers for Real-world Automation",
+   "url": "https://huggingface.co/papers/2611.03178",
+   "upvotes": 94
+  },
+  {
+   "id": "63973ddb0548",
+   "title": "Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems",
+   "url": "https://huggingface.co/papers/2611.05275",
+   "upvotes": 85
+  },
+  {
+   "id": "eed1f589970e",
+   "title": "CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements",
+   "url": "https://huggingface.co/papers/2611.03126",
+   "upvotes": 78
+  },
+  {
+   "id": "685e8104a6fb",
+   "title": "Behind Video Generation: Observations and Insights on Multimodal Understanding from Kling",
+   "url": "https://huggingface.co/papers/2611.04916",
+   "upvotes": 65
+  },
+  {
+   "id": "3701202fe75e",
+   "title": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
+   "url": "https://huggingface.co/papers/2611.06918",
+   "upvotes": 56
+  }
+ ],
+ "models": [
+  {
+   "id": "moonshotai/Kimi-K3.1-Pro",
+   "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+   "org": "moonshotai",
+   "task": "image-text-to-text",
+   "likes": 930,
+   "downloads": 11658,
+   "trending": 873,
+   "created": "2026-11-02T04:13:51.000Z",
+   "license": "other"
+  },
+  {
+   "id": "speridlabs/idol",
+   "url": "https://huggingface.co/speridlabs/idol",
+   "org": "speridlabs",
+   "task": "image-to-3d",
+   "likes": 775,
+   "downloads": 17180,
+   "trending": 689,
+   "created": "2026-10-28T15:55:17.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "Lightricks/LTX-2.5",
+   "url": "https://huggingface.co/Lightricks/LTX-2.5",
+   "org": "Lightricks",
+   "task": "image-to-video",
+   "likes": 10734,
+   "downloads": 2561845,
+   "trending": 375,
+   "created": "2026-07-23T07:55:24.000Z",
+   "license": "other"
+  },
+  {
+   "id": "ccore/Qwen3.5-4B-3D-Coder",
+   "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
+   "org": "ccore",
+   "task": null,
+   "likes": 703,
+   "downloads": 157157,
+   "trending": 367,
+   "created": "2026-10-25T05:43:34.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "Pika-Labs/Pika-H3-Flex",
+   "url": "https://huggingface.co/Pika-Labs/Pika-H3-Flex",
+   "org": "Pika-Labs",
+   "task": "image-to-video",
+   "likes": 474,
+   "downloads": 863,
+   "trending": 351,
+   "created": "2026-10-29T17:08:44.000Z",
+   "license": "other"
+  },
+  {
+   "id": "mistralai/Mistral-Large-4-1T-A52B",
+   "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+   "org": "mistralai",
+   "task": "image-text-to-text",
+   "likes": 1615,
+   "downloads": 9592,
+   "trending": 336,
+   "created": "2026-09-30T18:35:13.000Z",
+   "license": "other"
+  }
+ ]
+}
