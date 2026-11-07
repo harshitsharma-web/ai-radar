@@ -1,0 +1,283 @@
+{
+ "date": "2026-11-07",
+ "generated_at": "2026-11-07T01:28:34Z",
+ "stories": [
+  {
+   "lead": "118369de89f0",
+   "score": 11.27,
+   "count": 6,
+   "sources": [
+    "Bloomberg.com",
+    "Reuters",
+    "SiliconANGLE",
+    "TechCrunch",
+    "Yahoo Finance"
+   ],
+   "related": [
+    "81b8ddf5c91f",
+    "b2c8e093f063",
+    "2344b6580ee3",
+    "ea005cae25ca",
+    "3bf5700d13e6"
+   ],
+   "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+   "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+  },
+  {
+   "lead": "003a6dd08e36",
+   "score": 10.98,
+   "count": 5,
+   "sources": [
+    "Google DeepMind",
+    "Hacker News",
+    "Seeking Alpha",
+    "The Decoder",
+    "tech-insider.org"
+   ],
+   "related": [
+    "551fca6c77b3",
+    "d7e9e3e89ee7",
+    "fe261067fe28",
+    "e5200fcb7e3d"
+   ],
+   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+   "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/"
+  },
+  {
+   "lead": "f49d817c3fd3",
+   "score": 8.81,
+   "count": 6,
+   "sources": [
+    "The Decoder",
+    "The Mac Observer",
+    "The Verge",
+    "Unite.AI",
+    "Yahoo Finance"
+   ],
+   "related": [
+    "21fb01314a8c",
+    "6080e6bd592a",
+    "eecad7e104cd",
+    "b968f07bad46",
+    "ccde3a9f661a"
+   ],
+   "title": "Claude AI can plug directly into your bank account",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance"
+  },
+  {
+   "lead": "60a18250dfd4",
+   "score": 6.72,
+   "count": 2,
+   "sources": [
+    "Hacker News"
+   ],
+   "related": [
+    "28c2d038c17b"
+   ],
+   "title": "Anthropic IPO valuation talks drop to $1.3T",
+   "url": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors"
+  },
+  {
+   "lead": "fa15f0ac446a",
+   "score": 4.93,
+   "count": 3,
+   "sources": [
+    "Crusoe",
+    "Reuters",
+    "Unite.AI"
+   ],
+   "related": [
+    "d289308af3e9",
+    "0487ef2b68d6"
+   ],
+   "title": "Google acquires Wyoming data center site from AI infrastructure firm Crusoe",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUmdYV3dXUTRhWEJ2UTJxUXBMMmxVX292SEdXZlVJNmJIa0lzNVNRT0J3QjJhc0VnN2lYUnQybkNkd0JsRV8xUTc1Qk1nZllyQUx0RnJTTENFVEhJdXUyYW9SQXVodjFLT1RmSDF3UE1PODFDRnkzVnhkaEpVSDdwSDJRV2Y5dDZOTXF2cUoxUWlVVnBXWklYRjNpNGp0N2x1N0I1bFgtMFl3eldkdHZxUUlZRVdzQQ?oc=5"
+  },
+  {
+   "lead": "aecc9a23fd3c",
+   "score": 4.61,
+   "count": 4,
+   "sources": [
+    "Crunchbase News",
+    "IT Pro",
+    "TechCrunch"
+   ],
+   "related": [
+    "e76f55eee29f",
+    "68a9c6e8b860",
+    "e86427d20125"
+   ],
+   "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+   "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
+  },
+  {
+   "lead": "7b187a5bdc28",
+   "score": 4.49,
+   "count": 4,
+   "sources": [
+    "9to5Mac",
+    "Reuters",
+    "TechCrunch"
+   ],
+   "related": [
+    "0deb2813e40a",
+    "0573fddea441",
+    "2cc2507cff70"
+   ],
+   "title": "Claude can now analyze your spending with its new Personal Finance tool",
+   "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
+  },
+  {
+   "lead": "e8697410d95b",
+   "score": 4.48,
+   "count": 3,
+   "sources": [
+    "TechNode",
+    "finance.biggo.com",
+    "www.tokenpost.com"
+   ],
+   "related": [
+    "260083d4c4c5",
+    "6dd5ef05f036"
+   ],
+   "title": "DeepSeek Harness Reaches 1.54 Million Daily Active Users Among Official API Users",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2MGpYclpld2JQT0lnWG1EeDdDRndqNk9KOVJuTW9iaEhDMFEwR3NSSUd3bVRmZ0RnY3p1VXlKX1dWdDFpem9YX2VKb3ZCNzhNVmFjMnR4SHlPbEE?oc=5"
+  },
+  {
+   "lead": "3b78672d47e1",
+   "score": 4.08,
+   "count": 2,
+   "sources": [
+    "Anthropic",
+    "Hacker News"
+   ],
+   "related": [
+    "4fc4625abcfc"
+   ],
+   "title": "AI for scientific discovery: How researchers use Claude",
+   "url": "https://www.anthropic.com/research/how-researchers-use-claude"
+  },
+  {
+   "lead": "9b608dac076b",
+   "score": 4.03,
+   "count": 3,
+   "sources": [
+    "BusinessToday Malaysia",
+    "Businesskorea",
+    "electronics.economictimes.indiatimes.com"
+   ],
+   "related": [
+    "2eeebc0b7bbe",
+    "17090d04d385"
+   ],
+   "title": "600,000 Nvidia AI Chips Stuck In Hong Kong As China Holds Back Import Approval",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS3oxekUtUExOZE41eHNobTdqdWR1Yk05bnktVmdRSVFLb3BnTlFXMmJFY1hEcEotRUFMeWJNdE9FRTZKNktUNllLdjBfT3laTTg4ZUdGZ0JScHVUdk1ub25WZnQxcnQzT2RwYXk3S19YVi1GUklwdHMySXo0MEkzRHJQRXRVNEtqUWJ2RzFMQ3VOQi1DQkZXOG9ORzZ6aTNBdGVpX2tDbzQ1TWxWaFA3UlJhZS1JUmFzMG1lRkJOSQ?oc=5"
+  }
+ ],
+ "papers": [
+  {
+   "id": "c997aee47d8b",
+   "title": "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit",
+   "url": "https://huggingface.co/papers/2611.06728",
+   "upvotes": 127
+  },
+  {
+   "id": "608e1d97ab46",
+   "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
+   "url": "https://huggingface.co/papers/2611.08449",
+   "upvotes": 91
+  },
+  {
+   "id": "3701202fe75e",
+   "title": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
+   "url": "https://huggingface.co/papers/2611.06918",
+   "upvotes": 58
+  },
+  {
+   "id": "9dbadbfd4502",
+   "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
+   "url": "https://huggingface.co/papers/2611.06910",
+   "upvotes": 55
+  },
+  {
+   "id": "e7b124c3848d",
+   "title": "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training",
+   "url": "https://huggingface.co/papers/2611.08373",
+   "upvotes": 50
+  },
+  {
+   "id": "21a9eeb186cd",
+   "title": "WeLM-Image: A Unified Image Generation Model towards Visual Intelligence",
+   "url": "https://huggingface.co/papers/2611.07392",
+   "upvotes": 38
+  }
+ ],
+ "models": [
+  {
+   "id": "moonshotai/Kimi-K3.1-Pro",
+   "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+   "org": "moonshotai",
+   "task": "image-text-to-text",
+   "likes": 1500,
+   "downloads": 18432,
+   "trending": 1006,
+   "created": "2026-11-02T04:13:51.000Z",
+   "license": "other"
+  },
+  {
+   "id": "speridlabs/idol",
+   "url": "https://huggingface.co/speridlabs/idol",
+   "org": "speridlabs",
+   "task": "image-to-3d",
+   "likes": 940,
+   "downloads": 19139,
+   "trending": 698,
+   "created": "2026-10-28T15:55:17.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "ccore/Qwen3.5-4B-3D-Coder",
+   "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
+   "org": "ccore",
+   "task": null,
+   "likes": 793,
+   "downloads": 190243,
+   "trending": 422,
+   "created": "2026-10-25T05:43:34.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "Lightricks/LTX-2.5",
+   "url": "https://huggingface.co/Lightricks/LTX-2.5",
+   "org": "Lightricks",
+   "task": "image-to-video",
+   "likes": 10869,
+   "downloads": 2607491,
+   "trending": 383,
+   "created": "2026-07-23T07:55:24.000Z",
+   "license": "other"
+  },
+  {
+   "id": "burner22/numbat",
+   "url": "https://huggingface.co/burner22/numbat",
+   "org": "burner22",
+   "task": null,
+   "likes": 373,
+   "downloads": 9066,
+   "trending": 337,
+   "created": "2026-10-23T01:37:02.000Z",
+   "license": null
+  },
+  {
+   "id": "FusionCow/Sulphur-3",
+   "url": "https://huggingface.co/FusionCow/Sulphur-3",
+   "org": "FusionCow",
+   "task": null,
+   "likes": 395,
+   "downloads": 950,
+   "trending": 331,
+   "created": "2026-10-31T20:31:01.000Z",
+   "license": null
+  }
+ ]
+}
