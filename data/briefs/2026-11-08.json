@@ -1,0 +1,258 @@
+{
+ "date": "2026-11-08",
+ "generated_at": "2026-11-08T01:37:03Z",
+ "stories": [
+  {
+   "lead": "118369de89f0",
+   "score": 10.16,
+   "count": 7,
+   "sources": [
+    "Billionaires.Africa",
+    "Bloomberg.com",
+    "Reuters",
+    "SiliconANGLE",
+    "TechCrunch",
+    "Yahoo Finance"
+   ],
+   "related": [
+    "0e76c1b258a4",
+    "81b8ddf5c91f",
+    "b2c8e093f063",
+    "2344b6580ee3",
+    "ea005cae25ca",
+    "3bf5700d13e6"
+   ],
+   "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+   "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+  },
+  {
+   "lead": "c2107a5a7cf6",
+   "score": 5.92,
+   "count": 4,
+   "sources": [
+    "Crusoe",
+    "Reuters",
+    "TechCrunch",
+    "Unite.AI"
+   ],
+   "related": [
+    "fa15f0ac446a",
+    "d289308af3e9",
+    "0487ef2b68d6"
+   ],
+   "title": "Crusoe sells troubled Wyoming data center project to Google",
+   "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
+  },
+  {
+   "lead": "5186d80b7eef",
+   "score": 3.81,
+   "count": 1,
+   "sources": [
+    "Hacker News"
+   ],
+   "related": [],
+   "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+   "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
+  },
+  {
+   "lead": "60a18250dfd4",
+   "score": 3.53,
+   "count": 2,
+   "sources": [
+    "Hacker News"
+   ],
+   "related": [
+    "28c2d038c17b"
+   ],
+   "title": "Anthropic IPO valuation talks drop to $1.3T",
+   "url": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors"
+  },
+  {
+   "lead": "1eeaf5457cb1",
+   "score": 3.14,
+   "count": 1,
+   "sources": [
+    "Hacker News"
+   ],
+   "related": [],
+   "title": "The End of AI Frontiers",
+   "url": "https://hunch.net/?p=13764006"
+  },
+  {
+   "lead": "76014f04cd22",
+   "score": 2.85,
+   "count": 2,
+   "sources": [
+    "Chosunbiz",
+    "The Tech Buzz"
+   ],
+   "related": [
+    "3a51cf094fcd"
+   ],
+   "title": "China stalls Nvidia H200 imports to boost domestic AI chips",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWXVUNFliWUE2Q2NZcFBaNDVJWkRpNzhnT1Z6X1dqUm1UQzlaV1Ytc3Q5clZfVzl3Yk83aENKeDM3c3JLMlRyUVR1QVBoQ0FPMFRQZUktVklnV1hIV1FPT2JiRXRkTFUxVV9QVE91cm0xUUdLT2ZNSTUxU2N6OEdmZm9zaXVmcy1J0gGcAUFVX3lxTE1CaE9OdjlhZW5GN000OC04OGZPMzczeTUwZ3FwaWdKeTFZZE56UThjZWFETG8tYWhaa3hZcVFNYjQ3UmxiZHY4M2hQTEVENGNEV3Q0Tl9VLVpDcDZZMXhVcTJCdHZOR0NDeHRTa0hmZ29GX0JJTUVkWnpIaVFKQVFIc0pYajI0eFJkZ2dDeEMxTlFzTWRHZU9iSlk0Zg?oc=5"
+  },
+  {
+   "lead": "10468716891c",
+   "score": 2.64,
+   "count": 2,
+   "sources": [
+    "Microsoft",
+    "UC Today"
+   ],
+   "related": [
+    "2a7d9cda4339"
+   ],
+   "title": "State Farm scales governed AI to deliver enterprise business value with Microsoft Copilot Studio and Power Platform",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZjBJQ1g1QkJhWmVoSWpOUkduYW9nOUJ5Y0FCTXM1RjM2T0NkUzF3TU93ZXhNZ2R4eWJUYzUtRkl3cUlCd2xmQnRxRzRKNXV5aUYwYnJ3eU1aZ2RZRUd5Si1Vc0M3dzM4YjY4TzdDNXd0MGhtbW1LZHl0R0hEQ3dqdF84amV2WXgtM0R4NnQtWQ?oc=5"
+  },
+  {
+   "lead": "744b8d5eda56",
+   "score": 2.62,
+   "count": 2,
+   "sources": [
+    "FourWeekMBA",
+    "MLQ.ai"
+   ],
+   "related": [
+    "2cb7b809eb8d"
+   ],
+   "title": "Nous Research cuts pro-Beijing answers in Alibaba's Qwen from 22% to under 1% with fine-tuning alone",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd1JLQlBIVXl5S1lpc3VEM3dqVUU3VUlMUXJrSXBuSmNLTjhZTnV3elctS0FPTDQyV1AxMmJhY3N3aTZ3VXN6RzctSHQxcWxiLWdISHpxNEY3SXE1cUtxT0dOWUNRYzUyNnFDREh1M1IwMFd5R21UWEN4WnN2amdsX1NiOEl6azY1YUN0Z20wdVdRMkhQeWtSb2RzMlpvTmhjYjNyMGxJTjhlNHZUMHpZZkw1LXR6VmNveEE?oc=5"
+  },
+  {
+   "lead": "e46309e38de0",
+   "score": 2.58,
+   "count": 2,
+   "sources": [
+    "CBS News",
+    "The Independent"
+   ],
+   "related": [
+    "8b95b9292848"
+   ],
+   "title": "Man sues OpenAI and claims chatbot plotted with his wife to try to murder him",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2F3RTRSMi1kYmRkdjE0M3FIVDNDT0dtQUMxWGtRR0I4SVl3V0prd3dQeTJpQm9FcGswX1lWb1ppS1J6STRiWFp0TDlrVWUwMDdiTlBKaThkX1B0YVlWSE02ZkpjYkR1eVd6Q3dnMUY0YzNhWEVRZnM1WVVLME1OOFFLNTZMS2RBNEFJNjZTcnhVc0NPOVVycmFYczRUWW9uSDV1RzJma1NyMWNvakNn?oc=5"
+  },
+  {
+   "lead": "fd6c1b7df02a",
+   "score": 2.55,
+   "count": 2,
+   "sources": [
+    "Pioneer Press",
+    "Yahoo Finance"
+   ],
+   "related": [
+    "d5c19f2b6f48"
+   ],
+   "title": "AI data center boom set for upheaval after US election rout",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV2NlT1E3cC1hWENWQjV2OVRSbVhSU25pcm9MTUxKOF9BcnZNTE1VYVdlWmlCdWtubHVqZmpZbTJscUt4SERKcjBfNGFHM1RVWlgyYWRfNkVhZnMxMEJqRXlabXk3cEFtZUtrTlpXd0ktMWRjMzdiek45TVQ1NUlVbi1qSWJmWC1ua3dFNUxILURjeEtRZzJXWllKeC1ha1U?oc=5"
+  }
+ ],
+ "papers": [
+  {
+   "id": "608e1d97ab46",
+   "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
+   "url": "https://huggingface.co/papers/2611.08449",
+   "upvotes": 100
+  },
+  {
+   "id": "e7b124c3848d",
+   "title": "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training",
+   "url": "https://huggingface.co/papers/2611.08373",
+   "upvotes": 81
+  },
+  {
+   "id": "3701202fe75e",
+   "title": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
+   "url": "https://huggingface.co/papers/2611.06918",
+   "upvotes": 60
+  },
+  {
+   "id": "21a9eeb186cd",
+   "title": "WeLM-Image: A Unified Image Generation Model towards Visual Intelligence",
+   "url": "https://huggingface.co/papers/2611.07392",
+   "upvotes": 42
+  },
+  {
+   "id": "4c33fbdd0dc4",
+   "title": "What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?",
+   "url": "https://huggingface.co/papers/2611.06483",
+   "upvotes": 38
+  },
+  {
+   "id": "febb014e6488",
+   "title": "Towards Foundation Decision Models: Drex",
+   "url": "https://huggingface.co/papers/2611.07854",
+   "upvotes": 21
+  }
+ ],
+ "models": [
+  {
+   "id": "speridlabs/idol",
+   "url": "https://huggingface.co/speridlabs/idol",
+   "org": "speridlabs",
+   "task": "image-to-3d",
+   "likes": 1125,
+   "downloads": 20689,
+   "trending": 750,
+   "created": "2026-10-28T15:55:17.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "moonshotai/Kimi-K3.1-Pro",
+   "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+   "org": "moonshotai",
+   "task": "image-text-to-text",
+   "likes": 1637,
+   "downloads": 22571,
+   "trending": 530.5,
+   "created": "2026-11-02T04:13:51.000Z",
+   "license": "other"
+  },
+  {
+   "id": "ccore/Qwen3.5-4B-3D-Coder",
+   "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
+   "org": "ccore",
+   "task": null,
+   "likes": 877,
+   "downloads": 221506,
+   "trending": 429,
+   "created": "2026-10-25T05:43:34.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+   "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+   "org": "xtools-at",
+   "task": "text-generation",
+   "likes": 502,
+   "downloads": 1369,
+   "trending": 425,
+   "created": "2026-10-30T10:21:29.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "Lightricks/LTX-2.5",
+   "url": "https://huggingface.co/Lightricks/LTX-2.5",
+   "org": "Lightricks",
+   "task": "image-to-video",
+   "likes": 10996,
+   "downloads": 2643778,
+   "trending": 378,
+   "created": "2026-07-23T07:55:24.000Z",
+   "license": "other"
+  },
+  {
+   "id": "ricursiveAI/Ripple-65B-Preview",
+   "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
+   "org": "ricursiveAI",
+   "task": null,
+   "likes": 371,
+   "downloads": 3803,
+   "trending": 361,
+   "created": "2026-11-04T02:41:21.000Z",
+   "license": "apache-2.0"
+  }
+ ]
+}
