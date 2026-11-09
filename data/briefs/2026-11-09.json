@@ -1,0 +1,244 @@
+{
+ "date": "2026-11-09",
+ "generated_at": "2026-11-09T01:40:24Z",
+ "stories": [
+  {
+   "lead": "ecd65815b585",
+   "score": 10.28,
+   "count": 3,
+   "sources": [
+    "Hacker News",
+    "TechCrunch",
+    "The Verge"
+   ],
+   "related": [
+    "45da7994669e",
+    "4ac45e74548d"
+   ],
+   "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
+  },
+  {
+   "lead": "67abd93f196f",
+   "score": 9.06,
+   "count": 3,
+   "sources": [
+    "Hacker News",
+    "The Verge",
+    "www.israelhayom.com"
+   ],
+   "related": [
+    "a24fdfddefa6",
+    "9d336b1c26e9"
+   ],
+   "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia"
+  },
+  {
+   "lead": "3642de4fdbf0",
+   "score": 9.04,
+   "count": 5,
+   "sources": [
+    "Bloomberg",
+    "Briefs Finance",
+    "MLQ.ai",
+    "Seeking Alpha",
+    "TradingView"
+   ],
+   "related": [
+    "5e744272c6ba",
+    "25122a1986b6",
+    "0959dc9cda4d",
+    "a229ecb87d98"
+   ],
+   "title": "DeepSeek says its Harness agent app has 1.54 million daily users and plans a plugin marketplace",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2FqemdXTDc2bUdVOVZnQ1VKWGJQS0daTHlyaWFBOUxtcEV6Vkx1TUxTZm1ZSTQ0QmoteWNsTWJZRzY5Vk40LTJzV0kzNjJQZlRDWi1hQUNKTDJiR0VJN0JVZlVlRlBkTTZXOEdtZE9SdmlZY2I4eDVvUlE3T1dxcGxQUmp3a2tHRHhjdWhhQXZaTWtyaGtiNENEOEphWHFjaDlHZ1paY0ltSnp6V0tnb1lTamwwZw?oc=5"
+  },
+  {
+   "lead": "f79e395fd497",
+   "score": 4.74,
+   "count": 3,
+   "sources": [
+    "Bloomberg",
+    "shattered.io",
+    "tech-insider.org"
+   ],
+   "related": [
+    "659750b4f240",
+    "22a6cffe8474"
+   ],
+   "title": "AI Data Center Boom: 41 Votes Put It on Notice [2026]",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNmpzSG90dVlJYXNmcmRURlZBdHdTYVI4YTlGWVBubVdPV1Q1cWJTSzN6NktIekNOMVBDcDZVTlBHSXg4ME5CR1o4TWt0RHVqd2VNMXFiajRhaV94UmpLUzYxaG11NjRnTVZNYzd3amJkcThHMGhOM0hNZHY1SzdLbWN4c3JGVTZnekpHMzhqUmg2cFk?oc=5"
+  },
+  {
+   "lead": "300f149a0249",
+   "score": 4.44,
+   "count": 2,
+   "sources": [
+    "Hacker News",
+    "tech-insider.org"
+   ],
+   "related": [
+    "5186d80b7eef"
+   ],
+   "title": "Claude Code Don't Ask Again: 1,379 Secrets [2026]",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT3lOd0JmTjZSUjdzc0lqVnpmTVJzMkxMa2J2RHhUMXZZOEpiNUxTY1UwTnF1NDhVT09NWTFQbEVycVNQWXpPak45TEpFTElTN2RQUTlwRV83alllMW52VEk5YkxwSGU0MDVLT2RqR2gxclExemxxblh1bHFCT01tSkx0cGFEZmd5RGc?oc=5"
+  },
+  {
+   "lead": "a78801b83036",
+   "score": 4.2,
+   "count": 1,
+   "sources": [
+    "Hacker News"
+   ],
+   "related": [],
+   "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+   "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers"
+  },
+  {
+   "lead": "b0e7be365625",
+   "score": 4.06,
+   "count": 3,
+   "sources": [
+    "ForkLog",
+    "Investing.com",
+    "Investing.com Canada"
+   ],
+   "related": [
+    "18a8d6f43dd1",
+    "45b88211a799"
+   ],
+   "title": "Bloomberg: Investors shift to China and India after AI stock sell-off",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUVFGbERQNml4dkdncnFQbGlLeE01SGpoQlVIeXo4UjdpVXNZMHpJNW5Del9WVHI3NG1Gek12TnN5M3VjUDlSOEVVbG1Ob3NjTHdjWjRCdURyUEtZWFRLOVpjZ0Z0d05nbkpnWTRwel9lUDVzRmU2eXJmV2ZjQVRrbXpWUHdmbFYyQXJSVWR6SFpPQVdhckRJ?oc=5"
+  },
+  {
+   "lead": "45fb196cb1bb",
+   "score": 3.61,
+   "count": 1,
+   "sources": [
+    "Hacker News"
+   ],
+   "related": [],
+   "title": "How I Fight AI Brain Fry",
+   "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry"
+  },
+  {
+   "lead": "6b30b3347296",
+   "score": 3.57,
+   "count": 2,
+   "sources": [
+    "Latent Space"
+   ],
+   "related": [
+    "9c7e75a27e82"
+   ],
+   "title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+   "url": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/"
+  },
+  {
+   "lead": "1d660dc4ea7a",
+   "score": 3.25,
+   "count": 1,
+   "sources": [
+    "Hacker News"
+   ],
+   "related": [],
+   "title": "OpenAI raises $11B at a $1.25T valuation",
+   "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/"
+  }
+ ],
+ "papers": [
+  {
+   "id": "ec797be30e16",
+   "title": "Muir: Linear Attention with Sensitivity-Allocated Gating and Matched-Filter Readout",
+   "url": "https://huggingface.co/papers/2611.08376",
+   "upvotes": 12
+  },
+  {
+   "id": "6d0b2e187b19",
+   "title": "Terminal-style Mathematical Modeling Bench: The First Agentic and Verifiable Benchmark for Mathematical Modeling",
+   "url": "https://huggingface.co/papers/2611.08237",
+   "upvotes": 11
+  },
+  {
+   "id": "fece5dc19fb7",
+   "title": "SAE Interprets MoE: Sparse AutoEncoders Reveal That MoE Experts Exhibit Human-Interpretable Fine-Grained Specialization",
+   "url": "https://huggingface.co/papers/2611.08089",
+   "upvotes": 9
+  },
+  {
+   "id": "b9e4bb586fc3",
+   "title": "Towards Real-Time Full-Waveform LiDAR Transformers via Intensity-Guided Token Reduction and Physics-Aware Augmentation",
+   "url": "https://huggingface.co/papers/2611.07613",
+   "upvotes": 5
+  }
+ ],
+ "models": [
+  {
+   "id": "speridlabs/idol",
+   "url": "https://huggingface.co/speridlabs/idol",
+   "org": "speridlabs",
+   "task": "image-to-3d",
+   "likes": 1391,
+   "downloads": 22854,
+   "trending": 793,
+   "created": "2026-10-28T15:55:17.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+   "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+   "org": "xtools-at",
+   "task": "text-generation",
+   "likes": 849,
+   "downloads": 7088,
+   "trending": 686,
+   "created": "2026-10-30T10:21:29.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "moonshotai/Kimi-K3.1-Pro",
+   "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+   "org": "moonshotai",
+   "task": "image-text-to-text",
+   "likes": 1730,
+   "downloads": 25569,
+   "trending": 563,
+   "created": "2026-11-02T04:13:51.000Z",
+   "license": "other"
+  },
+  {
+   "id": "ricursiveAI/Ripple-65B-Preview",
+   "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
+   "org": "ricursiveAI",
+   "task": null,
+   "likes": 403,
+   "downloads": 5087,
+   "trending": 393,
+   "created": "2026-11-04T02:41:21.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "Lightricks/LTX-2.5",
+   "url": "https://huggingface.co/Lightricks/LTX-2.5",
+   "org": "Lightricks",
+   "task": "image-to-video",
+   "likes": 11137,
+   "downloads": 2661026,
+   "trending": 391,
+   "created": "2026-07-23T07:55:24.000Z",
+   "license": "other"
+  },
+  {
+   "id": "ccore/Qwen3.5-4B-3D-Coder",
+   "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
+   "org": "ccore",
+   "task": null,
+   "likes": 919,
+   "downloads": 254053,
+   "trending": 387,
+   "created": "2026-10-25T05:43:34.000Z",
+   "license": "apache-2.0"
+  }
+ ]
+}
