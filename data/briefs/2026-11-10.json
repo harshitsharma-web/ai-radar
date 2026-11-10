@@ -1,0 +1,266 @@
+{
+ "date": "2026-11-10",
+ "generated_at": "2026-11-10T01:32:04Z",
+ "stories": [
+  {
+   "lead": "2e186972ef6c",
+   "score": 23.47,
+   "count": 10,
+   "sources": [
+    "AWS Machine Learning",
+    "Amazon Web Services (AWS)",
+    "Fortune",
+    "Hacker News",
+    "MacRumors",
+    "Quartz",
+    "TechCrunch",
+    "The Verge",
+    "Yahoo Finance"
+   ],
+   "related": [
+    "56a49980686e",
+    "f1eea0a2781a",
+    "f70b4b296011",
+    "0275f0132ff7",
+    "39a8c39526bf",
+    "201edacbf0b2",
+    "7a495d8554f2",
+    "95fd06b571da"
+   ],
+   "title": "Introducing Claude Fable 5.2 on AWS",
+   "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/"
+  },
+  {
+   "lead": "ecd65815b585",
+   "score": 18.38,
+   "count": 9,
+   "sources": [
+    "Forth.News",
+    "Hacker News",
+    "TechCrunch",
+    "The Tech Buzz",
+    "The Verge",
+    "Washington Times"
+   ],
+   "related": [
+    "285987eab731",
+    "faa2c8a3a820",
+    "45da7994669e",
+    "b11080bcbff6",
+    "ea7942c7fbf7",
+    "4ac45e74548d",
+    "9709ee9b2939",
+    "4993952b65b6"
+   ],
+   "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
+  },
+  {
+   "lead": "4a7141713ab5",
+   "score": 8.7,
+   "count": 5,
+   "sources": [
+    "9to5Mac",
+    "AppleInsider",
+    "Startup Fortune",
+    "The Verge"
+   ],
+   "related": [
+    "72b3c5a5d7a9",
+    "55ad5c8e79a2",
+    "ef5f6ccac0d9",
+    "fec91bbc29ef"
+   ],
+   "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+   "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro"
+  },
+  {
+   "lead": "99d632aaa416",
+   "score": 8.61,
+   "count": 5,
+   "sources": [
+    "MLQ.ai",
+    "Mezha.net",
+    "TechCrunch",
+    "디지털투데이"
+   ],
+   "related": [
+    "11f82bd73989",
+    "ea994bae0079",
+    "baedb6ef1e17",
+    "783593225d93"
+   ],
+   "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+   "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"
+  },
+  {
+   "lead": "c4fbfd403d93",
+   "score": 7.82,
+   "count": 3,
+   "sources": [
+    "Hacker News",
+    "Meta AI",
+    "Startup Fortune"
+   ],
+   "related": [
+    "feb2ba211559",
+    "da432fbb0594"
+   ],
+   "title": "Meta Launches Muse Ember, Its Smallest AI Model, on the Day Anthropic Unveiled Fable 5.2 and Mythos 5.2",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcklQbkEzZFc4TE05dk1ONFJSb3FHem5neE5UWjJISUpfQkN1QXhBNEhVb2hUZG10RTJQcHplSXpHRUtMckJVYlY1T3JTLVc5cndfWGNzOVlKYWlGMXA4NmNrQ1JHVVg4RkxGelVsQ2Y3QUxEcDlJck9PelBNVElyd2VUa0Z5VHg4ZDNta3YycXZDMG5FWGlJUnVVcVV0OUV5djdqVHZ5djhTYzhtdVdBcVV4RTBrTDhRTVl1a0lCMkdHSi1MdEE?oc=5"
+  },
+  {
+   "lead": "a06869aa80e5",
+   "score": 7.37,
+   "count": 3,
+   "sources": [
+    "TechCrunch",
+    "The Verge",
+    "Wired"
+   ],
+   "related": [
+    "9b0466c1eb02",
+    "06e960cd1e4a"
+   ],
+   "title": "The future of AI hinges on… Jensen Huang’s sex life?",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me"
+  },
+  {
+   "lead": "74c05496366f",
+   "score": 5.69,
+   "count": 4,
+   "sources": [
+    "Bloomberg.com",
+    "Briefs Finance",
+    "Global Times",
+    "South China Morning Post"
+   ],
+   "related": [
+    "79064011e27d",
+    "5e744272c6ba",
+    "a229ecb87d98"
+   ],
+   "title": "DeepSeek Harness reports over 1.5 million daily active users, focusing on building out ecosystems, expanding user base: expert",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSbDFrY2F5RjY3WDVMS3lDTG55TWFSZENlNWFmTGtfZWpaMGwzalVoX0RTUnBuY0dUSHNQTVhtbENJaF9ZWEdjSGx4UFVFVkNkdmFXTWpReG5jY01BUGJ6SFJ3?oc=5"
+  },
+  {
+   "lead": "5fffa0293353",
+   "score": 4.89,
+   "count": 3,
+   "sources": [
+    "Cryptonews.net",
+    "MacDailyNews",
+    "The Next Web"
+   ],
+   "related": [
+    "d0844847f105",
+    "e282b879c682"
+   ],
+   "title": "Apple completes filing to bring generative AI to iPads and Macs in China",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9pblRXNlhBS2N1Uk9janFvbVV3OVBvVzBoeDdNTlZTbXZQRm94bDJBRmw2LUxQQmxMTFpOQldYTzd1SHExNTZQNGxrWS1aZmNwV0tiMWw5cw?oc=5"
+  },
+  {
+   "lead": "bddd68cdc279",
+   "score": 4.34,
+   "count": 3,
+   "sources": [
+    "Mezha.net",
+    "Notebookcheck",
+    "Root-Nation.com"
+   ],
+   "related": [
+    "67f0cb072131",
+    "2dc00e794824"
+   ],
+   "title": "Google removes Gemini Pro from its cheapest subscription",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVEhqelJZTGJsZHJ3aW9mLXRvWk5nZTc0RWhOZGhjQlV1d21lMXp3RUhPclphVExsdEIzNnZZYVdoMUNoYTNEZTRKemIxdWV1czJjZUlpdXItS2luYlRra0NnakR2QTc1YWszd1hkZDNyYU01c2YtdTJDYnNid0V5VU4zbDdxVXZR?oc=5"
+  },
+  {
+   "lead": "255b56db4a4a",
+   "score": 4.01,
+   "count": 1,
+   "sources": [
+    "Hacker News"
+   ],
+   "related": [],
+   "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+   "url": "https://artificialanalysis.ai/models/claude-fable-5-2"
+  }
+ ],
+ "papers": [
+  {
+   "id": "60f3f6cbef00",
+   "title": "Authorization Drift in LLM Agents: Evaluating Boundary Compliance in Multi-Step Tool Use",
+   "url": "https://huggingface.co/papers/2611.09113",
+   "upvotes": 5
+  }
+ ],
+ "models": [
+  {
+   "id": "speridlabs/idol",
+   "url": "https://huggingface.co/speridlabs/idol",
+   "org": "speridlabs",
+   "task": "image-to-3d",
+   "likes": 1638,
+   "downloads": 24747,
+   "trending": 848,
+   "created": "2026-10-28T15:55:17.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+   "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+   "org": "xtools-at",
+   "task": "text-generation",
+   "likes": 1047,
+   "downloads": 11755,
+   "trending": 828,
+   "created": "2026-10-30T10:21:29.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "moonshotai/Kimi-K3.1-Pro",
+   "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+   "org": "moonshotai",
+   "task": "image-text-to-text",
+   "likes": 1799,
+   "downloads": 27926,
+   "trending": 589,
+   "created": "2026-11-02T04:13:51.000Z",
+   "license": "other"
+  },
+  {
+   "id": "ricursiveAI/Ripple-65B-Preview",
+   "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
+   "org": "ricursiveAI",
+   "task": null,
+   "likes": 455,
+   "downloads": 5835,
+   "trending": 438,
+   "created": "2026-11-04T02:41:21.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "Lightricks/LTX-2.5",
+   "url": "https://huggingface.co/Lightricks/LTX-2.5",
+   "org": "Lightricks",
+   "task": "image-to-video",
+   "likes": 11268,
+   "downloads": 2720096,
+   "trending": 389,
+   "created": "2026-07-23T07:55:24.000Z",
+   "license": "other"
+  },
+  {
+   "id": "ccore/Qwen3.5-4B-3D-Coder",
+   "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
+   "org": "ccore",
+   "task": null,
+   "likes": 952,
+   "downloads": 289466,
+   "trending": 350,
+   "created": "2026-10-25T05:43:34.000Z",
+   "license": "apache-2.0"
+  }
+ ]
+}
