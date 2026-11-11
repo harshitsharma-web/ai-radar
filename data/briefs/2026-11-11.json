@@ -1,0 +1,335 @@
+{
+ "date": "2026-11-11",
+ "generated_at": "2026-11-11T01:31:37Z",
+ "stories": [
+  {
+   "lead": "99d632aaa416",
+   "score": 19.57,
+   "count": 12,
+   "sources": [
+    "Hacker News",
+    "MLQ.ai",
+    "Meta AI",
+    "Mezha.net",
+    "TechCrunch",
+    "TechGig",
+    "Technology Org",
+    "The Economic Times",
+    "VentureBeat",
+    "news.lavx.hu",
+    "디지털투데이"
+   ],
+   "related": [
+    "c016078424af",
+    "645b2c9a5cc7",
+    "23af124189a6",
+    "11f82bd73989",
+    "f6f4eacfdeba",
+    "bd5e1377cda0",
+    "da432fbb0594",
+    "ea994bae0079"
+   ],
+   "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+   "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"
+  },
+  {
+   "lead": "af7403b45639",
+   "score": 12.76,
+   "count": 7,
+   "sources": [
+    "Axios",
+    "Hacker News",
+    "MacRumors",
+    "TechCrunch",
+    "The Verge",
+    "Yahoo Finance"
+   ],
+   "related": [
+    "384567f596f8",
+    "f5e3481274c2",
+    "39a8c39526bf",
+    "7a495d8554f2",
+    "95fd06b571da",
+    "796a7f7ee338"
+   ],
+   "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+   "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
+  },
+  {
+   "lead": "02e4a20d191a",
+   "score": 12.27,
+   "count": 6,
+   "sources": [
+    "Fierce Healthcare",
+    "Google AI",
+    "Modern Healthcare",
+    "PYMNTS.com",
+    "Unite.AI",
+    "blog.google"
+   ],
+   "related": [
+    "ea6e4eba9596",
+    "78c9bfe4b431",
+    "64e9b07d1320",
+    "cb8cceb0bde1",
+    "fea7204153db"
+   ],
+   "title": "Google Cloud launches Gemini for healthcare.",
+   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
+  },
+  {
+   "lead": "4a7141713ab5",
+   "score": 12.01,
+   "count": 8,
+   "sources": [
+    "9to5Mac",
+    "AppleInsider",
+    "Cult of Mac",
+    "MacDailyNews",
+    "MacRumors",
+    "Startup Fortune",
+    "The Verge"
+   ],
+   "related": [
+    "815dc11b0769",
+    "b5f0bd212de3",
+    "72b3c5a5d7a9",
+    "55ad5c8e79a2",
+    "ef5f6ccac0d9",
+    "07dd188524d3",
+    "fec91bbc29ef"
+   ],
+   "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+   "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro"
+  },
+  {
+   "lead": "15c28179b2dc",
+   "score": 11.65,
+   "count": 7,
+   "sources": [
+    "Al Jazeera",
+    "Forth.News",
+    "TechCrunch",
+    "The Verge",
+    "Washington Times",
+    "Zvi Mowshowitz"
+   ],
+   "related": [
+    "9922bcaa36cd",
+    "faa2c8a3a820",
+    "d2304c4a4873",
+    "66700a8aa584",
+    "b11080bcbff6",
+    "ea7942c7fbf7"
+   ],
+   "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+  },
+  {
+   "lead": "2e186972ef6c",
+   "score": 11.27,
+   "count": 7,
+   "sources": [
+    "AWS Machine Learning",
+    "Amazon Web Services (AWS)",
+    "Fortune",
+    "Quartz",
+    "Simon Willison",
+    "TechCrunch",
+    "The Verge"
+   ],
+   "related": [
+    "56a49980686e",
+    "f1eea0a2781a",
+    "6f6fff482120",
+    "f70b4b296011",
+    "0275f0132ff7",
+    "201edacbf0b2"
+   ],
+   "title": "Introducing Claude Fable 5.2 on AWS",
+   "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/"
+  },
+  {
+   "lead": "fc6b6a56df7b",
+   "score": 11.05,
+   "count": 4,
+   "sources": [
+    "Engadget",
+    "Google DeepMind",
+    "Hacker News",
+    "Search Engine Roundtable"
+   ],
+   "related": [
+    "a42d7cc30ca2",
+    "a525fa830b85",
+    "f92c268bf724"
+   ],
+   "title": "Gemini 4 Carbon is now available",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+  },
+  {
+   "lead": "571fb0494bf3",
+   "score": 10.8,
+   "count": 6,
+   "sources": [
+    "LinkedIn",
+    "PhocusWire",
+    "Skift",
+    "TechCrunch",
+    "The Information"
+   ],
+   "related": [
+    "93e3a33f9d77",
+    "f77a7ee2139a",
+    "78ee2f5f35e7",
+    "0f173336970a",
+    "7014007d6d1f"
+   ],
+   "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+   "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
+  },
+  {
+   "lead": "7739f93bab44",
+   "score": 10.72,
+   "count": 6,
+   "sources": [
+    "Bloomberg.com",
+    "Modern Healthcare",
+    "Quartz",
+    "STAT",
+    "TechCrunch"
+   ],
+   "related": [
+    "dce58ab40a07",
+    "5b76c936ebb9",
+    "5d21624e0c6e",
+    "0a97b8cf55e5",
+    "3cabfb6f23a5"
+   ],
+   "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+   "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
+  },
+  {
+   "lead": "ef81f5f4051a",
+   "score": 7.52,
+   "count": 3,
+   "sources": [
+    "Engadget",
+    "Hacker News",
+    "Yahoo Finance"
+   ],
+   "related": [
+    "7737e173e31a",
+    "11cf09881a3b"
+   ],
+   "title": "Anthropic launches Meetings, Whiteboards, Sheets, Data ahead of IPO",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZFRaS1IwRWlsMG5CWnhCV0pEUkdtcjU0MHY4a0Vnb0RFem90WWl5cFg4VXhqcmlOM2VzaVZnY0ZfSVJ6TnU0SE1wbFNzMVpaV0ZIcHdURFBoQnNsY0Y5cktFbTVlV0FpSnNpcF9MVkNlWUstWGtKU0ZicDZTQmpCdUNyczlPemVpRF9HRExBdExqZk9CbU96bjFqVV9HNVh3NWowZGlMcHBHUnRtRkpYVzYtTjY5cC1iYnNXcENzTDZtZw?oc=5"
+  }
+ ],
+ "papers": [
+  {
+   "id": "123cc8899327",
+   "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+   "url": "https://huggingface.co/papers/2611.12806",
+   "upvotes": 92
+  },
+  {
+   "id": "780eb58c952e",
+   "title": "WorldFoundry: Towards Unified Infrastructure for World Intelligence",
+   "url": "https://huggingface.co/papers/2611.10771",
+   "upvotes": 54
+  },
+  {
+   "id": "930c9f51b3fa",
+   "title": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
+   "url": "https://huggingface.co/papers/2611.12762",
+   "upvotes": 52
+  },
+  {
+   "id": "fcc02b9fa5cb",
+   "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning",
+   "url": "https://huggingface.co/papers/2611.12886",
+   "upvotes": 37
+  },
+  {
+   "id": "65231d34f801",
+   "title": "InfraRSI: Harnessing Recursive Self-Improvement for Training Infrastructure",
+   "url": "https://huggingface.co/papers/2611.11558",
+   "upvotes": 15
+  },
+  {
+   "id": "bea657bfbf69",
+   "title": "How Much Training-Inference Mismatch Can On-Policy Distillation Tolerate?",
+   "url": "https://huggingface.co/papers/2611.11450",
+   "upvotes": 11
+  }
+ ],
+ "models": [
+  {
+   "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+   "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+   "org": "xtools-at",
+   "task": "text-generation",
+   "likes": 1204,
+   "downloads": 14378,
+   "trending": 934,
+   "created": "2026-10-30T10:21:29.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "speridlabs/idol",
+   "url": "https://huggingface.co/speridlabs/idol",
+   "org": "speridlabs",
+   "task": "image-to-3d",
+   "likes": 1874,
+   "downloads": 26470,
+   "trending": 921,
+   "created": "2026-10-28T15:55:17.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "moonshotai/Kimi-K3.1-Pro",
+   "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+   "org": "moonshotai",
+   "task": "image-text-to-text",
+   "likes": 1867,
+   "downloads": 30721,
+   "trending": 616,
+   "created": "2026-11-02T04:13:51.000Z",
+   "license": "other"
+  },
+  {
+   "id": "ricursiveAI/Ripple-65B-Preview",
+   "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
+   "org": "ricursiveAI",
+   "task": null,
+   "likes": 487,
+   "downloads": 6480,
+   "trending": 465,
+   "created": "2026-11-04T02:41:21.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "Lightricks/LTX-2.5",
+   "url": "https://huggingface.co/Lightricks/LTX-2.5",
+   "org": "Lightricks",
+   "task": "image-to-video",
+   "likes": 11384,
+   "downloads": 2791606,
+   "trending": 389,
+   "created": "2026-07-23T07:55:24.000Z",
+   "license": "other"
+  },
+  {
+   "id": "MiniMaxAI/MiniMax-H3-Image",
+   "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+   "org": "MiniMaxAI",
+   "task": "text-to-image",
+   "likes": 390,
+   "downloads": 667,
+   "trending": 388,
+   "created": "2026-11-03T06:34:36.000Z",
+   "license": "other"
+  }
+ ]
+}
