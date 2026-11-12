@@ -1,0 +1,302 @@
+{
+ "date": "2026-11-12",
+ "generated_at": "2026-11-12T01:43:38Z",
+ "stories": [
+  {
+   "lead": "4a6d92631407",
+   "score": 15.01,
+   "count": 4,
+   "sources": [
+    "Hacker News",
+    "TechCrunch",
+    "The Verge"
+   ],
+   "related": [
+    "b91248042740",
+    "f82475629f27",
+    "081caafcc522"
+   ],
+   "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+   "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor"
+  },
+  {
+   "lead": "571fb0494bf3",
+   "score": 11.43,
+   "count": 8,
+   "sources": [
+    "LinkedIn",
+    "PhocusWire",
+    "Short Term Rentalz",
+    "Skift",
+    "TechCrunch",
+    "The Information",
+    "WSJ"
+   ],
+   "related": [
+    "889b95152ed9",
+    "1e5cbe73b520",
+    "93e3a33f9d77",
+    "f77a7ee2139a",
+    "78ee2f5f35e7",
+    "0f173336970a",
+    "7014007d6d1f"
+   ],
+   "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+   "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
+  },
+  {
+   "lead": "624a305adfa4",
+   "score": 9.99,
+   "count": 4,
+   "sources": [
+    "Hacker News",
+    "Interesting Engineering",
+    "Simon Willison",
+    "blog.google"
+   ],
+   "related": [
+    "7b60f70c22c1",
+    "cce714811b51",
+    "3986e4b6fc6c"
+   ],
+   "title": "Gemini Decisions API",
+   "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/"
+  },
+  {
+   "lead": "e277c557d001",
+   "score": 8.23,
+   "count": 5,
+   "sources": [
+    "Al Jazeera",
+    "Benzinga",
+    "Quartz",
+    "Reuters",
+    "TweakTown"
+   ],
+   "related": [
+    "3aefe3418f94",
+    "96404354d216",
+    "0c71da423d50",
+    "b7d691bd0cad"
+   ],
+   "title": "A blacklisted Chinese university with military ties bought Nvidia AI chips despite U.S. ban",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZzMxLUpidk9INW1VbHFYZk9uZDdSRFdkd09xVWtFX252SkxhakJ0TE55NWMxU05vUnRhcjJtX2dDRzMtOFpjWWFoR2VSVXNUTjJoemtsb1hla2VpQkVIN0xlYlJzM1M4WldULXRmTndxazRlekJlV3JwQlBuN09YXzhn?oc=5"
+  },
+  {
+   "lead": "14d7c3f6f3fe",
+   "score": 7.95,
+   "count": 5,
+   "sources": [
+    "BioXconomy",
+    "Healthcare Dive",
+    "Healthcare IT News",
+    "Modern Healthcare",
+    "Unite.AI"
+   ],
+   "related": [
+    "6133d992cdc9",
+    "e4fa6ae883c6",
+    "ea6e4eba9596",
+    "78c9bfe4b431"
+   ],
+   "title": "Google Cloud intros new AI offering, Gemini for healthcare",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb2ZzblJBX243V2hESkFYQjVTTEREWFhMV19CLUZ4Zjh5eWFTekljTFVCS3NWWTFLdHZpOWxSbmgwMUd1Yy1xZWhjcFpGVXI3VTBybW92TE5jWlNUcGc4V0Q3ZUY5STZ1a3gtRGdQZHBDZEFrQXc1VlJiTmJQWlQ0eFdyS05PRjQyTmUyblI3aEJDc1VzT1E?oc=5"
+  },
+  {
+   "lead": "7739f93bab44",
+   "score": 7.82,
+   "count": 6,
+   "sources": [
+    "Bloomberg.com",
+    "Modern Healthcare",
+    "Quartz",
+    "STAT",
+    "TechCrunch"
+   ],
+   "related": [
+    "dce58ab40a07",
+    "5b76c936ebb9",
+    "5d21624e0c6e",
+    "0a97b8cf55e5",
+    "3cabfb6f23a5"
+   ],
+   "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+   "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
+  },
+  {
+   "lead": "fc6b6a56df7b",
+   "score": 7.42,
+   "count": 4,
+   "sources": [
+    "Engadget",
+    "Google DeepMind",
+    "Hacker News",
+    "Search Engine Roundtable"
+   ],
+   "related": [
+    "a42d7cc30ca2",
+    "a525fa830b85",
+    "f92c268bf724"
+   ],
+   "title": "Gemini 4 Carbon is now available",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+  },
+  {
+   "lead": "9496384b75c6",
+   "score": 6.46,
+   "count": 4,
+   "sources": [
+    "9to5Mac",
+    "Bloomberg",
+    "InsideEVs",
+    "Quartz"
+   ],
+   "related": [
+    "69c671abd70d",
+    "a3797b075317",
+    "3341dc5c9bce"
+   ],
+   "title": "Google is adding Gemini voice AI to Apple CarPlay for iPhone users",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zaENaeXFoQXlhWUF4S1NxM2lseGlDSHpjWWJYTFM4djNHWUk5Z3pKQkdzSjRlbkpUSEpHUlFFZTFRaDN1SERVQ3JCNWprRTNRSnZYY0huTkE4N2c4MmlPbkoxcnlkRTlOV3c?oc=5"
+  },
+  {
+   "lead": "ef81f5f4051a",
+   "score": 5.17,
+   "count": 3,
+   "sources": [
+    "Engadget",
+    "Hacker News",
+    "Yahoo Finance"
+   ],
+   "related": [
+    "7737e173e31a",
+    "11cf09881a3b"
+   ],
+   "title": "Anthropic launches Meetings, Whiteboards, Sheets, Data ahead of IPO",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZFRaS1IwRWlsMG5CWnhCV0pEUkdtcjU0MHY4a0Vnb0RFem90WWl5cFg4VXhqcmlOM2VzaVZnY0ZfSVJ6TnU0SE1wbFNzMVpaV0ZIcHdURFBoQnNsY0Y5cktFbTVlV0FpSnNpcF9MVkNlWUstWGtKU0ZicDZTQmpCdUNyczlPemVpRF9HRExBdExqZk9CbU96bjFqVV9HNVh3NWowZGlMcHBHUnRtRkpYVzYtTjY5cC1iYnNXcENzTDZtZw?oc=5"
+  },
+  {
+   "lead": "af7403b45639",
+   "score": 4.85,
+   "count": 4,
+   "sources": [
+    "Axios",
+    "Computerworld",
+    "TechCrunch"
+   ],
+   "related": [
+    "b5510cf87477",
+    "384567f596f8",
+    "f5e3481274c2"
+   ],
+   "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+   "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
+  }
+ ],
+ "papers": [
+  {
+   "id": "123cc8899327",
+   "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+   "url": "https://huggingface.co/papers/2611.12806",
+   "upvotes": 98
+  },
+  {
+   "id": "b32f33401f92",
+   "title": "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits",
+   "url": "https://huggingface.co/papers/2611.14210",
+   "upvotes": 75
+  },
+  {
+   "id": "07b8c2ffe283",
+   "title": "Few-Step Streaming Video Generation via Condition Shifting",
+   "url": "https://huggingface.co/papers/2611.14033",
+   "upvotes": 66
+  },
+  {
+   "id": "871c4497cbf2",
+   "title": "World In-Context Learning for Agentic Robot Manipulation",
+   "url": "https://huggingface.co/papers/2611.12885",
+   "upvotes": 64
+  },
+  {
+   "id": "0f451c0d900e",
+   "title": "Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents",
+   "url": "https://huggingface.co/papers/2611.14320",
+   "upvotes": 54
+  },
+  {
+   "id": "930c9f51b3fa",
+   "title": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
+   "url": "https://huggingface.co/papers/2611.12762",
+   "upvotes": 54
+  }
+ ],
+ "models": [
+  {
+   "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+   "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+   "org": "xtools-at",
+   "task": "text-generation",
+   "likes": 3310,
+   "downloads": 16693,
+   "trending": 2254,
+   "created": "2026-10-30T10:21:29.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "MiniMaxAI/MiniMax-H3-Image",
+   "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+   "org": "MiniMaxAI",
+   "task": "text-to-image",
+   "likes": 723,
+   "downloads": 142989,
+   "trending": 702,
+   "created": "2026-11-03T06:34:36.000Z",
+   "license": "other"
+  },
+  {
+   "id": "speridlabs/idol",
+   "url": "https://huggingface.co/speridlabs/idol",
+   "org": "speridlabs",
+   "task": "image-to-3d",
+   "likes": 2144,
+   "downloads": 28250,
+   "trending": 488.5,
+   "created": "2026-10-28T15:55:17.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "NousResearch/Arete-27B",
+   "url": "https://huggingface.co/NousResearch/Arete-27B",
+   "org": "NousResearch",
+   "task": "text-generation",
+   "likes": 439,
+   "downloads": 4023,
+   "trending": 418,
+   "created": "2026-11-06T19:31:28.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "Lightricks/LTX-2.5",
+   "url": "https://huggingface.co/Lightricks/LTX-2.5",
+   "org": "Lightricks",
+   "task": "image-to-video",
+   "likes": 11517,
+   "downloads": 2848771,
+   "trending": 403,
+   "created": "2026-07-23T07:55:24.000Z",
+   "license": "other"
+  },
+  {
+   "id": "moonshotai/Kimi-K3.1-Pro",
+   "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+   "org": "moonshotai",
+   "task": "image-text-to-text",
+   "likes": 1935,
+   "downloads": 33617,
+   "trending": 392.5,
+   "created": "2026-11-02T04:13:51.000Z",
+   "license": "other"
+  }
+ ]
+}
