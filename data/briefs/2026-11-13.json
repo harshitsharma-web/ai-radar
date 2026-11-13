@@ -1,0 +1,310 @@
+{
+ "date": "2026-11-13",
+ "generated_at": "2026-11-13T01:37:04Z",
+ "stories": [
+  {
+   "lead": "4a6d92631407",
+   "score": 27.76,
+   "count": 12,
+   "sources": [
+    "Hacker News",
+    "TechCrunch",
+    "The Verge",
+    "Wired",
+    "r/LocalLLaMA"
+   ],
+   "related": [
+    "15c28179b2dc",
+    "860631918f65",
+    "a647d71f0801",
+    "b91248042740",
+    "129a642d9a44",
+    "73437c2bc5fb",
+    "6b9d37f256cd",
+    "60e059808c60"
+   ],
+   "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+   "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor"
+  },
+  {
+   "lead": "2e22a9b45028",
+   "score": 17.74,
+   "count": 9,
+   "sources": [
+    "BleepingComputer",
+    "Bloomberg.com",
+    "CRN",
+    "Detroit Free Press",
+    "FourWeekMBA",
+    "Mashable",
+    "The Independent",
+    "The Providence Journal",
+    "Yahoo Finance"
+   ],
+   "related": [
+    "aae503ca0dea",
+    "876a4c40fd42",
+    "372785ddf821",
+    "ed7a4bfe8c0c",
+    "295a58e8ba90",
+    "66d44c6d8ec2",
+    "2c38fcb370fb",
+    "7bf06415ddc5"
+   ],
+   "title": "Microsoft outage: Microsoft 365, Teams, Outlook, Copilot all impacted",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaTVjT2hmZEFUQ1N3QUFZZVhlRHA4RU9uLVpRZDlCZEo5QmRNaGJNY0N6b2doVDZ2ZDBCYXBYMmRFd2xhX0NaSExsc2xKemRSaE1IMFBQNmVlclRCNzFNN3U5TV9Mc1pvWk1NeFhJNWVvTEZkSUE4TlUtdkJ3UmNGaDU2dGFSMmg5VWJjUGc3QmhVUWIz?oc=5"
+  },
+  {
+   "lead": "624a305adfa4",
+   "score": 15.85,
+   "count": 8,
+   "sources": [
+    "Channel Insider",
+    "Hacker News",
+    "Simon Willison",
+    "TestingCatalog AI News",
+    "The American Bazaar",
+    "Unite.AI",
+    "VentureBeat",
+    "blog.google"
+   ],
+   "related": [
+    "b605d51acb19",
+    "c91c75f1ff6d",
+    "934c0affa1ef",
+    "9c4520f6d505",
+    "1b0c3a928e33",
+    "cce714811b51",
+    "3986e4b6fc6c"
+   ],
+   "title": "Gemini Decisions API",
+   "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/"
+  },
+  {
+   "lead": "4e5c451d1176",
+   "score": 12.62,
+   "count": 7,
+   "sources": [
+    "Crypto Briefing",
+    "Investing.com",
+    "Seeking Alpha",
+    "The Information",
+    "The Times of India",
+    "TradingView",
+    "marketscreener.com"
+   ],
+   "related": [
+    "2365ef98f558",
+    "9b6f684e1d37",
+    "7632407ce2b6",
+    "92a5907b472e",
+    "815f88b4b99c",
+    "5d8f2b12f3a1"
+   ],
+   "title": "Companies tied to Alice Huang invested in DeepSeek to supply Nvidia chips - report By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYVd3Q3lIdEV3SDZXOEplWGdxZFNGWTZGaGloUjlZQzduOUtieU9Ua2o1RWJsVWtaWUJmVUh4QUdFQ0xUeG1VZ01TTm00T0UzeVRxNXl0N3V4ay05UHVnR0F3bExsM0FBNHpsaVZCLTR0RzlPbG80VlFSU2QxeW1rR2p5N09DTkQ5SDZTRTUxbzIyRTJtVkg5TkdRZ2lEZURCNzdEMXR4VTVLUUVxb1pHaHh3QVpXbFZpYU9nZTcwQUMteWhtajF4UUQtMHNqQTBnVmVvMQ?oc=5"
+  },
+  {
+   "lead": "6734a79295b9",
+   "score": 9.81,
+   "count": 6,
+   "sources": [
+    "Business Insider",
+    "Computerworld",
+    "FourWeekMBA",
+    "Manufacturing Dive",
+    "Simon Willison",
+    "TechTarget"
+   ],
+   "related": [
+    "1630ae1da623",
+    "aea4dd4063ff",
+    "d399323c2ae5",
+    "c185ee72f0f3",
+    "b5510cf87477"
+   ],
+   "title": "Anthropic's IPO roadshow video",
+   "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/"
+  },
+  {
+   "lead": "3903c89c61e5",
+   "score": 6.21,
+   "count": 4,
+   "sources": [
+    "TechCrunch",
+    "r/LocalLLaMA"
+   ],
+   "related": [
+    "5c8a7e2ce9e4",
+    "4a4fbf3bdfea",
+    "25830d890d98"
+   ],
+   "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+   "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/"
+  },
+  {
+   "lead": "2e7c4047c039",
+   "score": 6.03,
+   "count": 2,
+   "sources": [
+    "Hacker News",
+    "Startup Fortune"
+   ],
+   "related": [
+    "d096a8a420fb"
+   ],
+   "title": "Breaking News as Researcher Says Six Chinese AI Models Carry the Fingerprint of Banned Nvidia Chips",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdy1MRFpHNTNiR1BiMzZrX3M5cTlBdm1OT3M0VzUxR0hDbkRUMkN3Z1U0UC1nOXM2QUVOTHl2ckhMOUtZUmZMMkRxTUNxd0JnOVdiM0FlYVotWVVYWUV2b2JvQmt6akRiOFBQOTdYbHFuRHFleDM3UU9rUmVyRHFHRXdZQW5UUkROblVBZS12QlYyMERfRTBrNjFaYVpMTGVJdkZtSFdrWUh6VG5nTmpRX1U5TGxvM0hXWkVrQXBEMm96dlN1RkE?oc=5"
+  },
+  {
+   "lead": "96892311de09",
+   "score": 5.64,
+   "count": 3,
+   "sources": [
+    "TechCrunch",
+    "The Verge"
+   ],
+   "related": [
+    "ef98f01e800c",
+    "efdd0bfa6110"
+   ],
+   "title": "The Jensen Huang scandal is hardly over",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling"
+  },
+  {
+   "lead": "d8ef3fe6591f",
+   "score": 5.56,
+   "count": 3,
+   "sources": [
+    "TechCrunch",
+    "Wired"
+   ],
+   "related": [
+    "92467d3f16d5",
+    "f46b17bdb27d"
+   ],
+   "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+   "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/"
+  },
+  {
+   "lead": "322f998ba4d6",
+   "score": 5.18,
+   "count": 2,
+   "sources": [
+    "Hacker News",
+    "TechCrunch"
+   ],
+   "related": [
+    "645f1651bd53"
+   ],
+   "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+   "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/"
+  }
+ ],
+ "papers": [
+  {
+   "id": "07b8c2ffe283",
+   "title": "Few-Step Streaming Video Generation via Condition Shifting",
+   "url": "https://huggingface.co/papers/2611.14033",
+   "upvotes": 88
+  },
+  {
+   "id": "0f451c0d900e",
+   "title": "Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents",
+   "url": "https://huggingface.co/papers/2611.14320",
+   "upvotes": 65
+  },
+  {
+   "id": "b32f33401f92",
+   "title": "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits",
+   "url": "https://huggingface.co/papers/2611.14210",
+   "upvotes": 62
+  },
+  {
+   "id": "51fa12b3ef7c",
+   "title": "SteerDistill: Quantizing LLM Agents via Closed-Loop Teacher Steering",
+   "url": "https://huggingface.co/papers/2611.13410",
+   "upvotes": 31
+  },
+  {
+   "id": "f2963506946a",
+   "title": "MMDM: Measuring Massive Multitask Decision Making",
+   "url": "https://huggingface.co/papers/2611.14309",
+   "upvotes": 27
+  },
+  {
+   "id": "bbabebb08df2",
+   "title": "DexForesight: Grounding Dexterous Policies with Implicit Spatial Foresight",
+   "url": "https://huggingface.co/papers/2611.11166",
+   "upvotes": 25
+  }
+ ],
+ "models": [
+  {
+   "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+   "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+   "org": "xtools-at",
+   "task": "text-generation",
+   "likes": 4730,
+   "downloads": 18933,
+   "trending": 2915,
+   "created": "2026-10-30T10:21:29.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "MiniMaxAI/MiniMax-H3-Image",
+   "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+   "org": "MiniMaxAI",
+   "task": "text-to-image",
+   "likes": 869,
+   "downloads": 306718,
+   "trending": 824,
+   "created": "2026-11-03T06:34:36.000Z",
+   "license": "other"
+  },
+  {
+   "id": "NousResearch/Arete-27B",
+   "url": "https://huggingface.co/NousResearch/Arete-27B",
+   "org": "NousResearch",
+   "task": "text-generation",
+   "likes": 488,
+   "downloads": 4669,
+   "trending": 459,
+   "created": "2026-11-06T19:31:28.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "speridlabs/idol",
+   "url": "https://huggingface.co/speridlabs/idol",
+   "org": "speridlabs",
+   "task": "image-to-3d",
+   "likes": 2235,
+   "downloads": 29904,
+   "trending": 425,
+   "created": "2026-10-28T15:55:17.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "Lightricks/LTX-2.5",
+   "url": "https://huggingface.co/Lightricks/LTX-2.5",
+   "org": "Lightricks",
+   "task": "image-to-video",
+   "likes": 11636,
+   "downloads": 2782513,
+   "trending": 407,
+   "created": "2026-07-23T07:55:24.000Z",
+   "license": "other"
+  },
+  {
+   "id": "Qwen/Qwen3.8-27B",
+   "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+   "org": "Qwen",
+   "task": "image-text-to-text",
+   "likes": 19744,
+   "downloads": 7094218,
+   "trending": 356,
+   "created": "2026-08-05T08:22:59.000Z",
+   "license": "apache-2.0"
+  }
+ ]
+}
