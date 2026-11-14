@@ -1,0 +1,309 @@
+{
+ "date": "2026-11-14",
+ "generated_at": "2026-11-14T01:31:23Z",
+ "stories": [
+  {
+   "lead": "19d7b07bbf76",
+   "score": 16.45,
+   "count": 10,
+   "sources": [
+    "BleepingComputer",
+    "CRN",
+    "Detroit Free Press",
+    "FourWeekMBA",
+    "Latin Times",
+    "Mashable",
+    "The Business Journal",
+    "The Independent",
+    "The Providence Journal",
+    "Yahoo Finance"
+   ],
+   "related": [
+    "4c9360bfc7d2",
+    "2e22a9b45028",
+    "aae503ca0dea",
+    "372785ddf821",
+    "ed7a4bfe8c0c",
+    "295a58e8ba90",
+    "66d44c6d8ec2",
+    "2c38fcb370fb"
+   ],
+   "title": "Microsoft 365 outage disrupts Outlook, Teams and Copilot worldwide",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SYU9FWjdObVlZQVZxOU1QcmlRMkp1Vm1KRFV2Zk5wdzlxWWtST2FjNFZLWmxueGRPU3FKQUlSV3hWdlRVSzJJRWNKclc1eF9tUnZhTUxRZ19GQk1hN3gycElCYUMxaE5DR0hxZlF5V1NlUG1RbFZmaE1iZ0xPWmc?oc=5"
+  },
+  {
+   "lead": "951c84561943",
+   "score": 11.44,
+   "count": 6,
+   "sources": [
+    "CNBC",
+    "Mashable",
+    "Reuters",
+    "TechCrunch",
+    "The Verge"
+   ],
+   "related": [
+    "4e379f6cb9d3",
+    "94e5a8db0732",
+    "002c9a6d4f74",
+    "ab35997562fc",
+    "423adf6f811c"
+   ],
+   "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+  },
+  {
+   "lead": "96892311de09",
+   "score": 9.14,
+   "count": 5,
+   "sources": [
+    "Hacker News",
+    "TechCrunch",
+    "The Verge"
+   ],
+   "related": [
+    "56623f1d9c94",
+    "ef98f01e800c",
+    "60e059808c60",
+    "2a51640ad697"
+   ],
+   "title": "The Jensen Huang scandal is hardly over",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling"
+  },
+  {
+   "lead": "c2e2f27a02a9",
+   "score": 8.87,
+   "count": 6,
+   "sources": [
+    "Channel Insider",
+    "Notebookcheck",
+    "TestingCatalog AI News",
+    "The American Bazaar",
+    "Unite.AI",
+    "VentureBeat"
+   ],
+   "related": [
+    "b605d51acb19",
+    "c91c75f1ff6d",
+    "934c0affa1ef",
+    "9c4520f6d505",
+    "1b0c3a928e33"
+   ],
+   "title": "Gemini 4 Hydrogen: What free users and Google AI Plus get",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRU1CMVJYR0NPRTFZdFFYN2JoTWY0YkZQeDlDT0liNmpabUV2TGxkazBxbDdXSlBHT0p0bFdLZXdoTzlNS05Uck0yYm01dlZGbmpBTjRucWZTOUxNMGVUOGllYUlLaEpSQy1TV0YzampqNExJbE9SNlQ0MUNTbjJlOS1Jc1Q3Z1lZLTBwcDNxYkFUMkV0ZVFxUTA4SE5uWUpPRnpj?oc=5"
+  },
+  {
+   "lead": "3611f8f5f617",
+   "score": 8.86,
+   "count": 5,
+   "sources": [
+    "Appleosophy",
+    "MacDailyNews",
+    "MacRumors",
+    "The Apple Post",
+    "Thurrott.com"
+   ],
+   "related": [
+    "ff77c8e379ee",
+    "55ad611c1e63",
+    "43107347b159",
+    "3bb1af5d612d"
+   ],
+   "title": "Apple releases tvOS 27.2.1, delivering Siri AI to multiple Apple TV 4K models",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORkNFYlNmTXhDcG85c21rV3ZnSnlhUmp2ZEo0RHIxalJBYTdvWjk0TnFtS0dld05oUWZQRFlKTF80bnJxdVRvQU5KLTE0cDFyZGxaYkVua0FIUXV5Wm5QV1N3WUpyWEI2YVdRUGMzOEFUYVh4M0hqQXh3NzJOVzdGUnpoZUNzT24wQWtoSmpQOTFIdV9yTkJpcUZvYWxrSDJIbFZVY2lBcFc3a2ppTXJnR19PUdIBuAFBVV95cUxNNFo0eFl5SWtzck5UeXNGMkJyQmRDajgyNTBMVUVYUVBCNTZNYUFNWVI2d3hkb2ItdURieGNOaGw2a2Vrc25iNWNnNEdsODcxa2hHaWNwOUljWFY4dlg0dzZxTDJiWFBQZnNMa01OX0gwOTNPR1pjT1I0R0dnU0dZNGQwZHEybktYMG5lZE91c3VKZ2ZNMHNJd1pFUXFaUkxMWi1pZVFON0dWRHhWNUQtNUVrZkwyZDlk?oc=5"
+  },
+  {
+   "lead": "860631918f65",
+   "score": 8.34,
+   "count": 5,
+   "sources": [
+    "Hacker News",
+    "Latent Space",
+    "Wired",
+    "r/LocalLLaMA"
+   ],
+   "related": [
+    "12f357dd3921",
+    "a647d71f0801",
+    "73437c2bc5fb",
+    "6b9d37f256cd"
+   ],
+   "title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
+   "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/"
+  },
+  {
+   "lead": "60e4ce0d315a",
+   "score": 7.1,
+   "count": 5,
+   "sources": [
+    "Crypto Briefing",
+    "The Information",
+    "The Times of India",
+    "TradingView",
+    "WinBuzzer"
+   ],
+   "related": [
+    "7632407ce2b6",
+    "92a5907b472e",
+    "815f88b4b99c",
+    "5d8f2b12f3a1"
+   ],
+   "title": "DeepSeek AI Model Files Point to Training on Nvidia Blackwell Chips",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbS1wYjJXbTRMbnA5aWI3eEpkRHdMUmp2MlJJaFVJajF6STNMMTRLVGNIRlV1RG9FOGlPSVg5MU1qVUszYjJBRUlGUHViRnd3ZTdXZ3lkRnVUSkR6SEotX1JFdzB6U1dranF2Sm9mVVVrMlgydmVCM2NVV3NsMkxfX3RTRTFQNW1YbU9rWHJxbXBsRm5MTGJfU25Za0U?oc=5"
+  },
+  {
+   "lead": "bf7446da4a2e",
+   "score": 6.13,
+   "count": 4,
+   "sources": [
+    "Advanced Manufacturing",
+    "FourWeekMBA",
+    "Manufacturing Digital",
+    "Manufacturing Dive"
+   ],
+   "related": [
+    "be3a7a612433",
+    "1630ae1da623",
+    "aea4dd4063ff"
+   ],
+   "title": "Anthropic Debuts Claude for Manufacturing",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeVdsM0hiRENUa1gtLVB0N19HSGVrNXFqYTlHT2p6a2gzQk11VVppcXQ5dno4V1A1czlDd09Rbk1hMTBuVzlzNW0tbG90dmRTYS10WDdtRzdYWGZacmJJb3ZYNVE1RlVmWll1Vk42ZEtRNEVMQmNGc2xnS09iN1dHRVhvX2RmTG9XTUxxcnhIaW9TTGhyUkF6VHROT0FLcTcza2VIV3pMLWs3SGF6bTJueWpPOFlwNkE4a3ZvYUoyOEhqVGM3aEx1bWt5UFc3UmNKTnRwTm9B?oc=5"
+  },
+  {
+   "lead": "4a36f6adfa9f",
+   "score": 5.41,
+   "count": 2,
+   "sources": [
+    "Fortune",
+    "Hacker News"
+   ],
+   "related": [
+    "75520ce395f2"
+   ],
+   "title": "OpenAI disbands its robotics team as its general models start running robots",
+   "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
+  },
+  {
+   "lead": "92d22a4ed6e0",
+   "score": 4.9,
+   "count": 3,
+   "sources": [
+    "BigGo Finance",
+    "Unite.AI",
+    "blog.google"
+   ],
+   "related": [
+    "a6809071d79a",
+    "106b82111873"
+   ],
+   "title": "Google Ties Gemini to Wallet and Bank Accounts to Track Spending and Flag Subscription Hikes",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wVU5kaFNrQUNYYm8wSTA2ZDhLajJuQVhvYVA3VUY1SUZ2N2dKQVpiZHVLTldHX0tXTGtUSkpZWnBVMkpVTVk0RXJVU1B5cXN6bzg4SDQtcjRoa2RsVDlycmJBMC1NbEx6eVVkOUhzS08wLW1XWlE?oc=5"
+  }
+ ],
+ "papers": [
+  {
+   "id": "7afe22db314e",
+   "title": "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
+   "url": "https://huggingface.co/papers/2611.15777",
+   "upvotes": 74
+  },
+  {
+   "id": "9d279f8afefe",
+   "title": "PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models",
+   "url": "https://huggingface.co/papers/2611.16748",
+   "upvotes": 42
+  },
+  {
+   "id": "2741c921d019",
+   "title": "Duo: A Reciprocal World Model for Full-Duplex Interaction",
+   "url": "https://huggingface.co/papers/2611.15131",
+   "upvotes": 36
+  },
+  {
+   "id": "731431771b9c",
+   "title": "Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents",
+   "url": "https://huggingface.co/papers/2611.17167",
+   "upvotes": 29
+  },
+  {
+   "id": "abae26331e95",
+   "title": "Open Vision Banana: A Fully Open Recipe for Generative Visual Perception",
+   "url": "https://huggingface.co/papers/2611.15844",
+   "upvotes": 29
+  },
+  {
+   "id": "d7b46d3d8c2d",
+   "title": "Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors",
+   "url": "https://huggingface.co/papers/2611.17060",
+   "upvotes": 25
+  }
+ ],
+ "models": [
+  {
+   "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+   "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+   "org": "xtools-at",
+   "task": "text-generation",
+   "likes": 6003,
+   "downloads": 21586,
+   "trending": 3488,
+   "created": "2026-10-30T10:21:29.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "MiniMaxAI/MiniMax-H3-Image",
+   "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+   "org": "MiniMaxAI",
+   "task": "text-to-image",
+   "likes": 1017,
+   "downloads": 437039,
+   "trending": 941,
+   "created": "2026-11-03T06:34:36.000Z",
+   "license": "other"
+  },
+  {
+   "id": "NousResearch/Arete-27B",
+   "url": "https://huggingface.co/NousResearch/Arete-27B",
+   "org": "NousResearch",
+   "task": "text-generation",
+   "likes": 554,
+   "downloads": 5545,
+   "trending": 439,
+   "created": "2026-11-06T19:31:28.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "Lightricks/LTX-2.5",
+   "url": "https://huggingface.co/Lightricks/LTX-2.5",
+   "org": "Lightricks",
+   "task": "image-to-video",
+   "likes": 11784,
+   "downloads": 2778909,
+   "trending": 406,
+   "created": "2026-07-23T07:55:24.000Z",
+   "license": "other"
+  },
+  {
+   "id": "Qwen/Qwen3.8-27B",
+   "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+   "org": "Qwen",
+   "task": "image-text-to-text",
+   "likes": 19880,
+   "downloads": 6960395,
+   "trending": 396,
+   "created": "2026-08-05T08:22:59.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "speridlabs/idol",
+   "url": "https://huggingface.co/speridlabs/idol",
+   "org": "speridlabs",
+   "task": "image-to-3d",
+   "likes": 2298,
+   "downloads": 31367,
+   "trending": 384,
+   "created": "2026-10-28T15:55:17.000Z",
+   "license": "apache-2.0"
+  }
+ ]
+}
