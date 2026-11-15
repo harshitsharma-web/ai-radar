@@ -1,0 +1,274 @@
+{
+ "date": "2026-11-15",
+ "generated_at": "2026-11-15T01:38:19Z",
+ "stories": [
+  {
+   "lead": "951c84561943",
+   "score": 12.03,
+   "count": 8,
+   "sources": [
+    "CNBC",
+    "Decrypt",
+    "Mashable",
+    "PCMag",
+    "Reuters",
+    "TechCrunch",
+    "The Verge"
+   ],
+   "related": [
+    "4e379f6cb9d3",
+    "605e853ed573",
+    "63b30a132b58",
+    "94e5a8db0732",
+    "002c9a6d4f74",
+    "ab35997562fc",
+    "423adf6f811c"
+   ],
+   "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+  },
+  {
+   "lead": "cf396d1c5931",
+   "score": 5.54,
+   "count": 4,
+   "sources": [
+    "ABC7 Chicago",
+    "Latin Times",
+    "Mashable",
+    "The Business Journal"
+   ],
+   "related": [
+    "19d7b07bbf76",
+    "4c9360bfc7d2",
+    "2e22a9b45028"
+   ],
+   "title": "Microsoft outage update: Company says Microsoft 365 services fully restored after Outlook, Teams and AI assistant Copilot impacted",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVjVLSFJaN1M0OFNyQzlvTUVfNnhta3pqTjJsamItWFJwS09Da1Y5UFk0T1hGRXdYdzF4TG9kalV0bTdDQXY4N05fWS1JZEhQU3FNX1FZVXBoQXJfZlVJOERXU2Fqdm5yYzRxcmhBalpScUpxVVV0UVJ1cUFsajJoeGU2QXlmWWxkMWdjXzJxQmxKVUdzWl84VXROM1V3alFvckdYSGpscVZnX0tpUUFuU3kxT1M4VTVsUTQ3WXZ0ODdSRThaajhyN0x0cTNVdmhydFNZbWZ2V3R6ZThxOG5Mb9IB5gFBVV95cUxNNTFUdG9CZllpX3BJUHg1Y3ZheklmM2J4ZXVPZzg3THM4cTgyNDk0R2NBbWkxVHlqVnd5NU5TTHJWSk5LeU1SYzRhTTQ0c005MndyaG5ZZVdXTXVaNkJ5M0k3aV84alh5cjJzUFlwWl9vbjkwOTNTMGliR3p0VUZxQmV2WThjZ3QtVVg4QnhoVHZ3UUk5REh4T01PUlhoZGVELUl6Z0VIYmFmOERzRWZuUm1LbkZycm5hX1Fwa1psS3hicXBZSi1uYU5XdHdWVWZlV1dSX2l5TUI2RUUzeW93dzhMWjBndw?oc=5"
+  },
+  {
+   "lead": "3611f8f5f617",
+   "score": 5.42,
+   "count": 4,
+   "sources": [
+    "Appleosophy",
+    "MacDailyNews",
+    "MacRumors",
+    "Thurrott.com"
+   ],
+   "related": [
+    "ff77c8e379ee",
+    "55ad611c1e63",
+    "43107347b159"
+   ],
+   "title": "Apple releases tvOS 27.2.1, delivering Siri AI to multiple Apple TV 4K models",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORkNFYlNmTXhDcG85c21rV3ZnSnlhUmp2ZEo0RHIxalJBYTdvWjk0TnFtS0dld05oUWZQRFlKTF80bnJxdVRvQU5KLTE0cDFyZGxaYkVua0FIUXV5Wm5QV1N3WUpyWEI2YVdRUGMzOEFUYVh4M0hqQXh3NzJOVzdGUnpoZUNzT24wQWtoSmpQOTFIdV9yTkJpcUZvYWxrSDJIbFZVY2lBcFc3a2ppTXJnR19PUdIBuAFBVV95cUxNNFo0eFl5SWtzck5UeXNGMkJyQmRDajgyNTBMVUVYUVBCNTZNYUFNWVI2d3hkb2ItdURieGNOaGw2a2Vrc25iNWNnNEdsODcxa2hHaWNwOUljWFY4dlg0dzZxTDJiWFBQZnNMa01OX0gwOTNPR1pjT1I0R0dnU0dZNGQwZHEybktYMG5lZE91c3VKZ2ZNMHNJd1pFUXFaUkxMWi1pZVFON0dWRHhWNUQtNUVrZkwyZDlk?oc=5"
+  },
+  {
+   "lead": "56623f1d9c94",
+   "score": 4.34,
+   "count": 2,
+   "sources": [
+    "Hacker News",
+    "TechCrunch"
+   ],
+   "related": [
+    "7039aca8dbba"
+   ],
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+  },
+  {
+   "lead": "ca1cf42e656d",
+   "score": 4.3,
+   "count": 3,
+   "sources": [
+    "24/7 Wall St.",
+    "Crypto Briefing",
+    "Yahoo Finance"
+   ],
+   "related": [
+    "6d43cccb137d",
+    "899d98e702ff"
+   ],
+   "title": "Meta Is Testing a Prediction-Market App With Its Employees",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNGdQaHhwY2pRYlFhNXY0VUd5bGhGNFBzcE5ycWMzbkpsSENIX3cxTGY3eDVpR1VWdHVEUGhWbklLOUd0Q0MtSVgwWUhSa1JGSVgteVZtbDJlOXZkc0JyVTBydEpjYVJ0c0h2bUlhaTlhT2dJcXVnNFFBZHNrMHZIMjRtZE5sWjd6Um5haHlNTHNZNHNSTVEtMHhIMA?oc=5"
+  },
+  {
+   "lead": "0322d2a0d024",
+   "score": 3.99,
+   "count": 1,
+   "sources": [
+    "Hacker News"
+   ],
+   "related": [],
+   "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+   "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html"
+  },
+  {
+   "lead": "92d22a4ed6e0",
+   "score": 3.68,
+   "count": 3,
+   "sources": [
+    "BigGo Finance",
+    "Unite.AI",
+    "blog.google"
+   ],
+   "related": [
+    "a6809071d79a",
+    "106b82111873"
+   ],
+   "title": "Google Ties Gemini to Wallet and Bank Accounts to Track Spending and Flag Subscription Hikes",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wVU5kaFNrQUNYYm8wSTA2ZDhLajJuQVhvYVA3VUY1SUZ2N2dKQVpiZHVLTldHX0tXTGtUSkpZWnBVMkpVTVk0RXJVU1B5cXN6bzg4SDQtcjRoa2RsVDlycmJBMC1NbEx6eVVkOUhzS08wLW1XWlE?oc=5"
+  },
+  {
+   "lead": "e4216ba94699",
+   "score": 3.53,
+   "count": 3,
+   "sources": [
+    "Investing.com",
+    "The Information",
+    "Yahoo Finance"
+   ],
+   "related": [
+    "2a365dce5467",
+    "76d9378b324b"
+   ],
+   "title": "Musk’s AI group lays off 60 staffers from Grok video unit, The Information reports",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa0p2M3ZLZmMwempqUWRJN2k4cHNzakZmN2tINjJfMWtKMk5TOVd3VjJyNHNlYm8ybmFIdzVHaWxoNWs4RlduZlZMLXd6eHlabXM0X1ZJT2tRMzNqazRMSnQwVzl1d1B0WXFTZlRaTGNvVEZ5czlqNmk2RGt5QW1YVUdvaDFLS3hGSzQxaEE0WQ?oc=5"
+  },
+  {
+   "lead": "2a2bfff1121f",
+   "score": 3.5,
+   "count": 2,
+   "sources": [
+    "Inc42",
+    "TechCrunch"
+   ],
+   "related": [
+    "2965a827d19e"
+   ],
+   "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+   "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+  },
+  {
+   "lead": "567fa298898a",
+   "score": 3.48,
+   "count": 2,
+   "sources": [
+    "The Verge",
+    "Wired"
+   ],
+   "related": [
+    "948cab028170"
+   ],
+   "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+   "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo"
+  }
+ ],
+ "papers": [
+  {
+   "id": "9d279f8afefe",
+   "title": "PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models",
+   "url": "https://huggingface.co/papers/2611.16748",
+   "upvotes": 46
+  },
+  {
+   "id": "731431771b9c",
+   "title": "Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents",
+   "url": "https://huggingface.co/papers/2611.17167",
+   "upvotes": 33
+  },
+  {
+   "id": "d7b46d3d8c2d",
+   "title": "Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors",
+   "url": "https://huggingface.co/papers/2611.17060",
+   "upvotes": 26
+  },
+  {
+   "id": "04469787bcf4",
+   "title": "TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models",
+   "url": "https://huggingface.co/papers/2611.17331",
+   "upvotes": 22
+  },
+  {
+   "id": "284da35216fb",
+   "title": "WorldDraft: If Code Builds the World, Can Video Models Just Render It?",
+   "url": "https://huggingface.co/papers/2611.16217",
+   "upvotes": 16
+  },
+  {
+   "id": "8fbf66c8f708",
+   "title": "Unbundling Multimodal Vision Encoding",
+   "url": "https://huggingface.co/papers/2611.17334",
+   "upvotes": 14
+  }
+ ],
+ "models": [
+  {
+   "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+   "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+   "org": "xtools-at",
+   "task": "text-generation",
+   "likes": 7365,
+   "downloads": 24470,
+   "trending": 4300,
+   "created": "2026-10-30T10:21:29.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "MiniMaxAI/MiniMax-H3-Image",
+   "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+   "org": "MiniMaxAI",
+   "task": "text-to-image",
+   "likes": 1117,
+   "downloads": 517948,
+   "trending": 1017,
+   "created": "2026-11-03T06:34:36.000Z",
+   "license": "other"
+  },
+  {
+   "id": "Qwen/Qwen3.8-27B",
+   "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+   "org": "Qwen",
+   "task": "image-text-to-text",
+   "likes": 20014,
+   "downloads": 6757964,
+   "trending": 434,
+   "created": "2026-08-05T08:22:59.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "Lightricks/LTX-2.5",
+   "url": "https://huggingface.co/Lightricks/LTX-2.5",
+   "org": "Lightricks",
+   "task": "image-to-video",
+   "likes": 11932,
+   "downloads": 2777667,
+   "trending": 430,
+   "created": "2026-07-23T07:55:24.000Z",
+   "license": "other"
+  },
+  {
+   "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+   "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+   "org": "DavidAU",
+   "task": "image-text-to-text",
+   "likes": 3123,
+   "downloads": 1657783,
+   "trending": 356,
+   "created": "2026-09-01T07:01:09.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "Comfy-Org/MiniMax-H3-Image",
+   "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
+   "org": "Comfy-Org",
+   "task": "text-to-image",
+   "likes": 386,
+   "downloads": 1615613,
+   "trending": 349,
+   "created": "2026-11-08T20:37:23.000Z",
+   "license": "other"
+  }
+ ]
+}
