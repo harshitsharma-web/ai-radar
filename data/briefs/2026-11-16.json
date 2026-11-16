@@ -1,0 +1,214 @@
+{
+ "date": "2026-11-16",
+ "generated_at": "2026-11-16T01:52:11Z",
+ "stories": [
+  {
+   "lead": "2f1f5cbf7ce8",
+   "score": 10.26,
+   "count": 3,
+   "sources": [
+    "Hacker News",
+    "The Verge"
+   ],
+   "related": [
+    "d636d94c5ddd",
+    "fb466a35c2a7"
+   ],
+   "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+   "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed"
+  },
+  {
+   "lead": "032f017e4aaf",
+   "score": 5.37,
+   "count": 3,
+   "sources": [
+    "Apple",
+    "Fierce Healthcare",
+    "TechCrunch"
+   ],
+   "related": [
+    "5b0c8b2dbd7f",
+    "fd076c58ecde"
+   ],
+   "title": "HLTH26: Apple launches 200K-person study to examine how consumers use health AI",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS2g1VE5ncFdqMWNXbnZRUGVOejhFT21maHpyQ2hxRkxzajhWaS1NRDM5bFU2LVlEMkJKTURxcVh2SzBLdGJmdW1nY25SNmpBNFpiY3JNVF9zT3NnbnpDd2pjbERrM3M1enVvelBxd1cwWGtKdk1NbHhwZWZOOG5ERU1vOTBLdmhSSjEwTkFaVllKRzFjcmJuWW5CTzRfY3ZqdF9ZXy1hcmdIMExoR1o4XzcxZ2wtZFE?oc=5"
+  },
+  {
+   "lead": "fc91828979fb",
+   "score": 4.95,
+   "count": 3,
+   "sources": [
+    "TechCrunch",
+    "Unite.AI"
+   ],
+   "related": [
+    "4f07d09d903a",
+    "cb3bba8f9d85"
+   ],
+   "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+   "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
+  },
+  {
+   "lead": "29a65278fade",
+   "score": 4.57,
+   "count": 3,
+   "sources": [
+    "BigGo Finance",
+    "The Motley Fool",
+    "Yahoo Finance"
+   ],
+   "related": [
+    "7da40dd7b62b",
+    "0b31175233db"
+   ],
+   "title": "Microsoft Opens Ignite With Copilot Seat Count Still a Mystery and Morgan Stanley Betting on $650",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55VHU1emMtOWR3bWM0Yk85UUlRYXFtcVE0Mm5HeFVVNDBjSDQyNzRTempJcW9ndVZJcXFoU2xNd3RCY2J4OFB3S1Q3ck1adG5xalJvTEpYOE9DVEMwaGs2bUQxTGZwVFpZUVU3UXB5QWJTMzFBamc?oc=5"
+  },
+  {
+   "lead": "1207b5c1c70b",
+   "score": 4.36,
+   "count": 3,
+   "sources": [
+    "Financial Times",
+    "The Verge"
+   ],
+   "related": [
+    "6e13e0035041",
+    "9ca72ff23970"
+   ],
+   "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
+  },
+  {
+   "lead": "54c755143c66",
+   "score": 4.26,
+   "count": 3,
+   "sources": [
+    "Cointribune",
+    "Pasquale Pillitteri",
+    "Yahoo"
+   ],
+   "related": [
+    "a39d160ddea3",
+    "1ed700094fe2"
+   ],
+   "title": "Four nonprofits sue Anthropic, OpenAI, Google, Meta and SpaceX to freeze the most powerful AI",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcDdQcllBa0MzY1JPa2VabTFoS09SR090M09qbVIyU3JrTVgwc2gtbTN1eENOR3JNd1FJQ2JydHdvcmIxT0NQemVZYzJOemJmUV9NNGNvUHJUTHRneGh1b18zMGZQNjloZmlLbzJDTFhkUFJwQzhKQTMxSFJ5eG10OFQ3c3QyZS11ckw1R09MVXBfVUNOQUFxMkhjS1JSX2xtUXBFVlNB?oc=5"
+  },
+  {
+   "lead": "de1b04aef218",
+   "score": 4.08,
+   "count": 1,
+   "sources": [
+    "Hacker News"
+   ],
+   "related": [],
+   "title": "All AI-generated code should be Open Source",
+   "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
+  },
+  {
+   "lead": "87d7014c15ee",
+   "score": 3.6,
+   "count": 2,
+   "sources": [
+    "OpenAI"
+   ],
+   "related": [
+    "1c84099de1fb"
+   ],
+   "title": "A step toward defining the Standard Model on a lattice",
+   "url": "https://openai.com/index/step-toward-defining-the-standard-model"
+  },
+  {
+   "lead": "294a13221fad",
+   "score": 3.32,
+   "count": 1,
+   "sources": [
+    "Hacker News"
+   ],
+   "related": [],
+   "title": "Your Agent Will Pick the Hackable One",
+   "url": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/"
+  },
+  {
+   "lead": "da5a45ac447a",
+   "score": 3.12,
+   "count": 1,
+   "sources": [
+    "Hacker News"
+   ],
+   "related": [],
+   "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+   "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/"
+  }
+ ],
+ "papers": [],
+ "models": [
+  {
+   "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+   "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+   "org": "xtools-at",
+   "task": "text-generation",
+   "likes": 7541,
+   "downloads": 27037,
+   "trending": 4129,
+   "created": "2026-10-30T10:21:29.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "MiniMaxAI/MiniMax-H3-Image",
+   "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+   "org": "MiniMaxAI",
+   "task": "text-to-image",
+   "likes": 1187,
+   "downloads": 571067,
+   "trending": 1073,
+   "created": "2026-11-03T06:34:36.000Z",
+   "license": "other"
+  },
+  {
+   "id": "Qwen/Qwen3.8-27B",
+   "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+   "org": "Qwen",
+   "task": "image-text-to-text",
+   "likes": 20127,
+   "downloads": 6547772,
+   "trending": 450,
+   "created": "2026-08-05T08:22:59.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "Lightricks/LTX-2.5",
+   "url": "https://huggingface.co/Lightricks/LTX-2.5",
+   "org": "Lightricks",
+   "task": "image-to-video",
+   "likes": 12067,
+   "downloads": 2754355,
+   "trending": 414,
+   "created": "2026-07-23T07:55:24.000Z",
+   "license": "other"
+  },
+  {
+   "id": "Comfy-Org/MiniMax-H3-Image",
+   "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
+   "org": "Comfy-Org",
+   "task": "text-to-image",
+   "likes": 411,
+   "downloads": 1973388,
+   "trending": 370,
+   "created": "2026-11-08T20:37:23.000Z",
+   "license": "other"
+  },
+  {
+   "id": "Zyphra/ZONOS3-Mini",
+   "url": "https://huggingface.co/Zyphra/ZONOS3-Mini",
+   "org": "Zyphra",
+   "task": "text-to-speech",
+   "likes": 397,
+   "downloads": 39862,
+   "trending": 357,
+   "created": "2026-11-09T05:03:57.000Z",
+   "license": "apache-2.0"
+  }
+ ]
+}
