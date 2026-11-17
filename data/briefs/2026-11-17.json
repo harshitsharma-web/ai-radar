@@ -1,0 +1,259 @@
+{
+ "date": "2026-11-17",
+ "generated_at": "2026-11-17T01:43:08Z",
+ "stories": [
+  {
+   "lead": "d0b83026be95",
+   "score": 17.11,
+   "count": 8,
+   "sources": [
+    "CalMatters",
+    "NBC News",
+    "NPR",
+    "Politico",
+    "TechCrunch",
+    "The Guardian",
+    "The New York Times",
+    "The Verge"
+   ],
+   "related": [
+    "773cc78ee17a",
+    "fd68578eecc3",
+    "7ffb50bc5260",
+    "770e0b2ea6e8",
+    "4b192a023788",
+    "e53ec310a572",
+    "0ec4a7095d44"
+   ],
+   "title": "California sues OpenAI over rogue AI hacking incidents",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
+  },
+  {
+   "lead": "6fd4401d69f5",
+   "score": 11.95,
+   "count": 6,
+   "sources": [
+    "Ars Technica",
+    "Bloomberg.com",
+    "CBS News",
+    "PBS",
+    "Reuters",
+    "The Journal Record"
+   ],
+   "related": [
+    "97fed349b596",
+    "28a1fab313cf",
+    "979483df2a4f",
+    "016e14b5029a",
+    "785882bb3fd2"
+   ],
+   "title": "US moves to cut China’s remote access to AI chips",
+   "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"
+  },
+  {
+   "lead": "bd7cc537cd57",
+   "score": 9.15,
+   "count": 3,
+   "sources": [
+    "Hacker News",
+    "MIT Technology Review",
+    "The Verge"
+   ],
+   "related": [
+    "21a6fc2b55ff",
+    "1df21d2e2c71"
+   ],
+   "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
+   "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back"
+  },
+  {
+   "lead": "cd9a297fa8a4",
+   "score": 8.56,
+   "count": 5,
+   "sources": [
+    "9to5Mac",
+    "AppleInsider",
+    "MacRumors",
+    "The Verge"
+   ],
+   "related": [
+    "073a1663facf",
+    "d1b3ed33841d",
+    "94bb7c635d9b",
+    "042705828648"
+   ],
+   "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+   "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription"
+  },
+  {
+   "lead": "e21177091248",
+   "score": 7.05,
+   "count": 4,
+   "sources": [
+    "AI Insider",
+    "The Fast Mode",
+    "Yahoo Finance",
+    "citybiz"
+   ],
+   "related": [
+    "cc96bc3f295f",
+    "31f617dae5e2",
+    "ac9eb90f4571"
+   ],
+   "title": "AMD Strengthens AI Infrastructure Strategy with World Labs Acquisition",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNXVkMnZZX3k3Ri1sajVxM0taemp2bDM2U2RsTmRtNktrYVBDM29NcDMzNkR3YUJGcVIzSkJaUG1MU2xTVmZCaUIyV2l5blgzNTFLV1l4UDFRZmZ3V252cDItWlFobjBHMkxjaXdOSS1hdmZ5WjBldGs2RHV6dFk0WXFDeUdHNVFkRmxmMkhqcllaWkJ6RUdoeW40T1NJc2lib0dpVHZITG9hNFZnaFg1Z0FNZ1h6ejFGX01jRUJzZkxwZUk?oc=5"
+  },
+  {
+   "lead": "668b96b1a125",
+   "score": 6.78,
+   "count": 3,
+   "sources": [
+    "Hacker News",
+    "TechCrunch"
+   ],
+   "related": [
+    "d636d94c5ddd",
+    "fb466a35c2a7"
+   ],
+   "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+   "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/"
+  },
+  {
+   "lead": "075ae9bbb51b",
+   "score": 6.36,
+   "count": 4,
+   "sources": [
+    "ForkLog",
+    "HPCwire",
+    "South China Morning Post",
+    "shattered.io"
+   ],
+   "related": [
+    "eb24fd75d03a",
+    "a8acdb91a3f4",
+    "cda7eaa77a10"
+   ],
+   "title": "Alibaba Releases Qwen4-Max with 2.4 Trillion Parameters",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1RwYndKLU00NmtGUG1tek1wSFI2R0kyQU5YYnBKYWx3WllzaVpXejZXX0x1MVMzanBKYy1FdG5OYmNSMEthYzJfVFpSVUlUZVBZandJN0hRdFRmUlZIc2dIaVpBRkhjcmFzTjBiaE40ZGx4WmtIRWVDR05ZZzctQUxzMmZVMUxwQ1Z3WmFJNGF2YVVrVHNsV3M4R3k5M2s?oc=5"
+  },
+  {
+   "lead": "fcbaf2152a3d",
+   "score": 5.85,
+   "count": 4,
+   "sources": [
+    "Bloomberg.com",
+    "Quartz",
+    "TechCrunch"
+   ],
+   "related": [
+    "12809026ff03",
+    "a986754f53cc",
+    "1fa89480863e"
+   ],
+   "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+   "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/"
+  },
+  {
+   "lead": "d7bae93ca45b",
+   "score": 5.18,
+   "count": 3,
+   "sources": [
+    "BigGo Finance",
+    "Decrypt",
+    "Yahoo Tech"
+   ],
+   "related": [
+    "16a2255280c8",
+    "48b79b3e76ce"
+   ],
+   "title": "Alibaba's Qwen 4 Max Tops Chinese AI Agent Rankings, but Its Weights Stay Locked",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YYnhYNTgtNm1ZWUN0YWxCd3ZVY2xBaEx3bzRibzVtQ2pRMkJ1MlJ2N1ZIQjZiUHJlSkFVVnRma3BVYXRrd1RSeUZOdlZlQTRhaXR6bndadldwN0dwRVUwbVdmVEdKeVVGUHlUWjhaampTMU53c3c?oc=5"
+  },
+  {
+   "lead": "09862cd7036c",
+   "score": 4.95,
+   "count": 4,
+   "sources": [
+    "Apple",
+    "Fierce Healthcare",
+    "TechCrunch"
+   ],
+   "related": [
+    "032f017e4aaf",
+    "5b0c8b2dbd7f",
+    "fd076c58ecde"
+   ],
+   "title": "Apple launches new app to study how people use AI for health",
+   "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
+  }
+ ],
+ "papers": [],
+ "models": [
+  {
+   "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+   "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+   "org": "xtools-at",
+   "task": "text-generation",
+   "likes": 8823,
+   "downloads": 29567,
+   "trending": 3009.2999999999997,
+   "created": "2026-10-30T10:21:29.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "MiniMaxAI/MiniMax-H3-Image",
+   "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+   "org": "MiniMaxAI",
+   "task": "text-to-image",
+   "likes": 1320,
+   "downloads": 609130,
+   "trending": 1153,
+   "created": "2026-11-03T06:34:36.000Z",
+   "license": "other"
+  },
+  {
+   "id": "Qwen/Qwen3.8-27B",
+   "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+   "org": "Qwen",
+   "task": "image-text-to-text",
+   "likes": 20276,
+   "downloads": 6763402,
+   "trending": 474,
+   "created": "2026-08-05T08:22:59.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "Lightricks/LTX-2.5",
+   "url": "https://huggingface.co/Lightricks/LTX-2.5",
+   "org": "Lightricks",
+   "task": "image-to-video",
+   "likes": 12242,
+   "downloads": 2789021,
+   "trending": 435,
+   "created": "2026-07-23T07:55:24.000Z",
+   "license": "other"
+  },
+  {
+   "id": "Comfy-Org/MiniMax-H3-Image",
+   "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
+   "org": "Comfy-Org",
+   "task": "text-to-image",
+   "likes": 489,
+   "downloads": 2294065,
+   "trending": 416,
+   "created": "2026-11-08T20:37:23.000Z",
+   "license": "other"
+  },
+  {
+   "id": "Zyphra/ZONOS3-Mini",
+   "url": "https://huggingface.co/Zyphra/ZONOS3-Mini",
+   "org": "Zyphra",
+   "task": "text-to-speech",
+   "likes": 470,
+   "downloads": 69946,
+   "trending": 404,
+   "created": "2026-11-09T05:03:57.000Z",
+   "license": "apache-2.0"
+  }
+ ]
+}
