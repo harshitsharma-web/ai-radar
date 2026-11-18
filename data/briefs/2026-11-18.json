@@ -1,0 +1,312 @@
+{
+ "date": "2026-11-18",
+ "generated_at": "2026-11-18T01:47:35Z",
+ "stories": [
+  {
+   "lead": "e0185595ee6e",
+   "score": 16.99,
+   "count": 8,
+   "sources": [
+    "Bloomberg.com",
+    "Hacker News",
+    "TechCrunch",
+    "The Verge",
+    "Zvi Mowshowitz"
+   ],
+   "related": [
+    "8239fbdc6243",
+    "8f07365d378c",
+    "01ad01e5cd41",
+    "950a39f90ba9",
+    "72e93cda2ff7",
+    "c2e53d971f5b",
+    "1df21d2e2c71"
+   ],
+   "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+   "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement"
+  },
+  {
+   "lead": "6fd4401d69f5",
+   "score": 14.6,
+   "count": 9,
+   "sources": [
+    "Al Jazeera",
+    "Ars Technica",
+    "Bloomberg.com",
+    "CBS News",
+    "NPR",
+    "PBS",
+    "Reuters",
+    "The Journal Record",
+    "WilmerHale"
+   ],
+   "related": [
+    "18cb895feb7e",
+    "7d704ae062fc",
+    "97fed349b596",
+    "28a1fab313cf",
+    "979483df2a4f",
+    "016e14b5029a",
+    "a77930367dd2",
+    "785882bb3fd2"
+   ],
+   "title": "US moves to cut China’s remote access to AI chips",
+   "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"
+  },
+  {
+   "lead": "d0b83026be95",
+   "score": 13.77,
+   "count": 9,
+   "sources": [
+    "CalMatters",
+    "NBC News",
+    "NPR",
+    "Politico",
+    "TechCrunch",
+    "The Guardian",
+    "The New York Times",
+    "The Verge"
+   ],
+   "related": [
+    "773cc78ee17a",
+    "02f76b08aae1",
+    "fd68578eecc3",
+    "7ffb50bc5260",
+    "770e0b2ea6e8",
+    "4b192a023788",
+    "e53ec310a572",
+    "0ec4a7095d44"
+   ],
+   "title": "California sues OpenAI over rogue AI hacking incidents",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
+  },
+  {
+   "lead": "bccee91cf811",
+   "score": 9.11,
+   "count": 5,
+   "sources": [
+    "Ars Technica",
+    "Microsoft",
+    "Petri IT Knowledgebase",
+    "Startup Fortune"
+   ],
+   "related": [
+    "d19907fc6c17",
+    "6361bc0bb7e7",
+    "6b8193bcffec",
+    "c6e5b6007966"
+   ],
+   "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+   "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/"
+  },
+  {
+   "lead": "cd9a297fa8a4",
+   "score": 8.09,
+   "count": 6,
+   "sources": [
+    "9to5Mac",
+    "AppleInsider",
+    "MacRumors",
+    "MacStories",
+    "The Verge"
+   ],
+   "related": [
+    "501f46dae724",
+    "073a1663facf",
+    "d1b3ed33841d",
+    "94bb7c635d9b",
+    "042705828648"
+   ],
+   "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+   "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription"
+  },
+  {
+   "lead": "5cbc55e1b429",
+   "score": 6.56,
+   "count": 2,
+   "sources": [
+    "Hacker News",
+    "Simon Willison"
+   ],
+   "related": [
+    "549a77347d5e"
+   ],
+   "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+   "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/"
+  },
+  {
+   "lead": "bd7cc537cd57",
+   "score": 5.9,
+   "count": 3,
+   "sources": [
+    "MIT Technology Review",
+    "The Verge",
+    "Wired"
+   ],
+   "related": [
+    "96341578a31f",
+    "21a6fc2b55ff"
+   ],
+   "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
+   "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back"
+  },
+  {
+   "lead": "4cd813e5fb19",
+   "score": 5.57,
+   "count": 4,
+   "sources": [
+    "BigGo Finance",
+    "Decrypt",
+    "KuCoin",
+    "Yahoo Tech"
+   ],
+   "related": [
+    "d7bae93ca45b",
+    "16a2255280c8",
+    "48b79b3e76ce"
+   ],
+   "title": "Alibaba Launches Qwen 4 Max, Tops Chinese AI Agent Rankings",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZkxxOFpVZ0gyMU1wSVVkT2dhMkhvLV9JakV4YXZFTHVfR2ltei1LRktjX18zaFFxbWtfOTc5RzVsQmdjdDF6cnJKR0dJUC1FM291Zk1OUk1PRGc4eUd5NDZxTzRuNml2ell1RDRIX1JTYnh2OVpmYVdyTWtSdmhEd0RpRVVwdDkwb25wbFI3ZnA1b0Z2MnV2Mg?oc=5"
+  },
+  {
+   "lead": "e21177091248",
+   "score": 5.37,
+   "count": 4,
+   "sources": [
+    "AI Insider",
+    "The Fast Mode",
+    "Yahoo Finance",
+    "citybiz"
+   ],
+   "related": [
+    "cc96bc3f295f",
+    "31f617dae5e2",
+    "ac9eb90f4571"
+   ],
+   "title": "AMD Strengthens AI Infrastructure Strategy with World Labs Acquisition",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNXVkMnZZX3k3Ri1sajVxM0taemp2bDM2U2RsTmRtNktrYVBDM29NcDMzNkR3YUJGcVIzSkJaUG1MU2xTVmZCaUIyV2l5blgzNTFLV1l4UDFRZmZ3V252cDItWlFobjBHMkxjaXdOSS1hdmZ5WjBldGs2RHV6dFk0WXFDeUdHNVFkRmxmMkhqcllaWkJ6RUdoeW40T1NJc2lib0dpVHZITG9hNFZnaFg1Z0FNZ1h6ejFGX01jRUJzZkxwZUk?oc=5"
+  },
+  {
+   "lead": "692fe878f9a1",
+   "score": 4.88,
+   "count": 3,
+   "sources": [
+    "Axios",
+    "GeekWire",
+    "Reuters"
+   ],
+   "related": [
+    "262c8edf4e6d",
+    "c9534d003aba"
+   ],
+   "title": "Microsoft jabs at OpenAI and Anthropic, touting cheaper, customizable AI models of its own",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX0pCVkNJTDc2MENyM3Y1Q0hJRzRyQkg3U2NxVGp1eXRzd2RsM1JNa1BlSkxQckZuSFVLZk1lMmZwdHJPN00xTWVQZi1rUURyTnQzNTlISXhVX1RMalNPMXhZLVpWVXc5eVQzcmZSYlVrY2psVERzN1MzMzY3TElCbUFNWkhBS1dSeklnOGVMVkdSSnVjeUxMUGxmbWFhOGlWWVN4SEtwQ2RhRUFUVG9mNF93UC1XQjczcnBR?oc=5"
+  }
+ ],
+ "papers": [
+  {
+   "id": "c618f0b74f32",
+   "title": "Sage S2.1 Flash Technical Report",
+   "url": "https://huggingface.co/papers/2611.21072",
+   "upvotes": 85
+  },
+  {
+   "id": "e1f0b0269911",
+   "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
+   "url": "https://huggingface.co/papers/2611.21003",
+   "upvotes": 72
+  },
+  {
+   "id": "7057ef2f1228",
+   "title": "AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data",
+   "url": "https://huggingface.co/papers/2611.19937",
+   "upvotes": 67
+  },
+  {
+   "id": "15712514dcdf",
+   "title": "InclusionMed: Benchmarking AI for Inclusive Healthcare",
+   "url": "https://huggingface.co/papers/2611.21218",
+   "upvotes": 62
+  },
+  {
+   "id": "b88709aa5efa",
+   "title": "SWE-CoWork: Benchmarking Coding Agents as Digital Employees in Organizations",
+   "url": "https://huggingface.co/papers/2611.20218",
+   "upvotes": 46
+  },
+  {
+   "id": "0904df37e969",
+   "title": "ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters",
+   "url": "https://huggingface.co/papers/2611.21607",
+   "upvotes": 41
+  }
+ ],
+ "models": [
+  {
+   "id": "MiniMaxAI/MiniMax-H3-Image",
+   "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+   "org": "MiniMaxAI",
+   "task": "text-to-image",
+   "likes": 1465,
+   "downloads": 727110,
+   "trending": 793,
+   "created": "2026-11-03T06:34:36.000Z",
+   "license": "other"
+  },
+  {
+   "id": "Qwen/Qwen3.8-27B",
+   "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+   "org": "Qwen",
+   "task": "image-text-to-text",
+   "likes": 20435,
+   "downloads": 6942530,
+   "trending": 511,
+   "created": "2026-08-05T08:22:59.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "higurashi-ai/Haru-4B",
+   "url": "https://huggingface.co/higurashi-ai/Haru-4B",
+   "org": "higurashi-ai",
+   "task": "audio-to-audio",
+   "likes": 506,
+   "downloads": 4445,
+   "trending": 396,
+   "created": "2026-11-12T11:05:59.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "Lightricks/LTX-2.5",
+   "url": "https://huggingface.co/Lightricks/LTX-2.5",
+   "org": "Lightricks",
+   "task": "image-to-video",
+   "likes": 12406,
+   "downloads": 2828071,
+   "trending": 388,
+   "created": "2026-07-23T07:55:24.000Z",
+   "license": "other"
+  },
+  {
+   "id": "thinkingmachines/Inkling-2-Small",
+   "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small",
+   "org": "thinkingmachines",
+   "task": "image-text-to-text",
+   "likes": 442,
+   "downloads": 18359,
+   "trending": 350,
+   "created": "2026-11-04T19:51:05.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "unsloth/Qwen3.8-27B-GGUF",
+   "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+   "org": "unsloth",
+   "task": null,
+   "likes": 6141,
+   "downloads": 6827598,
+   "trending": 327,
+   "created": "2026-08-13T08:28:40.000Z",
+   "license": "apache-2.0"
+  }
+ ]
+}
