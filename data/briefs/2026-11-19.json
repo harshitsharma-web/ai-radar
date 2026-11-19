@@ -1,0 +1,268 @@
+{
+ "date": "2026-11-19",
+ "generated_at": "2026-11-19T01:45:12Z",
+ "stories": [
+  {
+   "lead": "7c37480e5f49",
+   "score": 6.51,
+   "count": 3,
+   "sources": [
+    "Hacker News",
+    "Latent Space",
+    "Simon Willison"
+   ],
+   "related": [
+    "5cbc55e1b429",
+    "549a77347d5e"
+   ],
+   "title": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
+   "url": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/"
+  },
+  {
+   "lead": "e0185595ee6e",
+   "score": 6.5,
+   "count": 5,
+   "sources": [
+    "TechCrunch",
+    "The Verge"
+   ],
+   "related": [
+    "246fea28a789",
+    "8239fbdc6243",
+    "01ad01e5cd41",
+    "950a39f90ba9"
+   ],
+   "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+   "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement"
+  },
+  {
+   "lead": "2148c06d5923",
+   "score": 6.36,
+   "count": 4,
+   "sources": [
+    "MacDailyNews",
+    "MacStories",
+    "NeoTeo",
+    "Yahoo Tech"
+   ],
+   "related": [
+    "2c5b6e619d23",
+    "41438987fe23",
+    "501f46dae724"
+   ],
+   "title": "iOS 27.3 Puts a Daily Cap on Advanced Siri AI Requests",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQVFWRUg2RkVtUUt5TFlsYklhSlRDUGdIcEt3RFRhUE42S2hlb3BpNGZHY2lneVlhajJSWFZyZm9aUW9GOGlGNzJVazNQN192eWdMQXQtblBrMG5YVXFlTHZQQk9BSnJSV0NFYzEtSFd1bDhqZ0tkcGdmejJraV9BaWQyMzRqQjFNeG1CV01rWnVMdw?oc=5"
+  },
+  {
+   "lead": "2356aca8dea7",
+   "score": 5.69,
+   "count": 4,
+   "sources": [
+    "Salesforce",
+    "Startup Fortune",
+    "The Futurum Group",
+    "Unite.AI"
+   ],
+   "related": [
+    "d19907fc6c17",
+    "e080a57a29c5",
+    "3f97f74c05b8"
+   ],
+   "title": "Copilotforce Partnership Puts Salesforce Inside Microsoft Copilot",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMGRVc2RsenVNYjhDYy0zd1pxVGdFRUhEcW9XN3lieGsyTmJIaHR5Yk5POHNGUjhYbURwOUdHRlU2N3NLSWEwSl9WVmlFVDA2YkVYNWVrZHZ2RFZRZ2YxN2ItNnZ6WmhqTXdjWE5TcFFuZktRV1MwN3JaUjVudHpYWFczUGlUZ0w2ZDRyUl9aU2hvRk5rc2RzVDhnSFRYRTNsT3c?oc=5"
+  },
+  {
+   "lead": "b7121aa76176",
+   "score": 5.48,
+   "count": 3,
+   "sources": [
+    "Bloomberg.com",
+    "Reuters",
+    "TechCrunch"
+   ],
+   "related": [
+    "d7580d634560",
+    "c7d9c2a531ad"
+   ],
+   "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+   "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
+  },
+  {
+   "lead": "c7d3ecb00643",
+   "score": 5.44,
+   "count": 2,
+   "sources": [
+    "Hacker News",
+    "OpenAI"
+   ],
+   "related": [
+    "d269382404aa"
+   ],
+   "title": "Advancing chip design with OpenAI models",
+   "url": "https://openai.com/index/advancing-chip-design-with-our-models/"
+  },
+  {
+   "lead": "ce416493dbd7",
+   "score": 5.1,
+   "count": 3,
+   "sources": [
+    "Bloomberg.com",
+    "Reuters",
+    "The Verge"
+   ],
+   "related": [
+    "fcfef2e40a27",
+    "72e93cda2ff7"
+   ],
+   "title": "Nvidia isn’t selling any more AI chips to China",
+   "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling"
+  },
+  {
+   "lead": "b898a1b2127c",
+   "score": 4.76,
+   "count": 2,
+   "sources": [
+    "Google DeepMind",
+    "blog.google"
+   ],
+   "related": [
+    "370c7a370105"
+   ],
+   "title": "Introducing Gemini 4 Neon",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-neon/"
+  },
+  {
+   "lead": "f776d75d9289",
+   "score": 4.64,
+   "count": 3,
+   "sources": [
+    "AI Insider",
+    "Bloomberg.com",
+    "Business Standard"
+   ],
+   "related": [
+    "226b7f97e529",
+    "62041dfce3bc"
+   ],
+   "title": "India's Humyn Labs Raises $47M in Series A Funding to Expand Physical AI Training and Deployment Services",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeHU3dDY1UE1Lb0s5ZEoxcDJJVmtGc3d5bHpOVFBRSVF5MEJ5MnI4eElORURWbnFZSFdFM2hLTXNRZ3hLY1NxS1BCQVdzNjZtTndXTkNJWVBQX2NLZUpHdnlPcU9oVVR2dXV5dnFWMnJDMHZvbXN2RHl4cWFBOFpxRWFRaFhLRFF5MWtGSExFcEJtN0xOQ3NEQlpfQzlKOERIbkZXNHFOWXd4MXF4VTFDQ3Z2T3o0UVRxVWlaZnNOdklsT1lUX1hxZkdSaEZXUzZmdDczM3R6ZGs?oc=5"
+  },
+  {
+   "lead": "b2c084a41275",
+   "score": 4.42,
+   "count": 1,
+   "sources": [
+    "Hacker News"
+   ],
+   "related": [],
+   "title": "Gemini 4 Neon",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+  }
+ ],
+ "papers": [
+  {
+   "id": "b5c8370aae01",
+   "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
+   "url": "https://huggingface.co/papers/2611.22115",
+   "upvotes": 150
+  },
+  {
+   "id": "15712514dcdf",
+   "title": "InclusionMed: Benchmarking AI for Inclusive Healthcare",
+   "url": "https://huggingface.co/papers/2611.21218",
+   "upvotes": 97
+  },
+  {
+   "id": "c618f0b74f32",
+   "title": "Sage S2.1 Flash Technical Report",
+   "url": "https://huggingface.co/papers/2611.21072",
+   "upvotes": 95
+  },
+  {
+   "id": "e1f0b0269911",
+   "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
+   "url": "https://huggingface.co/papers/2611.21003",
+   "upvotes": 84
+  },
+  {
+   "id": "62671662bfc5",
+   "title": "Weight-Space Programming Doesn't Need Transformers",
+   "url": "https://huggingface.co/papers/2611.22055",
+   "upvotes": 49
+  },
+  {
+   "id": "5ed8080e8d3e",
+   "title": "ForceHarness: Turning Force into Action and Physics for Frozen Frontier Models",
+   "url": "https://huggingface.co/papers/2611.21099",
+   "upvotes": 39
+  }
+ ],
+ "models": [
+  {
+   "id": "higurashi-ai/Haru-4B",
+   "url": "https://huggingface.co/higurashi-ai/Haru-4B",
+   "org": "higurashi-ai",
+   "task": "audio-to-audio",
+   "likes": 689,
+   "downloads": 5314,
+   "trending": 531,
+   "created": "2026-11-12T11:05:59.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "harness-hub/Qwen3.8-27B-pi-adapted",
+   "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+   "org": "harness-hub",
+   "task": "image-text-to-text",
+   "likes": 418,
+   "downloads": 377,
+   "trending": 394,
+   "created": "2026-11-16T06:52:31.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "Lightricks/LTX-2.5",
+   "url": "https://huggingface.co/Lightricks/LTX-2.5",
+   "org": "Lightricks",
+   "task": "image-to-video",
+   "likes": 12565,
+   "downloads": 2871190,
+   "trending": 384,
+   "created": "2026-07-23T07:55:24.000Z",
+   "license": "other"
+  },
+  {
+   "id": "thinkingmachines/Inkling-2-Small",
+   "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small",
+   "org": "thinkingmachines",
+   "task": "image-text-to-text",
+   "likes": 494,
+   "downloads": 30082,
+   "trending": 367,
+   "created": "2026-11-04T19:51:05.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "MiniMaxAI/MiniMax-H3-Image",
+   "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+   "org": "MiniMaxAI",
+   "task": "text-to-image",
+   "likes": 1581,
+   "downloads": 759661,
+   "trending": 259,
+   "created": "2026-11-03T06:34:36.000Z",
+   "license": "other"
+  },
+  {
+   "id": "Qwen/Qwen3.8-27B",
+   "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+   "org": "Qwen",
+   "task": "image-text-to-text",
+   "likes": 20560,
+   "downloads": 6888351,
+   "trending": 245,
+   "created": "2026-08-05T08:22:59.000Z",
+   "license": "apache-2.0"
+  }
+ ]
+}
