@@ -1,0 +1,295 @@
+{
+ "date": "2026-11-20",
+ "generated_at": "2026-11-20T01:39:22Z",
+ "stories": [
+  {
+   "lead": "b106a8529933",
+   "score": 14.29,
+   "count": 9,
+   "sources": [
+    "Beinsure",
+    "CRN",
+    "CSO Online",
+    "CTech",
+    "Channel Dive",
+    "PR Newswire",
+    "The American Bazaar",
+    "Yahoo Finance"
+   ],
+   "related": [
+    "e2dfecdcab33",
+    "1323d7498b23",
+    "1f1b6b64a0fc",
+    "bfa46c2b8011",
+    "eedab02caed8",
+    "14b5488cb6ef",
+    "8e08981c0943",
+    "29b20dcefea3"
+   ],
+   "title": "Palo Alto Networks jumps into model training with $4.5B Applied Compute acquisition",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWRwdTNNMG5wQTBWMXJNNGgzRzl2bW8xeDhucFZVeVctY3BwWE1LbWVGNFp1TDkxSWZjNFZaNjRwdGcwSS1lQ0JDUWFLeHFOWV9LaUUxZUpyVWtwajZzOEJzNHNkX0NXT0dORjZFSmNTTTJpMnBWVERUOTNfdktpZmRlM0ZFdGNzVUpaOFNpSV8xeV9oVXVkTWI3Tk5tbzA4ZFctbnBLd0Y?oc=5"
+  },
+  {
+   "lead": "a628e3d51eab",
+   "score": 13.74,
+   "count": 7,
+   "sources": [
+    "Bloomberg.com",
+    "Mashable",
+    "PYMNTS.com",
+    "SiliconANGLE",
+    "TechCrunch",
+    "The Verge"
+   ],
+   "related": [
+    "6d6821f501bb",
+    "307859af019d",
+    "e255e3f9c3df",
+    "5daf2cb31123",
+    "f70fd355019b",
+    "49c498aba644"
+   ],
+   "title": "Gemini on Mac can now use your computer",
+   "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use"
+  },
+  {
+   "lead": "09a6ede8ddf7",
+   "score": 13.54,
+   "count": 7,
+   "sources": [
+    "Al Jazeera",
+    "Bloomberg.com",
+    "CASRAI",
+    "Honolulu Star-Advertiser",
+    "Reuters",
+    "The Hill",
+    "The San Joaquin Valley Sun"
+   ],
+   "related": [
+    "793a042f12c8",
+    "4cd2183a83fb",
+    "4a5d064180d9",
+    "6a8d9d47e757",
+    "23f75d146584",
+    "e17c0b902579"
+   ],
+   "title": "U.S. approved nearly 900,000 AI chip sales to China",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrTG1iVFA2SlFKU1l4UENmV3JBNFpybUs4ZUNlMDhYZkhPNkF1NmJucFU3TGlPSjBfUC1RTjRLazVYVjljMDkxdEdMOEdoOFFMbFM5SjhPRGtJVG0zWFdBekk0REJMNmJJOVdHMDBJNFc2eGpzWnhNdHg5QU5xZw?oc=5"
+  },
+  {
+   "lead": "a22c687c439c",
+   "score": 9.34,
+   "count": 4,
+   "sources": [
+    "TechCrunch",
+    "The Tech Buzz",
+    "The Verge",
+    "Yahoo Tech"
+   ],
+   "related": [
+    "2ed09bbf2a0c",
+    "7629b1c63a67",
+    "c1b6b80cc585"
+   ],
+   "title": "Apple is hiring engineers to build its own AI agent",
+   "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+  },
+  {
+   "lead": "7528880e6722",
+   "score": 6.37,
+   "count": 2,
+   "sources": [
+    "Hacker News",
+    "TechRepublic"
+   ],
+   "related": [
+    "f0d0f469e0bf"
+   ],
+   "title": "Anthropic IPO: Claude Maker Opens at $111.50 in Record Nasdaq Debut",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY0hvWDBvSHdERDJGMkR5SG9lWnd3SGRzYmV3bXhQNW53MGFHRUFnODZXa2hCLVEyaXNZUlJfblYyakVkdEF0TnJwQVZBQlhVa2JXanMyTEtvQlFwS3lMZFhiSTZnMTJocEszRDRrN3E0SG5uNkN4Zkg4UjRzWFJ6a2lGRQ?oc=5"
+  },
+  {
+   "lead": "17d9f77f9149",
+   "score": 6.16,
+   "count": 4,
+   "sources": [
+    "Fello AI",
+    "The Defiant",
+    "Unite.AI",
+    "WinBuzzer"
+   ],
+   "related": [
+    "bf6b1fba6af3",
+    "36bb66fb245c",
+    "dabcc002c3a8"
+   ],
+   "title": "Is Google Gemini Free? Google's Free Plan Explained (2026)",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iREpNUDN0cWl4OUk2RWJuZHU1OUp5RVlQcXhjdmVISUtlb3NwZldETExEZnc5cHJJUm9BOGpxNmFHNjZvckFhVFdJZw?oc=5"
+  },
+  {
+   "lead": "e63fea43dcbf",
+   "score": 4.98,
+   "count": 2,
+   "sources": [
+    "Ars Technica",
+    "Hacker News"
+   ],
+   "related": [
+    "d3a31f422832"
+   ],
+   "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+   "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/"
+  },
+  {
+   "lead": "b0341a0ae375",
+   "score": 4.74,
+   "count": 2,
+   "sources": [
+    "TechCrunch",
+    "The Verge"
+   ],
+   "related": [
+    "e60f4e5e7cf4"
+   ],
+   "title": "Meta’s Muse Charm might cost $300",
+   "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price"
+  },
+  {
+   "lead": "6687f7be62c3",
+   "score": 4.61,
+   "count": 3,
+   "sources": [
+    "OpenAI",
+    "VentureBeat"
+   ],
+   "related": [
+    "53b0d9424a97",
+    "515bb54a91de"
+   ],
+   "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+   "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+  },
+  {
+   "lead": "05d97ce7afba",
+   "score": 4.32,
+   "count": 3,
+   "sources": [
+    "Fast Company",
+    "Mashable",
+    "Time Magazine"
+   ],
+   "related": [
+    "2402c1d47f44",
+    "91d5d0e5ae3a"
+   ],
+   "title": "Anthropic IPO details: Price, valuation, stock ticker, more",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPckx2b2tGYjRHR01ZSjFVN1dzNlFsTHlST1Fidjh2V1ZsVzFwWGl1R3pZUl9Zc2JKOTFvTjA4OGNaQ3VXNFNNZ0JKNXJIWHM4Zk5wcHJQckpzQWtmTVEtUWxjclZ1S0tUSGhJTmZVQkN1ZVRGWGRuVmxLbUpjd1A3RXl3?oc=5"
+  }
+ ],
+ "papers": [
+  {
+   "id": "b5c8370aae01",
+   "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
+   "url": "https://huggingface.co/papers/2611.22115",
+   "upvotes": 160
+  },
+  {
+   "id": "eba1ef6c1e98",
+   "title": "Jeveration: System One Models Now Generate",
+   "url": "https://huggingface.co/papers/2611.24738",
+   "upvotes": 112
+  },
+  {
+   "id": "62671662bfc5",
+   "title": "Weight-Space Programming Doesn't Need Transformers",
+   "url": "https://huggingface.co/papers/2611.22055",
+   "upvotes": 54
+  },
+  {
+   "id": "694c53c6c734",
+   "title": "The Resolution Hypothesis: Agent Evolution's Key Is Identifying Improvements",
+   "url": "https://huggingface.co/papers/2611.23068",
+   "upvotes": 35
+  },
+  {
+   "id": "71047f93c532",
+   "title": "FastFrames: Video Generation at Interactive Latency",
+   "url": "https://huggingface.co/papers/2611.23226",
+   "upvotes": 29
+  },
+  {
+   "id": "7fc09e03d574",
+   "title": "Game2Player: Scaling Gameplay Experience for Visual Agents through Environment-Player Co-Development",
+   "url": "https://huggingface.co/papers/2611.24154",
+   "upvotes": 25
+  }
+ ],
+ "models": [
+  {
+   "id": "higurashi-ai/Haru-4B",
+   "url": "https://huggingface.co/higurashi-ai/Haru-4B",
+   "org": "higurashi-ai",
+   "task": "audio-to-audio",
+   "likes": 3645,
+   "downloads": 6266,
+   "trending": 319.5,
+   "created": "2026-11-12T11:05:59.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "tencent/Hy4-flash",
+   "url": "https://huggingface.co/tencent/Hy4-flash",
+   "org": "tencent",
+   "task": "image-text-to-text",
+   "likes": 346,
+   "downloads": 2053,
+   "trending": 288,
+   "created": "2026-11-17T03:44:46.000Z",
+   "license": "other"
+  },
+  {
+   "id": "apple/FastFrames-L",
+   "url": "https://huggingface.co/apple/FastFrames-L",
+   "org": "apple",
+   "task": "text-to-video",
+   "likes": 332,
+   "downloads": 0,
+   "trending": 271,
+   "created": "2026-11-16T17:21:04.000Z",
+   "license": "apple-amlr"
+  },
+  {
+   "id": "harness-hub/Qwen3.8-27B-pi-adapted",
+   "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+   "org": "harness-hub",
+   "task": "image-text-to-text",
+   "likes": 739,
+   "downloads": 1320,
+   "trending": 254,
+   "created": "2026-11-16T06:52:31.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "Qwen/Qwen3.8-27B",
+   "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+   "org": "Qwen",
+   "task": "image-text-to-text",
+   "likes": 20682,
+   "downloads": 6647301,
+   "trending": 241.5,
+   "created": "2026-08-05T08:22:59.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "inworld/voice-isolator",
+   "url": "https://huggingface.co/inworld/voice-isolator",
+   "org": "inworld",
+   "task": "audio-to-audio",
+   "likes": 266,
+   "downloads": 0,
+   "trending": 239,
+   "created": "2026-11-14T02:14:35.000Z",
+   "license": "apache-2.0"
+  }
+ ]
+}
