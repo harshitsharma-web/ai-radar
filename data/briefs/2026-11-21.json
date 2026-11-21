@@ -1,0 +1,299 @@
+{
+ "date": "2026-11-21",
+ "generated_at": "2026-11-21T01:42:15Z",
+ "stories": [
+  {
+   "lead": "859ee3ec8c20",
+   "score": 20.73,
+   "count": 11,
+   "sources": [
+    "Business Insider",
+    "Futurism",
+    "IBM",
+    "Mashable",
+    "Phys.org",
+    "Scientific American",
+    "The Indian Express",
+    "The New York Times",
+    "The Verge",
+    "Tom's Hardware"
+   ],
+   "related": [
+    "90e1af5b0ea1",
+    "55a34ee619ba",
+    "d099f499e53c",
+    "6941122e08ba",
+    "95cc96c90732",
+    "45718df7563d",
+    "6538a86862d3",
+    "0f6163ec4749"
+   ],
+   "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+  },
+  {
+   "lead": "a628e3d51eab",
+   "score": 9.97,
+   "count": 7,
+   "sources": [
+    "Bloomberg.com",
+    "Mashable",
+    "PYMNTS.com",
+    "SiliconANGLE",
+    "TechCrunch",
+    "The Verge"
+   ],
+   "related": [
+    "6d6821f501bb",
+    "307859af019d",
+    "e255e3f9c3df",
+    "5daf2cb31123",
+    "f70fd355019b",
+    "49c498aba644"
+   ],
+   "title": "Gemini on Mac can now use your computer",
+   "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use"
+  },
+  {
+   "lead": "09a6ede8ddf7",
+   "score": 8.8,
+   "count": 6,
+   "sources": [
+    "Al Jazeera",
+    "Bloomberg.com",
+    "Honolulu Star-Advertiser",
+    "Reuters",
+    "The Hill",
+    "The San Joaquin Valley Sun"
+   ],
+   "related": [
+    "793a042f12c8",
+    "4cd2183a83fb",
+    "4a5d064180d9",
+    "6a8d9d47e757",
+    "e17c0b902579"
+   ],
+   "title": "U.S. approved nearly 900,000 AI chip sales to China",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrTG1iVFA2SlFKU1l4UENmV3JBNFpybUs4ZUNlMDhYZkhPNkF1NmJucFU3TGlPSjBfUC1RTjRLazVYVjljMDkxdEdMOEdoOFFMbFM5SjhPRGtJVG0zWFdBekk0REJMNmJJOVdHMDBJNFc2eGpzWnhNdHg5QU5xZw?oc=5"
+  },
+  {
+   "lead": "4d6c192ff862",
+   "score": 7.56,
+   "count": 4,
+   "sources": [
+    "Ars Technica",
+    "Chrome Unboxed",
+    "WinBuzzer",
+    "shattered.io"
+   ],
+   "related": [
+    "171e55c60c16",
+    "90eb019e289a",
+    "bf6b1fba6af3"
+   ],
+   "title": "Google rolls out new search homepage with AI chat history and no search button",
+   "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/"
+  },
+  {
+   "lead": "a22c687c439c",
+   "score": 7.08,
+   "count": 4,
+   "sources": [
+    "TechCrunch",
+    "The Tech Buzz",
+    "The Verge",
+    "Yahoo Tech"
+   ],
+   "related": [
+    "2ed09bbf2a0c",
+    "7629b1c63a67",
+    "c1b6b80cc585"
+   ],
+   "title": "Apple is hiring engineers to build its own AI agent",
+   "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+  },
+  {
+   "lead": "3a0cb236fd32",
+   "score": 5.73,
+   "count": 3,
+   "sources": [
+    "KATU",
+    "NBC News",
+    "The Verge"
+   ],
+   "related": [
+    "1462dc6fad2f",
+    "8f91243850dd"
+   ],
+   "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+   "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+  },
+  {
+   "lead": "f0e77c900b9f",
+   "score": 5.27,
+   "count": 3,
+   "sources": [
+    "TechCrunch",
+    "Wired"
+   ],
+   "related": [
+    "5c429be09826",
+    "2fc737ddb995"
+   ],
+   "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+   "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/"
+  },
+  {
+   "lead": "3b8d61aff7ec",
+   "score": 4.29,
+   "count": 3,
+   "sources": [
+    "CASRAI",
+    "Hunterbrook",
+    "Yahoo Finance"
+   ],
+   "related": [
+    "93deea677a6d",
+    "23f75d146584"
+   ],
+   "title": "Congress files detail AMD requests to export AI chips to China, says Hunterbrook",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMndSTjQ3azVpWXRpTTVLQlk4ZGpjTjZFZVFNOVJtR193ZVdqOFRxa1V1QVp1RV9fMS1IWHRXX2ltcTh2Q2JOeHhuX1Mta1p4N1Zsa0xLRFFHTlhpaUtKQnlvZGJ5ZXRKT1dYZEZKbE1ISG9qel83Y2JtRklqeUpLeko1ZzZzZEVIMFA0UTE5b0xiLVJUQWp2ajFNeko2NGc?oc=5"
+  },
+  {
+   "lead": "03d2fc60d87d",
+   "score": 3.92,
+   "count": 3,
+   "sources": [
+    "Bellingham Herald",
+    "BigGo Finance",
+    "The Times of India"
+   ],
+   "related": [
+    "9b0142852d9c",
+    "cbf6ca21c41e"
+   ],
+   "title": "UK Lawmaker Sues Musk's SpaceXSI Over Grok Deepfakes as Company Denies Privacy Liability",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50QVVWeTN5a2h1V1dNZmY0dUQwRU9qNGJSM0lyQUdOOVRQLU9BYldiMDh2TC1palpzWHBZSVpJd1R2NUlUNXFhQWtZaUhjc082SGZOZU15dDJmbzJWazdCMi1jNDZ0MWJXc0VwUkxmLTF4bS1aSlE?oc=5"
+  },
+  {
+   "lead": "7528880e6722",
+   "score": 3.91,
+   "count": 2,
+   "sources": [
+    "Hacker News",
+    "TechRepublic"
+   ],
+   "related": [
+    "f0d0f469e0bf"
+   ],
+   "title": "Anthropic IPO: Claude Maker Opens at $111.50 in Record Nasdaq Debut",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY0hvWDBvSHdERDJGMkR5SG9lWnd3SGRzYmV3bXhQNW53MGFHRUFnODZXa2hCLVEyaXNZUlJfblYyakVkdEF0TnJwQVZBQlhVa2JXanMyTEtvQlFwS3lMZFhiSTZnMTJocEszRDRrN3E0SG5uNkN4Zkg4UjRzWFJ6a2lGRQ?oc=5"
+  }
+ ],
+ "papers": [
+  {
+   "id": "eba1ef6c1e98",
+   "title": "Jeveration: System One Models Now Generate",
+   "url": "https://huggingface.co/papers/2611.24738",
+   "upvotes": 146
+  },
+  {
+   "id": "63dbb81e2a2d",
+   "title": "Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation",
+   "url": "https://huggingface.co/papers/2611.26444",
+   "upvotes": 46
+  },
+  {
+   "id": "0cdac5c6e4a6",
+   "title": "WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding",
+   "url": "https://huggingface.co/papers/2611.26409",
+   "upvotes": 39
+  },
+  {
+   "id": "eb4d2df7b718",
+   "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
+   "url": "https://huggingface.co/papers/2611.26590",
+   "upvotes": 35
+  },
+  {
+   "id": "f6990214f0b6",
+   "title": "Coda-DaVinci: Reimagining Video Generation with Code2Video",
+   "url": "https://huggingface.co/papers/2611.26595",
+   "upvotes": 32
+  },
+  {
+   "id": "a3bdd56a3a31",
+   "title": "Posterior Matching Distillation",
+   "url": "https://huggingface.co/papers/2611.26629",
+   "upvotes": 31
+  }
+ ],
+ "models": [
+  {
+   "id": "higurashi-ai/Haru-4B",
+   "url": "https://huggingface.co/higurashi-ai/Haru-4B",
+   "org": "higurashi-ai",
+   "task": "audio-to-audio",
+   "likes": 5508,
+   "downloads": 7323,
+   "trending": 312.5,
+   "created": "2026-11-12T11:05:59.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "harness-hub/Qwen3.8-27B-pi-adapted",
+   "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+   "org": "harness-hub",
+   "task": "image-text-to-text",
+   "likes": 864,
+   "downloads": 1874,
+   "trending": 294,
+   "created": "2026-11-16T06:52:31.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "Qwen/Qwen3.8-27B",
+   "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+   "org": "Qwen",
+   "task": "image-text-to-text",
+   "likes": 20809,
+   "downloads": 6454419,
+   "trending": 233.5,
+   "created": "2026-08-05T08:22:59.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "thinkingmachines/Inkling-2-Mini",
+   "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+   "org": "thinkingmachines",
+   "task": "image-text-to-text",
+   "likes": 664,
+   "downloads": 136,
+   "trending": 231,
+   "created": "2026-11-17T00:26:57.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "Sentinel7/h3",
+   "url": "https://huggingface.co/Sentinel7/h3",
+   "org": "Sentinel7",
+   "task": null,
+   "likes": 278,
+   "downloads": 0,
+   "trending": 205,
+   "created": "2026-08-06T04:13:52.000Z",
+   "license": null
+  },
+  {
+   "id": "unsloth/Inkling-2-Mini-GGUF",
+   "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+   "org": "unsloth",
+   "task": "image-text-to-text",
+   "likes": 213,
+   "downloads": 0,
+   "trending": 195,
+   "created": "2026-11-20T13:09:48.000Z",
+   "license": "apache-2.0"
+  }
+ ]
+}
