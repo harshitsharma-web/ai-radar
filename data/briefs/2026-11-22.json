@@ -1,0 +1,281 @@
+{
+ "date": "2026-11-22",
+ "generated_at": "2026-11-22T01:40:16Z",
+ "stories": [
+  {
+   "lead": "859ee3ec8c20",
+   "score": 21.86,
+   "count": 14,
+   "sources": [
+    "Broadband Breakfast",
+    "Business Insider",
+    "Engadget",
+    "Futurism",
+    "IBM",
+    "Mashable",
+    "Phys.org",
+    "Scientific American",
+    "The Indian Express",
+    "The New York Times",
+    "The Verge",
+    "Tom's Hardware",
+    "WSJ"
+   ],
+   "related": [
+    "eb30319e78e2",
+    "90e1af5b0ea1",
+    "16998a4ff421",
+    "55a34ee619ba",
+    "c669b059ef02",
+    "d099f499e53c",
+    "6941122e08ba",
+    "95cc96c90732"
+   ],
+   "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+  },
+  {
+   "lead": "3e27e0a8f86a",
+   "score": 7.84,
+   "count": 5,
+   "sources": [
+    "Finimize",
+    "Foreign Policy Journal",
+    "Investing.com",
+    "Reuters",
+    "The Information"
+   ],
+   "related": [
+    "c74b01fde71b",
+    "5c16cfd0d4f2",
+    "268b134d83f2",
+    "d9b716e48966"
+   ],
+   "title": "Oracle (NYSE: ORCL) Moves To Silence Funding Doubts Over $300 Billion OpenAI Computing Deal",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdmxGQmlJdndZLW05ZEU2MFk2ZTBwTDZMa0R2ZWVEMUo5S0hFcmFPM0Z1UURaREk0WFFPbmw0b3d2QUJoZnk1WUZ1cVhNN0Rkc1RNemY3aV9jTV9ndGlTbVMxNEdWbEF5ZDR1a0VLYmhHS1lPZS1UR05ibjdTdTF3ak5reTctdXNkVkhrQ3pZNVJwZjhEbHBBSnFzeHk0S2EzcDZadWQ0OW9xbU9fMWhuUWtrVWpzVk9CWXVUTjlGLS1yaER0X1ZVbWIxWlE0dy1UWVE?oc=5"
+  },
+  {
+   "lead": "3a0cb236fd32",
+   "score": 6.2,
+   "count": 4,
+   "sources": [
+    "AgroLatam",
+    "KATU",
+    "NBC News",
+    "The Verge"
+   ],
+   "related": [
+    "fe8258759c5a",
+    "1462dc6fad2f",
+    "8f91243850dd"
+   ],
+   "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+   "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+  },
+  {
+   "lead": "4d6c192ff862",
+   "score": 6.01,
+   "count": 4,
+   "sources": [
+    "Ars Technica",
+    "Chrome Unboxed",
+    "Startup Fortune",
+    "shattered.io"
+   ],
+   "related": [
+    "dad9e62c06e6",
+    "171e55c60c16",
+    "90eb019e289a"
+   ],
+   "title": "Google rolls out new search homepage with AI chat history and no search button",
+   "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/"
+  },
+  {
+   "lead": "859bea40f2fb",
+   "score": 3.6,
+   "count": 2,
+   "sources": [
+    "CNBC",
+    "Hacker News"
+   ],
+   "related": [
+    "6f232f6bc590"
+   ],
+   "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZ3QwZ1Qzd0FwWVhzOWhhbWZ5YWEzNTI0anpyemhZQXF6LVM1d202X3VSVGthTFNUaE13UlNfWUx5VkNhTEduOHctbWZtVlloME45dGFBMDA3OGpWdDhXdTUxNFVhSFpya21aMnpGVHHSAXZBVV95cUxORlNoeVVtbW1fLU1EY01EellhNHg0VldaY0Y5R3Y5enVEaTdZZTZENDJMWFNrblBqTEtORGZFRlZacjBwOWQ2ZXNjSF9KZFNsNkQ4WEtTallYdnVHMm5JRVBMYWl5bHhlb19QUzlIcUZOTXh2U1hB?oc=5"
+  },
+  {
+   "lead": "f0e77c900b9f",
+   "score": 2.84,
+   "count": 2,
+   "sources": [
+    "TechCrunch",
+    "Wired"
+   ],
+   "related": [
+    "5c429be09826"
+   ],
+   "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+   "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/"
+  },
+  {
+   "lead": "11005145678d",
+   "score": 2.66,
+   "count": 2,
+   "sources": [
+    "The Decoder",
+    "Zvi Mowshowitz"
+   ],
+   "related": [
+    "281e78a48356"
+   ],
+   "title": "GPT-6.2 Astra and Sol: The System Card",
+   "url": "https://thezvi.wordpress.com/2026/11/21/gpt-6-2-astra-and-sol-the-system-card/"
+  },
+  {
+   "lead": "690dc70bc8b7",
+   "score": 2.6,
+   "count": 2,
+   "sources": [
+    "Crypto Briefing",
+    "Unite.AI"
+   ],
+   "related": [
+    "3c1e75390587"
+   ],
+   "title": "OpenAI says new safeguards cut reasoning extraction attacks on GPT-6.2 Astra to 0.2%",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XMTVVUC1BVTF0aHRfdHpzYUpRNnRWX1piTFhVbmEyMTdEYUd2UExSNzBUZjA4ejZMV2N6cWctakU5c2kweFFzU0pEdHpvM2hDWEpaNGRxUTRiVXpGR005OFJPLTFVM0NHRHU3aVlXTE9ma181THZneUFSeHc?oc=5"
+  },
+  {
+   "lead": "c82934c02ed9",
+   "score": 2.47,
+   "count": 1,
+   "sources": [
+    "Hacker News"
+   ],
+   "related": [],
+   "title": "ClawDOS – An AI coding agent for DOS",
+   "url": "http://ricapar.net/ClawDOS/"
+  },
+  {
+   "lead": "8600d4268881",
+   "score": 2.27,
+   "count": 2,
+   "sources": [
+    "Center for Climate and Energy Solutions",
+    "TechTarget"
+   ],
+   "related": [
+    "05c8c684b979"
+   ],
+   "title": "Beyond the Boom: Exploring C2ES's latest \"Closer Look\" on AI Data Center and Clean Firm Power",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtN1V3TXhYZHhPTEN4SkhCRm9YaG5kWjU0WTI0OHczMFZES0xqWnh1SHJPVWJfNE5RMjNrMm5saGs0NTAwVGoxLVI3dy1vVTI1RVRVR1Nn?oc=5"
+  }
+ ],
+ "papers": [
+  {
+   "id": "63dbb81e2a2d",
+   "title": "Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation",
+   "url": "https://huggingface.co/papers/2611.26444",
+   "upvotes": 51
+  },
+  {
+   "id": "0cdac5c6e4a6",
+   "title": "WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding",
+   "url": "https://huggingface.co/papers/2611.26409",
+   "upvotes": 44
+  },
+  {
+   "id": "eb4d2df7b718",
+   "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
+   "url": "https://huggingface.co/papers/2611.26590",
+   "upvotes": 42
+  },
+  {
+   "id": "a3bdd56a3a31",
+   "title": "Posterior Matching Distillation",
+   "url": "https://huggingface.co/papers/2611.26629",
+   "upvotes": 37
+  },
+  {
+   "id": "f6990214f0b6",
+   "title": "Coda-DaVinci: Reimagining Video Generation with Code2Video",
+   "url": "https://huggingface.co/papers/2611.26595",
+   "upvotes": 35
+  },
+  {
+   "id": "db4bd6cbca20",
+   "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
+   "url": "https://huggingface.co/papers/2611.26603",
+   "upvotes": 31
+  }
+ ],
+ "models": [
+  {
+   "id": "thinkingmachines/Inkling-2-Mini",
+   "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+   "org": "thinkingmachines",
+   "task": "image-text-to-text",
+   "likes": 2966,
+   "downloads": 7944,
+   "trending": 687.5,
+   "created": "2026-11-17T00:26:57.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "unsloth/Inkling-2-Mini-GGUF",
+   "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+   "org": "unsloth",
+   "task": "image-text-to-text",
+   "likes": 623,
+   "downloads": 238152,
+   "trending": 582,
+   "created": "2026-11-20T13:09:48.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "tencent/Hy4-flash",
+   "url": "https://huggingface.co/tencent/Hy4-flash",
+   "org": "tencent",
+   "task": "image-text-to-text",
+   "likes": 546,
+   "downloads": 5588,
+   "trending": 389,
+   "created": "2026-11-17T03:44:46.000Z",
+   "license": "other"
+  },
+  {
+   "id": "inworld/voice-isolator",
+   "url": "https://huggingface.co/inworld/voice-isolator",
+   "org": "inworld",
+   "task": "audio-to-audio",
+   "likes": 516,
+   "downloads": 0,
+   "trending": 379,
+   "created": "2026-11-14T02:14:35.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "Lightricks/LTX-2.5",
+   "url": "https://huggingface.co/Lightricks/LTX-2.5",
+   "org": "Lightricks",
+   "task": "image-to-video",
+   "likes": 12946,
+   "downloads": 3000544,
+   "trending": 358,
+   "created": "2026-07-23T07:55:24.000Z",
+   "license": "other"
+  },
+  {
+   "id": "apple/FastFrames-L",
+   "url": "https://huggingface.co/apple/FastFrames-L",
+   "org": "apple",
+   "task": "text-to-video",
+   "likes": 493,
+   "downloads": 0,
+   "trending": 339,
+   "created": "2026-11-16T17:21:04.000Z",
+   "license": "apple-amlr"
+  }
+ ]
+}
