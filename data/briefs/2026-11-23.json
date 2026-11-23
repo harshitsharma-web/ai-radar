@@ -1,0 +1,209 @@
+{
+ "date": "2026-11-23",
+ "generated_at": "2026-11-23T01:46:41Z",
+ "stories": [
+  {
+   "lead": "05744626c0d6",
+   "score": 6.82,
+   "count": 4,
+   "sources": [
+    "Bloomberg.com",
+    "NewsCord",
+    "TechCrunch"
+   ],
+   "related": [
+    "24ffaec5860d",
+    "eb37a320cf0a",
+    "f89eb185bfa1"
+   ],
+   "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+   "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+  },
+  {
+   "lead": "950e9cf7a029",
+   "score": 5.08,
+   "count": 3,
+   "sources": [
+    "Reuters",
+    "TradingView",
+    "Unite.AI"
+   ],
+   "related": [
+    "76669744fb84",
+    "450828c62dc9"
+   ],
+   "title": "OpenAI scientist proposes industry AI limits tied to model intelligence metric",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0ZQb0xtalJ5djRmZmkwQnhmdDBlMEtncDUtUEJsUFBtWmptbkdVQ3c5QjY2TzhKN0NFT2ZzYnZmenQxY1lrUWFFYjJsdS1KazdRUkJINEJRemQ1alh6TGtnNW1nRE92bTF3RW9FMTIyODB3UmpBaW5oSzFDWDFVT3FXdjZDVzQ0TVNVd29nQzZvY3ByWVpBLUlhRVg0bFZiRHUxVjhqclptLUMycDJlYVBsQXQ4a28tRnFnbQ?oc=5"
+  },
+  {
+   "lead": "a09dd0b6eb25",
+   "score": 4.01,
+   "count": 3,
+   "sources": [
+    "Broadband Breakfast",
+    "Marcus on AI | Substack",
+    "The New York Times"
+   ],
+   "related": [
+    "90e1af5b0ea1",
+    "16998a4ff421"
+   ],
+   "title": "Levent Alpöge has solved the Riemann Hypothesis with help of Claude! What does it mean?",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JR1c5X2dZenJPXzBPcWhjYmxTRk1mMmtQZ0h0elM2UWpDdkxPSFd0aUs2WmpKbG83OVhYUGlBWjJ1Ul9waEl1WlExWmZaZmZ6dmlEUEdDdkZiN2FPTm5TRXI4VVpJYmk2U2xTdkdWSWJpczUwdks1clV3?oc=5"
+  },
+  {
+   "lead": "4f0ed76760ef",
+   "score": 3.96,
+   "count": 1,
+   "sources": [
+    "Hacker News"
+   ],
+   "related": [],
+   "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+   "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
+  },
+  {
+   "lead": "d8eff3477af0",
+   "score": 3.65,
+   "count": 1,
+   "sources": [
+    "Hacker News"
+   ],
+   "related": [],
+   "title": "Agent swarm trying to solve P vs. NP",
+   "url": "https://pequalnp.com/"
+  },
+  {
+   "lead": "63cacc46ec41",
+   "score": 3.57,
+   "count": 2,
+   "sources": [
+    "Hacker News",
+    "explainx.ai"
+   ],
+   "related": [
+    "cfea722a5658"
+   ],
+   "title": "Pandex MCP: EU Law API for AI Agents (Nov 2026)",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYmhxSnJLandjNEpwcmtLejM2Umh4dXhEVmJVRE9MaDVvY0FUMHhOUEFub3ZtZUoxQjhyR0tkOERaNy03TVE2eU9aYWE4UEdUMm1MUWR6WVlsT2JlUVV0MkNuQUd5UEFGSlFaUWlhOTNmQW8zcF9NNl9QaHVuekRhb2tDb0ZaaG9aVlRrYU04aDl0QQ?oc=5"
+  },
+  {
+   "lead": "38c61351fe0d",
+   "score": 3.4,
+   "count": 1,
+   "sources": [
+    "Hacker News"
+   ],
+   "related": [],
+   "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+   "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/"
+  },
+  {
+   "lead": "3c4f4993adca",
+   "score": 3.35,
+   "count": 1,
+   "sources": [
+    "Hacker News"
+   ],
+   "related": [],
+   "title": "Show HN: I built a game where you are an LLM's subagent",
+   "url": "https://github.com/gulivan/worker755"
+  },
+  {
+   "lead": "914bb147d0bf",
+   "score": 2.97,
+   "count": 2,
+   "sources": [
+    "TechCrunch"
+   ],
+   "related": [
+    "ecd04db1eb90"
+   ],
+   "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+   "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
+  },
+  {
+   "lead": "4fce5edada06",
+   "score": 2.86,
+   "count": 2,
+   "sources": [
+    "Dealroom",
+    "Seeking Alpha"
+   ],
+   "related": [
+    "1835469966d4"
+   ],
+   "title": "OpenAI publishes its internal pretraining curve and proposes industry-wide limits based on perplexity",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNajdpYW1ZM1ZoS2tVRHJqYzdnMEhfR2V5Z0tGY0VKUVpVU200eE9aV2RiM1h2ZnVYS005SnFtNy0zeWhybE5VSmVtaTNlOVJjWTlaeFF1dkx5c3JVMnF3S0lnTjZrNEhsdEZHZGVHSkN5UW9SZHJCTVFCS1lHX0lOaUNhQXBrVExCWFRuZ3JadnVCYlVDUTVCbDg0RERTV0VkNkVCN3pSemw2a2hpTWs2Znk0dkFSa0E0bHBSV3U1Y2tlNER0VHcyOTd2R2g1OGJG?oc=5"
+  }
+ ],
+ "papers": [],
+ "models": [
+  {
+   "id": "thinkingmachines/Inkling-2-Mini",
+   "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+   "org": "thinkingmachines",
+   "task": "image-text-to-text",
+   "likes": 4994,
+   "downloads": 23543,
+   "trending": 926.5,
+   "created": "2026-11-17T00:26:57.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "unsloth/Inkling-2-Mini-GGUF",
+   "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+   "org": "unsloth",
+   "task": "image-text-to-text",
+   "likes": 888,
+   "downloads": 805993,
+   "trending": 803,
+   "created": "2026-11-20T13:09:48.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "inworld/voice-isolator",
+   "url": "https://huggingface.co/inworld/voice-isolator",
+   "org": "inworld",
+   "task": "audio-to-audio",
+   "likes": 637,
+   "downloads": 0,
+   "trending": 475,
+   "created": "2026-11-14T02:14:35.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "tencent/Hy4-flash",
+   "url": "https://huggingface.co/tencent/Hy4-flash",
+   "org": "tencent",
+   "task": "image-text-to-text",
+   "likes": 621,
+   "downloads": 6617,
+   "trending": 423,
+   "created": "2026-11-17T03:44:46.000Z",
+   "license": "other"
+  },
+  {
+   "id": "harness-hub/Qwen3.8-27B-pi-adapted",
+   "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+   "org": "harness-hub",
+   "task": "image-text-to-text",
+   "likes": 992,
+   "downloads": 2831,
+   "trending": 332,
+   "created": "2026-11-16T06:52:31.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+   "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+   "org": "AtomicChat",
+   "task": "image-text-to-text",
+   "likes": 493,
+   "downloads": 129693,
+   "trending": 295.4,
+   "created": "2026-11-20T20:42:23.000Z",
+   "license": "apache-2.0"
+  }
+ ]
+}
