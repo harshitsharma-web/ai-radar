@@ -1,0 +1,282 @@
+{
+ "date": "2026-11-24",
+ "generated_at": "2026-11-24T01:45:04Z",
+ "stories": [
+  {
+   "lead": "de36b121eed6",
+   "score": 18.38,
+   "count": 6,
+   "sources": [
+    "Hacker News",
+    "TechCrunch",
+    "The Verge",
+    "Wired"
+   ],
+   "related": [
+    "57e4d9bc2d25",
+    "7e93ff39fd33",
+    "ecab1061c917",
+    "be9c8fb91e88",
+    "e3a79f42fb3c"
+   ],
+   "title": "Tech leaders are celebrating Jensen Huang’s return",
+   "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay"
+  },
+  {
+   "lead": "786a4f32021c",
+   "score": 18.35,
+   "count": 9,
+   "sources": [
+    "Al Jazeera",
+    "Ars Technica",
+    "FOX 5 DC",
+    "KTVZ",
+    "Reuters",
+    "The Verge",
+    "Wired",
+    "Yahoo"
+   ],
+   "related": [
+    "972640f78a70",
+    "dfb0304cbd08",
+    "ada54ba35ff5",
+    "6257f43216fc",
+    "554d0ef24960",
+    "05bd03146c94",
+    "2df581d3f4db",
+    "412d7532401a"
+   ],
+   "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit"
+  },
+  {
+   "lead": "43b498f2b7e3",
+   "score": 13.13,
+   "count": 7,
+   "sources": [
+    "Reuters",
+    "Seeking Alpha",
+    "TechCrunch",
+    "TestingCatalog AI News",
+    "The New Stack",
+    "www.trendingtopics.eu"
+   ],
+   "related": [
+    "72d446641aad",
+    "6286994560e1",
+    "b3101c1ca810",
+    "b65f11bfe2c1",
+    "b793a3154a35",
+    "9ac21f192a97"
+   ],
+   "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+   "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+  },
+  {
+   "lead": "47b1648bdb93",
+   "score": 11.9,
+   "count": 5,
+   "sources": [
+    "Ars Technica",
+    "TechCrunch",
+    "The Verge",
+    "Wired"
+   ],
+   "related": [
+    "15c28179b2dc",
+    "e63c50b367bc",
+    "4fb306f1bad2",
+    "66cc673a6baa"
+   ],
+   "title": "How Jensen Huang ended up as Nvidia CEO again",
+   "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return"
+  },
+  {
+   "lead": "39c2da17cef6",
+   "score": 9.23,
+   "count": 4,
+   "sources": [
+    "9to5Google",
+    "Google AI",
+    "TechCrunch",
+    "The Next Web"
+   ],
+   "related": [
+    "588f7b0a1e0d",
+    "22e1b6560716",
+    "24ebeb8e3617"
+   ],
+   "title": "A more tailored Google Search that’s uniquely yours",
+   "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
+  },
+  {
+   "lead": "36a43450f00e",
+   "score": 8.58,
+   "count": 5,
+   "sources": [
+    "Al Jazeera",
+    "Interesting Engineering",
+    "Nacionale",
+    "Seeking Alpha",
+    "TheWrap"
+   ],
+   "related": [
+    "181c7f80c558",
+    "33765cff67f2",
+    "2faa56d96aff",
+    "2d4e9198b54b"
+   ],
+   "title": "What did Alexandr Wang say about superintelligence? Meta's AI chief warns against a 'handover' to AI",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMFYyN3o0endISW1OX0Q2emZrSzlsbTFyWEZzS29yQlRZanBaSThDMjFyVnBzNkhOUXl4eHZRRU13R0hOM3dCbHpRT3hZOHhYcE5PRFpaWmJHSDhMbEpndTlUY0hPOUJrdmFvV3RoWHZiVGpqVFJ0NlFudkh2ODR1QjdvTkdlV3NnSE9KcktOOEhSTkw2WVJKUVh3LS1UOEZ6YTNIblBvenNRem9TT3VxN1phMFhFRWI5MkRGNy15MA?oc=5"
+  },
+  {
+   "lead": "4ca5125b0168",
+   "score": 6.92,
+   "count": 4,
+   "sources": [
+    "Securities.io",
+    "Yahoo Finance",
+    "citybiz",
+    "marketscreener.com"
+   ],
+   "related": [
+    "c7f3248e738b",
+    "63c91e6cc91f",
+    "d1c2a3454c20"
+   ],
+   "title": "Workday Completes Acquisition of C1.ai to Expand AI Agent Identity Governance and Security",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU2ZraE5yckRfS2I0ZDRGN2x4UTZsbkl5TWpkeVFUS0htV1p2dmlMNkpMZFIwYUtNVUF5T0t1Z1FUN0tjQ29ndTQ4bnRUaW5ueHJCWkRPMGVhWnZ2Y2xpUjYtVGRHM3lIdS1FY1ZSMk1aemYyYkFtb1ViTDlUNFMxdnRXdDRWc0ZwQlhmODhDYW9CRVhrTy1SVzY3MXdfTkpTSXQ0SVNWTTlCY3VoYndrM2tWaDc5OEJUbUdTSU05YWgxM3dzdi1RNQ?oc=5"
+  },
+  {
+   "lead": "33cff3ddb3ee",
+   "score": 6.67,
+   "count": 4,
+   "sources": [
+    "Kotak Neo",
+    "Rediff.com",
+    "Storyboard18",
+    "YourStory.com"
+   ],
+   "related": [
+    "e2daf81f74bc",
+    "20a05ee6368d",
+    "a0ac04638292"
+   ],
+   "title": "India AI funding nearly doubles to $1.6B in Jan-Sept 2026: Tracxn",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZFJYRWhmaE1OV25IUHVKWDNSRHpOYVFTVFFjU3d3TXFqTXh6QTI1LWtXYmJLRGhscTE4eTFSMElkUEltYU1VYUYyLTdoQWoyemUwbkJIRU5OckxYMkNaeEZGYnRodWlVaHZJTU1SNWV4UXNveHVRSEI2RHNnVUQ2dlZzYWRpZFBrN3c?oc=5"
+  },
+  {
+   "lead": "f955d48edeaa",
+   "score": 5.98,
+   "count": 4,
+   "sources": [
+    "Bloomberg.com",
+    "PYMNTS.com",
+    "TechCrunch"
+   ],
+   "related": [
+    "8cbce21d0a84",
+    "524f33c4e5be",
+    "6a20ed026741"
+   ],
+   "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+   "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+  },
+  {
+   "lead": "ef3910f6a7af",
+   "score": 5.73,
+   "count": 2,
+   "sources": [
+    "Hacker News",
+    "Simon Willison"
+   ],
+   "related": [
+    "5094532b4e2e"
+   ],
+   "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+   "url": "https://simonwillison.net/2026/Nov/23/glm-54/"
+  }
+ ],
+ "papers": [
+  {
+   "id": "541035c3aa2c",
+   "title": "StereoVLM: Binocular Vision-Language Models for Metric 3D Spatial Reasoning",
+   "url": "https://huggingface.co/papers/2611.27915",
+   "upvotes": 7
+  },
+  {
+   "id": "2af7d6acc5ce",
+   "title": "Taking Apart and Putting Together: Tracking Objects Through Physical Transformations",
+   "url": "https://huggingface.co/papers/2611.27398",
+   "upvotes": 5
+  }
+ ],
+ "models": [
+  {
+   "id": "thinkingmachines/Inkling-2-Mini",
+   "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+   "org": "thinkingmachines",
+   "task": "image-text-to-text",
+   "likes": 5499,
+   "downloads": 41888,
+   "trending": 1125.5,
+   "created": "2026-11-17T00:26:57.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "unsloth/Inkling-2-Mini-GGUF",
+   "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+   "org": "unsloth",
+   "task": "image-text-to-text",
+   "likes": 1117,
+   "downloads": 1292888,
+   "trending": 984,
+   "created": "2026-11-20T13:09:48.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "inworld/voice-isolator",
+   "url": "https://huggingface.co/inworld/voice-isolator",
+   "org": "inworld",
+   "task": "audio-to-audio",
+   "likes": 737,
+   "downloads": 0,
+   "trending": 561,
+   "created": "2026-11-14T02:14:35.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+   "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+   "org": "AtomicChat",
+   "task": "image-text-to-text",
+   "likes": 653,
+   "downloads": 329497,
+   "trending": 387.09999999999997,
+   "created": "2026-11-20T20:42:23.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "harness-hub/Qwen3.8-27B-pi-adapted",
+   "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+   "org": "harness-hub",
+   "task": "image-text-to-text",
+   "likes": 1038,
+   "downloads": 3132,
+   "trending": 349.5,
+   "created": "2026-11-16T06:52:31.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "higurashi-ai/Haru-4B",
+   "url": "https://huggingface.co/higurashi-ai/Haru-4B",
+   "org": "higurashi-ai",
+   "task": "audio-to-audio",
+   "likes": 940,
+   "downloads": 9087,
+   "trending": 249,
+   "created": "2026-11-12T11:05:59.000Z",
+   "license": "apache-2.0"
+  }
+ ]
+}
