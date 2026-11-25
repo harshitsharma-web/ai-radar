@@ -1,0 +1,331 @@
+{
+ "date": "2026-11-25",
+ "generated_at": "2026-11-25T01:49:13Z",
+ "stories": [
+  {
+   "lead": "47b1648bdb93",
+   "score": 19.77,
+   "count": 11,
+   "sources": [
+    "Ars Technica",
+    "Hacker News",
+    "TechCrunch",
+    "The Verge",
+    "Wired",
+    "Zvi Mowshowitz"
+   ],
+   "related": [
+    "6d8cd4cbfa4e",
+    "f04725578800",
+    "de36b121eed6",
+    "4fb306f1bad2",
+    "66cc673a6baa",
+    "7e93ff39fd33",
+    "ecab1061c917",
+    "ad0bac5fc0ae"
+   ],
+   "title": "How Jensen Huang ended up as Nvidia CEO again",
+   "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return"
+  },
+  {
+   "lead": "39c2da17cef6",
+   "score": 13.82,
+   "count": 8,
+   "sources": [
+    "9to5Google",
+    "Android Authority",
+    "Google AI",
+    "PCMag",
+    "TechCrunch",
+    "Technology Org",
+    "The Next Web",
+    "Thurrott.com"
+   ],
+   "related": [
+    "588f7b0a1e0d",
+    "068ece3bb486",
+    "703e5842398b",
+    "cd78ce9ec2e1",
+    "6ec7c3226dd1",
+    "22e1b6560716",
+    "24ebeb8e3617"
+   ],
+   "title": "A more tailored Google Search that’s uniquely yours",
+   "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
+  },
+  {
+   "lead": "786a4f32021c",
+   "score": 13.26,
+   "count": 9,
+   "sources": [
+    "ABC7 New York",
+    "Al Jazeera",
+    "Ars Technica",
+    "FOX 5 DC",
+    "KTVZ",
+    "Reuters",
+    "The Verge",
+    "Yahoo"
+   ],
+   "related": [
+    "972640f78a70",
+    "ada54ba35ff5",
+    "6257f43216fc",
+    "554d0ef24960",
+    "05bd03146c94",
+    "2df581d3f4db",
+    "ba7d000b8e30",
+    "412d7532401a"
+   ],
+   "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit"
+  },
+  {
+   "lead": "5845ed4863b4",
+   "score": 10.79,
+   "count": 7,
+   "sources": [
+    "CNBC",
+    "GeekWire",
+    "PYMNTS.com",
+    "TechCrunch",
+    "The American Bazaar",
+    "upi"
+   ],
+   "related": [
+    "4b00811aa761",
+    "b21d75aa4595",
+    "bbcb73dae7d0",
+    "60d873fb9ee7",
+    "8cbce21d0a84",
+    "16b4d05ef32f"
+   ],
+   "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+   "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/"
+  },
+  {
+   "lead": "b8fbe97c6f0a",
+   "score": 10.69,
+   "count": 7,
+   "sources": [
+    "Common Dreams",
+    "NDTV",
+    "Nacionale",
+    "Newsweek",
+    "The American Bazaar",
+    "The Rundown AI",
+    "TheWrap"
+   ],
+   "related": [
+    "5c593752639f",
+    "36a43450f00e",
+    "cac183926a73",
+    "68763860d8be",
+    "657ad28dddc5",
+    "181c7f80c558"
+   ],
+   "title": "Meta’s AI chief says superintelligence is ‘arriving’",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYmk1QWlnMHUtdU5qRjNCNUtpOXozdzc4UHpLSnVIb25JdjVOODdhMmpRTnBwUS00NUdsdjJLaTZiU0lfbmxNR2FoY0RXb0pmbkNQMy1ZWHJDNjUyRlZidzd0eGNSSkFvNWtRaVRFWmJuY21JLURUYjIyLUlMRHBPYw?oc=5"
+  },
+  {
+   "lead": "9824edc2f485",
+   "score": 9.3,
+   "count": 3,
+   "sources": [
+    "Hacker News",
+    "TechCrunch"
+   ],
+   "related": [
+    "0111dfba56a6",
+    "bc9058b8abe3"
+   ],
+   "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+   "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
+  },
+  {
+   "lead": "85ad47dc9b77",
+   "score": 9.19,
+   "count": 3,
+   "sources": [
+    "Ars Technica",
+    "Hacker News",
+    "TechCrunch"
+   ],
+   "related": [
+    "fdd5f51e8faf",
+    "e213ef04a870"
+   ],
+   "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+   "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/"
+  },
+  {
+   "lead": "6d8e6f7899d4",
+   "score": 9.18,
+   "count": 6,
+   "sources": [
+    "Securities.io",
+    "TradingView",
+    "Yahoo Finance",
+    "Zacks Investment Research",
+    "citybiz",
+    "marketscreener.com"
+   ],
+   "related": [
+    "9c5a2b1ae445",
+    "4ca5125b0168",
+    "c7f3248e738b",
+    "63c91e6cc91f",
+    "d1c2a3454c20"
+   ],
+   "title": "Can Workday's C1.ai Acquisition Advance Its AI Growth Prospects?",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcjNSZy1jcDhuZUMyU0pmTGUzVDFiUjNXcTBQN3pLa2Z2bi1OVTV0OHdibVA1Tzd2U1I0akc5b1NLVm9CWkVGMWt6bUFxWU1nZS13ZE5vcGhkc3R1b0xOMnBTV1ZMZEJhMHdnQUxyWWxBNXZqbnZRcm1oc1NzeUF1ekFoT2UwRHRnYUIwTTlTV1ZTRlhEazQ5YnBJb3NYYXBHd3hJYg?oc=5"
+  },
+  {
+   "lead": "43b498f2b7e3",
+   "score": 8.47,
+   "count": 6,
+   "sources": [
+    "Decrypt",
+    "Reuters",
+    "TechCrunch",
+    "TestingCatalog AI News",
+    "www.trendingtopics.eu"
+   ],
+   "related": [
+    "3a27433fabd0",
+    "72d446641aad",
+    "6286994560e1",
+    "b3101c1ca810",
+    "9ac21f192a97"
+   ],
+   "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+   "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+  },
+  {
+   "lead": "75d91f4f102c",
+   "score": 7.89,
+   "count": 5,
+   "sources": [
+    "Bloomberg.com",
+    "Crypto Briefing",
+    "PRESS Insider",
+    "The Daily Star",
+    "marketscreener.com"
+   ],
+   "related": [
+    "66d8597e8ca3",
+    "913690b768df",
+    "e747bd01bb40",
+    "ec6afe0a38e2"
+   ],
+   "title": "DeepSeek founder Liang Wenfeng's wealth rises to $55 billion",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcC1ueG0yTXVDM1lXMXY2TlFoWVlxTHVqU25OUVlfZVJoYzdKOVlYM0tzMTcyc3ZVZVA5bVluaFJ0dElnTEFiXzZkSHdONzdiSWJldDFLUUZHWXoyUDM4MGVENTM2NGpzZTlkQVJCZUZPMXBvZWxld0dUUWhMb0RlM3Q3bkEwVElUZTJpZUpIckt0Z1pYcGlDYl9XTDkwd055M1hhM2pPVWR6WkJuOF9Pa1N5SQ?oc=5"
+  }
+ ],
+ "papers": [
+  {
+   "id": "a90a868b5e0f",
+   "title": "Motion Mamba 2.0: Autoregressive Diffusion Mamba for Long-Horizon Humanoid Control",
+   "url": "https://huggingface.co/papers/2611.29897",
+   "upvotes": 172
+  },
+  {
+   "id": "316e6b12da0b",
+   "title": "WorldLeague: Benchmarking Physical Agency",
+   "url": "https://huggingface.co/papers/2611.30989",
+   "upvotes": 101
+  },
+  {
+   "id": "4b17f79747b0",
+   "title": "Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness",
+   "url": "https://huggingface.co/papers/2611.31201",
+   "upvotes": 90
+  },
+  {
+   "id": "71d7a8ddbc52",
+   "title": "3AGameFactory-Motion: Agentic Rigging and Reliable Complex Motion Generation for Diverse 3D Assets",
+   "url": "https://huggingface.co/papers/2611.30013",
+   "upvotes": 57
+  },
+  {
+   "id": "80b6d0407b04",
+   "title": "WeMM-Ecom: Advancing Multimodal Content Understanding for WeChat E-Commerce",
+   "url": "https://huggingface.co/papers/2611.30662",
+   "upvotes": 55
+  },
+  {
+   "id": "4dd75576157e",
+   "title": "A Glimpse of Training VLMs as Foundation Models for Robotic Manipulation",
+   "url": "https://huggingface.co/papers/2611.29338",
+   "upvotes": 53
+  }
+ ],
+ "models": [
+  {
+   "id": "thinkingmachines/Inkling-2-Mini",
+   "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+   "org": "thinkingmachines",
+   "task": "image-text-to-text",
+   "likes": 5788,
+   "downloads": 69042,
+   "trending": 1242.5,
+   "created": "2026-11-17T00:26:57.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "unsloth/Inkling-2-Mini-GGUF",
+   "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+   "org": "unsloth",
+   "task": "image-text-to-text",
+   "likes": 1258,
+   "downloads": 1913407,
+   "trending": 1096,
+   "created": "2026-11-20T13:09:48.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "inworld/voice-isolator",
+   "url": "https://huggingface.co/inworld/voice-isolator",
+   "org": "inworld",
+   "task": "audio-to-audio",
+   "likes": 818,
+   "downloads": 12733,
+   "trending": 630,
+   "created": "2026-11-14T02:14:35.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+   "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+   "org": "AtomicChat",
+   "task": "image-text-to-text",
+   "likes": 758,
+   "downloads": 573775,
+   "trending": 442.4,
+   "created": "2026-11-20T20:42:23.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "harness-hub/Qwen3.8-27B-pi-adapted",
+   "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+   "org": "harness-hub",
+   "task": "image-text-to-text",
+   "likes": 1072,
+   "downloads": 3529,
+   "trending": 292,
+   "created": "2026-11-16T06:52:31.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "SulphurAI/Sulphur-3",
+   "url": "https://huggingface.co/SulphurAI/Sulphur-3",
+   "org": "SulphurAI",
+   "task": null,
+   "likes": 920,
+   "downloads": 160965,
+   "trending": 256,
+   "created": "2026-10-31T20:31:01.000Z",
+   "license": "other"
+  }
+ ]
+}
