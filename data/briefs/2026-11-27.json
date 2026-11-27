@@ -1,0 +1,256 @@
+{
+ "date": "2026-11-27",
+ "generated_at": "2026-11-27T01:50:37Z",
+ "stories": [
+  {
+   "lead": "4c44ce30146b",
+   "score": 8.7,
+   "count": 5,
+   "sources": [
+    "Decrypt",
+    "Hacker News",
+    "TechCrunch",
+    "TechRadar"
+   ],
+   "related": [
+    "78cc0e653146",
+    "244a3e8cb4f1",
+    "097d58f2505d",
+    "8298582b3bd0"
+   ],
+   "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+   "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+  },
+  {
+   "lead": "c881f1e71110",
+   "score": 7.39,
+   "count": 4,
+   "sources": [
+    "Gizmodo",
+    "KVUE",
+    "TechCrunch",
+    "Yahoo Finance"
+   ],
+   "related": [
+    "af2de81b350d",
+    "b0e16b0c0e06",
+    "1e06ae43870e"
+   ],
+   "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+   "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+  },
+  {
+   "lead": "6359c2ce0900",
+   "score": 4.36,
+   "count": 3,
+   "sources": [
+    "CNN",
+    "TechCrunch",
+    "The Verge"
+   ],
+   "related": [
+    "f977d1ba8831",
+    "6205d1dfb2f6"
+   ],
+   "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+   "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+  },
+  {
+   "lead": "0949b1a41cca",
+   "score": 4.36,
+   "count": 3,
+   "sources": [
+    "Computerworld",
+    "Mashable",
+    "Wccftech"
+   ],
+   "related": [
+    "9520a5cc2c25",
+    "c77432b5eb74"
+   ],
+   "title": "Anthropic's Claude now lets you turn artifacts into apps",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lOEh5SzRKaG8yT3M1czlwM09oU1gxQlFrdFB6b3lBQ0RmdkxyeG5XUXNUY01CcmdMT0lpS0o1YUx2TXNJTUhjeFJaR0RuRkNVcmJERnk3a0tnQ00?oc=5"
+  },
+  {
+   "lead": "19dd4641586d",
+   "score": 4.23,
+   "count": 1,
+   "sources": [
+    "Hacker News"
+   ],
+   "related": [],
+   "title": "AI made self-hosting fun again",
+   "url": "https://janlukas.blog/posts/ai-self-hosting"
+  },
+  {
+   "lead": "4faaa3acd738",
+   "score": 4.13,
+   "count": 2,
+   "sources": [
+    "Hacker News",
+    "Simon Willison"
+   ],
+   "related": [
+    "dc69597abec1"
+   ],
+   "title": "The New York Times warns photographers not to update Photoshop over AI features",
+   "url": "https://simonwillison.net/2026/Nov/26/hn-50651685/"
+  },
+  {
+   "lead": "c83866a1dbc9",
+   "score": 3.72,
+   "count": 1,
+   "sources": [
+    "Hacker News"
+   ],
+   "related": [],
+   "title": "Tracking Diseases Cured by AI",
+   "url": "https://diseasescuredbyai.com/"
+  },
+  {
+   "lead": "1d45997e4997",
+   "score": 3.68,
+   "count": 1,
+   "sources": [
+    "Hacker News"
+   ],
+   "related": [],
+   "title": "AMD-specific fork of llama.cpp",
+   "url": "https://devnull.land/amd-specific-llama-cpp"
+  },
+  {
+   "lead": "c0f2de19f056",
+   "score": 3.3,
+   "count": 2,
+   "sources": [
+    "TechCrunch",
+    "The Verge"
+   ],
+   "related": [
+    "92419877312e"
+   ],
+   "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+   "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
+  },
+  {
+   "lead": "afda111276cc",
+   "score": 3.08,
+   "count": 2,
+   "sources": [
+    "Pasquale Pillitteri",
+    "Startup Fortune"
+   ],
+   "related": [
+    "774fb6e236c2"
+   ],
+   "title": "Zhipu's GLM-5.5 Reportedly Faces a 2027 Slip That an Executive Disputes",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVHpXUTVacVZnWnBNbjVwNVZmdnRpM09PVWtyT283b3pJTE9QclV6b3dkOF9UTHZEanRMVXpGZ1hMaWdPT1k4M3Y3UlZsczl1N01YeXlQNjFsS0tfS0tYVEJ4a0E2VmZOb3NZVC1SaG1sTVJjWEsxbl9XN1d6VWhRVkgtMnp6MDA4UXhCMUNaWDNUZEpPWTBGQnJBcGRFdw?oc=5"
+  }
+ ],
+ "papers": [
+  {
+   "id": "de55fe526105",
+   "title": "Real2SimLab: A Unified Platform for Real-to-Simulation Transfer",
+   "url": "https://huggingface.co/papers/2611.34849",
+   "upvotes": 104
+  },
+  {
+   "id": "f717d7d51a9f",
+   "title": "Lazy Agents Answer Against Their Own Beliefs: Reinforcement Learning with Verifiable Beliefs Teaches Them to Act on What They Believe",
+   "url": "https://huggingface.co/papers/2611.32884",
+   "upvotes": 98
+  },
+  {
+   "id": "6717576b9778",
+   "title": "Sage-Med: Scaling Medical Multimodal Intelligence",
+   "url": "https://huggingface.co/papers/2611.34575",
+   "upvotes": 89
+  },
+  {
+   "id": "7fc61acd4d15",
+   "title": "Mixture-of-Loops Transformer",
+   "url": "https://huggingface.co/papers/2611.34923",
+   "upvotes": 61
+  },
+  {
+   "id": "e44c65cf42c4",
+   "title": "VibeVideoAgent: Closing the Perceptual Loop for Code-Driven Video Generation",
+   "url": "https://huggingface.co/papers/2611.34237",
+   "upvotes": 54
+  },
+  {
+   "id": "79b8f2711699",
+   "title": "Improving and Expanding Video Editing Capabilities Without Videos",
+   "url": "https://huggingface.co/papers/2611.34941",
+   "upvotes": 44
+  }
+ ],
+ "models": [
+  {
+   "id": "thinkingmachines/Inkling-2-Mini",
+   "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+   "org": "thinkingmachines",
+   "task": "image-text-to-text",
+   "likes": 6261,
+   "downloads": 96527,
+   "trending": 1407.5,
+   "created": "2026-11-17T00:26:57.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "unsloth/Inkling-2-Mini-GGUF",
+   "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+   "org": "unsloth",
+   "task": "image-text-to-text",
+   "likes": 1497,
+   "downloads": 2445633,
+   "trending": 1240,
+   "created": "2026-11-20T13:09:48.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+   "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+   "org": "AtomicChat",
+   "task": "image-text-to-text",
+   "likes": 936,
+   "downloads": 762491,
+   "trending": 508.2,
+   "created": "2026-11-20T20:42:23.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "inworld/voice-isolator",
+   "url": "https://huggingface.co/inworld/voice-isolator",
+   "org": "inworld",
+   "task": "audio-to-audio",
+   "likes": 966,
+   "downloads": 15244,
+   "trending": 490,
+   "created": "2026-11-14T02:14:35.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "SulphurAI/Sulphur-3",
+   "url": "https://huggingface.co/SulphurAI/Sulphur-3",
+   "org": "SulphurAI",
+   "task": null,
+   "likes": 1214,
+   "downloads": 189735,
+   "trending": 483,
+   "created": "2026-10-31T20:31:01.000Z",
+   "license": "other"
+  },
+  {
+   "id": "prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+   "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+   "org": "prism-ml",
+   "task": "text-generation",
+   "likes": 524,
+   "downloads": 59366,
+   "trending": 453,
+   "created": "2026-11-24T16:32:20.000Z",
+   "license": "apache-2.0"
+  }
+ ]
+}
