@@ -1,0 +1,250 @@
+{
+ "date": "2026-11-28",
+ "generated_at": "2026-11-28T01:46:26Z",
+ "stories": [
+  {
+   "lead": "c238d9af1e2b",
+   "score": 9.4,
+   "count": 5,
+   "sources": [
+    "Al Jazeera",
+    "CBS News",
+    "CNN",
+    "New York Post",
+    "Washington Examiner"
+   ],
+   "related": [
+    "a123534054dc",
+    "2db393afd7f8",
+    "f7aa066b6eaa",
+    "8f12aaa3a195"
+   ],
+   "title": "OpenAI countersues Apple over trade secrets as AI race heats up",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON1UyNzVUM1VWYllDUVB5Rl9LVDYwZExiMWt2WFp4eWVUckVjdDhqbFFfSXR1b2NiRm9LbFZQZ2xlZTNkRmtaSkZnb2M4ekJwVkVxbE1jdmNlazc2QUMxallwb1JpTWRvVk9ZOW12SVM5MTZ4RS1CQkNGcW5qZlMySWJZTjBkNXBtZXByR0NuVWdJZWVXWW8zcWRsTUF1ZUJXMlNVNWxEM2l0VThn0gGyAUFVX3lxTE16T05QbEdEbTdCUklBU3kyX05YX2RxaTZrVl9yWTEtWDF4dThXOFAyODNDTjFHTy1LRmJkZEJpd1E0eTBOaWxkS0NXV1BIWFo0V1ZTU01JMzd5bVpkMHFWTEhSNEVBT3E1cXd1NVJFbEJtSXFURGpxMzlKOWtNTXg1amFKZDhEOWttUlhkU1Y2UmVnSUgwRWZqWmJmTzdRaVBNM01pczFxTnh0RzYxRk02MFE?oc=5"
+  },
+  {
+   "lead": "e0775a9b5695",
+   "score": 9.18,
+   "count": 5,
+   "sources": [
+    "AppleInsider",
+    "Bloomberg.com",
+    "CNBC",
+    "Financial Times",
+    "Yahoo Finance"
+   ],
+   "related": [
+    "f7364d525806",
+    "9b602f42df80",
+    "8e7c7af39f08",
+    "26332341edf9"
+   ],
+   "title": "OpenAI says a spy handed Apple secret plans for AI devices that could 'outcompete' the iPhone maker on its 'own turf'",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWmROekpXeTBPR2Fqd2xTbjhkTWRQcm5LZVEtcFJjZlRhMGloQXFBY1ctTW5lX1JEODloRnRKYTJuSVRnRU9PQ1RlRjdlOFI3eWJBSFBmaTdnNXN5VUZ6VVhRX1h6cTF0S3VTMFVFazVGN21FVzVrUFNRa3c3U2szS3FpTmxWVlhHaEJnaFI0eVc1djdPY0Zz?oc=5"
+  },
+  {
+   "lead": "a906dcee5eb9",
+   "score": 5.7,
+   "count": 4,
+   "sources": [
+    "9to5Mac",
+    "Tech Times",
+    "iMore",
+    "조선일보"
+   ],
+   "related": [
+    "10ea895a00b9",
+    "daa1c3a1b3b7",
+    "94109ceba187"
+   ],
+   "title": "Why South Korea is reviewing Apple’s iPhone 16 ads",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVzRpeDhpQWpRSU96eGdDODZDOTY3U1phZzdBRElBaGJTRmwzRjVUa3BqUkJOd3V6Z282RG5kWEFYb2dRNWtZTE14NnV1YWwyZmVHUjFqLXotS0dKTU9NeXUwcjZ0dzctUTdZckRveUw0dGVpLUp5d0UyLVV6SFBzQnRwYTlIMmgtakhkMS03d2ZnWjVFRHAwUmVDRU5OZFM1Wnl0NnhCWF80N2c5OWdic0N3LVZKUW1fQXJXaHA2el9sQTQxal8yTGNhRlJQY3A4MkpUeFRCV0FhVHpUeV82OXp3?oc=5"
+  },
+  {
+   "lead": "77ab3d65a278",
+   "score": 3.58,
+   "count": 1,
+   "sources": [
+    "Hacker News"
+   ],
+   "related": [],
+   "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+   "url": "https://research.google/blog/supercharging-transformer-residual-connections/"
+  },
+  {
+   "lead": "f21d90605390",
+   "score": 3.57,
+   "count": 1,
+   "sources": [
+    "Hacker News"
+   ],
+   "related": [],
+   "title": "I'm Scared of AI",
+   "url": "https://thesoapbox.email/archive/3"
+  },
+  {
+   "lead": "01cdd83d3c55",
+   "score": 3.22,
+   "count": 1,
+   "sources": [
+    "Hacker News"
+   ],
+   "related": [],
+   "title": "GPT 6.2 Astra solves a historical mystery",
+   "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical"
+  },
+  {
+   "lead": "138e1e18872d",
+   "score": 3.2,
+   "count": 1,
+   "sources": [
+    "Hacker News"
+   ],
+   "related": [],
+   "title": "Claude sabotaging ML research tasks?",
+   "url": "https://twitter.com/RealAstropulse/status/2126119408997466389"
+  },
+  {
+   "lead": "74835a583675",
+   "score": 3.1,
+   "count": 1,
+   "sources": [
+    "Hacker News"
+   ],
+   "related": [],
+   "title": "Group chat where your AI talks behind your back",
+   "url": "https://construct22.com/"
+  },
+  {
+   "lead": "4f426f509098",
+   "score": 2.73,
+   "count": 1,
+   "sources": [
+    "Hacker News"
+   ],
+   "related": [],
+   "title": "AI on brink of making online security useless, mathematicians fear",
+   "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8"
+  },
+  {
+   "lead": "e48261dc2cc0",
+   "score": 2.67,
+   "count": 2,
+   "sources": [
+    "MLQ.ai",
+    "TechNode"
+   ],
+   "related": [
+    "e1324f362a6b"
+   ],
+   "title": "Alibaba's Qwen denies post-training chief Zhou Hao has left, plans to sue",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWGZscTdEZTBCc1hLLXlybzhvdXRzazdwUTl3UlJ5N21ZVC1FdE0yX05QalF6Tl9LMVdWa2x3dGY3aWJ6bHhsQmNWZFBkOElfY3Y0eUtycWtyTFB6Tld5OXlyZmN4OXRwMzFPZzFzU2ZCQ0drUGJCblVuOVhsMUJCX1NHQTF2MzlXYW41cnJ4cWFBdEIxSVRF?oc=5"
+  }
+ ],
+ "papers": [
+  {
+   "id": "ec4696bbb02f",
+   "title": "Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability",
+   "url": "https://huggingface.co/papers/2611.34051",
+   "upvotes": 128
+  },
+  {
+   "id": "ea247b47b521",
+   "title": "OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms",
+   "url": "https://huggingface.co/papers/2611.34232",
+   "upvotes": 103
+  },
+  {
+   "id": "6717576b9778",
+   "title": "Sage-Med: Scaling Medical Multimodal Intelligence",
+   "url": "https://huggingface.co/papers/2611.34575",
+   "upvotes": 81
+  },
+  {
+   "id": "7fc61acd4d15",
+   "title": "Mixture-of-Loops Transformer",
+   "url": "https://huggingface.co/papers/2611.34923",
+   "upvotes": 74
+  },
+  {
+   "id": "07af9c5780f0",
+   "title": "Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models",
+   "url": "https://huggingface.co/papers/2611.34813",
+   "upvotes": 59
+  },
+  {
+   "id": "e44c65cf42c4",
+   "title": "VibeVideoAgent: Closing the Perceptual Loop for Code-Driven Video Generation",
+   "url": "https://huggingface.co/papers/2611.34237",
+   "upvotes": 58
+  }
+ ],
+ "models": [
+  {
+   "id": "thinkingmachines/Inkling-2-Mini",
+   "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+   "org": "thinkingmachines",
+   "task": "image-text-to-text",
+   "likes": 6469,
+   "downloads": 155741,
+   "trending": 1240.5,
+   "created": "2026-11-17T00:26:57.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "unsloth/Inkling-2-Mini-GGUF",
+   "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+   "org": "unsloth",
+   "task": "image-text-to-text",
+   "likes": 1614,
+   "downloads": 3302340,
+   "trending": 1111,
+   "created": "2026-11-20T13:09:48.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "SulphurAI/Sulphur-3",
+   "url": "https://huggingface.co/SulphurAI/Sulphur-3",
+   "org": "SulphurAI",
+   "task": null,
+   "likes": 1369,
+   "downloads": 539421,
+   "trending": 569,
+   "created": "2026-10-31T20:31:01.000Z",
+   "license": "other"
+  },
+  {
+   "id": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+   "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+   "org": "AtomicChat",
+   "task": "image-text-to-text",
+   "likes": 1037,
+   "downloads": 1059763,
+   "trending": 545.3,
+   "created": "2026-11-20T20:42:23.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+   "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+   "org": "prism-ml",
+   "task": "text-generation",
+   "likes": 639,
+   "downloads": 382546,
+   "trending": 540,
+   "created": "2026-11-24T16:32:20.000Z",
+   "license": "apache-2.0"
+  },
+  {
+   "id": "inworld/voice-isolator",
+   "url": "https://huggingface.co/inworld/voice-isolator",
+   "org": "inworld",
+   "task": "audio-to-audio",
+   "likes": 1015,
+   "downloads": 20510,
+   "trending": 421,
+   "created": "2026-11-14T02:14:35.000Z",
+   "license": "apache-2.0"
+  }
+ ]
+}
